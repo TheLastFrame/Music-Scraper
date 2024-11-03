@@ -1,0 +1,501 @@
+Artist,Song,ValidLink,ID,KworbLink,Spotify Link
+Bruce Springsteen,Dancing In the Dark,True,7FwBtcecmlpc1sLySPXeGE,https://kworb.net/spotify/track/7FwBtcecmlpc1sLySPXeGE.html,https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE
+Bruce Springsteen,I'm On Fire,True,3PzsbWSQdLCKDLxn7YZfkM,https://kworb.net/spotify/track/3PzsbWSQdLCKDLxn7YZfkM.html,https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM
+Bruce Springsteen,Born in the U.S.A.,True,0dOg1ySSI7NkpAe89Zo0b9,https://kworb.net/spotify/track/0dOg1ySSI7NkpAe89Zo0b9.html,https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9
+Bruce Springsteen,Born to Run,True,6hTcuIQa0sxrrByu9wTD7s,https://kworb.net/spotify/track/6hTcuIQa0sxrrByu9wTD7s.html,https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s
+Bruce Springsteen,Streets of Philadelphia - Single Edit,True,3fbnbn6A5O5RNb08tlUEgd,https://kworb.net/spotify/track/3fbnbn6A5O5RNb08tlUEgd.html,https://open.spotify.com/track/3fbnbn6A5O5RNb08tlUEgd
+Bruce Springsteen,Santa Claus Is Comin' to Town,False,6Uny6PPDeCk8cGMDcVfDbM,https://kworb.net/spotify/track/6Uny6PPDeCk8cGMDcVfDbM.html,https://open.spotify.com/track/6Uny6PPDeCk8cGMDcVfDbM
+Bruce Springsteen,Hungry Heart,True,1KsI8NEeAna8ZIdojI3FiT,https://kworb.net/spotify/track/1KsI8NEeAna8ZIdojI3FiT.html,https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT
+Bruce Springsteen,Glory Days,True,2Y90nL1ohB4sgYELDs7uNx,https://kworb.net/spotify/track/2Y90nL1ohB4sgYELDs7uNx.html,https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx
+Bruce Springsteen,The River,True,7HrzErXq3TsKOY1gmdIShB,https://kworb.net/spotify/track/7HrzErXq3TsKOY1gmdIShB.html,https://open.spotify.com/track/7HrzErXq3TsKOY1gmdIShB
+Bruce Springsteen,Thunder Road,True,56lhDZNQ5J47aog6mGKeGk,https://kworb.net/spotify/track/56lhDZNQ5J47aog6mGKeGk.html,https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk
+Bruce Springsteen,Secret Garden,False,68uuz61IqrSJjO6ffO3yHc,https://kworb.net/spotify/track/68uuz61IqrSJjO6ffO3yHc.html,https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc
+Bruce Springsteen,Tougher Than the Rest,False,7i0VrdLCDhvgWXfcT6EQJG,https://kworb.net/spotify/track/7i0VrdLCDhvgWXfcT6EQJG.html,https://open.spotify.com/track/7i0VrdLCDhvgWXfcT6EQJG
+Bruce Springsteen,Badlands,False,0M1YQiRGel1tTMjA3orfRd,https://kworb.net/spotify/track/0M1YQiRGel1tTMjA3orfRd.html,https://open.spotify.com/track/0M1YQiRGel1tTMjA3orfRd
+Bruce Springsteen,My Hometown,False,6dahFmHrgncgVJjsI1ws7e,https://kworb.net/spotify/track/6dahFmHrgncgVJjsI1ws7e.html,https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e
+Bruce Springsteen,Waitin' On A Sunny Day,False,7vIyudiO2Tr9hZ2yzfwQmx,https://kworb.net/spotify/track/7vIyudiO2Tr9hZ2yzfwQmx.html,https://open.spotify.com/track/7vIyudiO2Tr9hZ2yzfwQmx
+Bruce Springsteen,Human Touch,False,1o53HbxmOy5TzThJdBaDZb,https://kworb.net/spotify/track/1o53HbxmOy5TzThJdBaDZb.html,https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb
+Bruce Springsteen,Brilliant Disguise,False,0nqbZ17t9v52SCemAm1QP0,https://kworb.net/spotify/track/0nqbZ17t9v52SCemAm1QP0.html,https://open.spotify.com/track/0nqbZ17t9v52SCemAm1QP0
+Bruce Springsteen,Radio Nowhere,False,7zrHnJ87htwgS20PzFmgTr,https://kworb.net/spotify/track/7zrHnJ87htwgS20PzFmgTr.html,https://open.spotify.com/track/7zrHnJ87htwgS20PzFmgTr
+Bruce Springsteen,I'm Goin' Down,False,0VkDedVtP7TQDlaCMq9QVx,https://kworb.net/spotify/track/0VkDedVtP7TQDlaCMq9QVx.html,https://open.spotify.com/track/0VkDedVtP7TQDlaCMq9QVx
+Bruce Springsteen,Atlantic City,True,1Vp8U39YNsDfd6yVuaUq12,https://kworb.net/spotify/track/1Vp8U39YNsDfd6yVuaUq12.html,https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12
+Bruce Springsteen,Streets of Philadelphia,False,6jX84DZBIBRRUnZ4kju4Mt,https://kworb.net/spotify/track/6jX84DZBIBRRUnZ4kju4Mt.html,https://open.spotify.com/track/6jX84DZBIBRRUnZ4kju4Mt
+Bruce Springsteen,*Chinatown (feat. Bruce Springsteen),False,1AA3ZjLo9tD2iSZAs2svyj,https://kworb.net/spotify/track/1AA3ZjLo9tD2iSZAs2svyj.html,https://open.spotify.com/track/1AA3ZjLo9tD2iSZAs2svyj
+Bruce Springsteen,The Rising,False,2czBvzOv3TvnyoW7Ozo7fP,https://kworb.net/spotify/track/2czBvzOv3TvnyoW7Ozo7fP.html,https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP
+Bruce Springsteen,Cover Me,False,4U7NhC2rQTAhH7dw7H0goB,https://kworb.net/spotify/track/4U7NhC2rQTAhH7dw7H0goB.html,https://open.spotify.com/track/4U7NhC2rQTAhH7dw7H0goB
+Bruce Springsteen,*Sandpaper (feat. Bruce Springsteen),True,3JzVK0f8gqAAjyEDyXAys4,https://kworb.net/spotify/track/3JzVK0f8gqAAjyEDyXAys4.html,https://open.spotify.com/track/3JzVK0f8gqAAjyEDyXAys4
+Bruce Springsteen,Tenth Avenue Freeze-Out,False,4Gmdm6oRVwJgsM8gYnwRoE,https://kworb.net/spotify/track/4Gmdm6oRVwJgsM8gYnwRoE.html,https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE
+Bruce Springsteen,Sad Eyes - Studio Outtake - 1990,False,29b70iOlgRkYQ8ZzINZXph,https://kworb.net/spotify/track/29b70iOlgRkYQ8ZzINZXph.html,https://open.spotify.com/track/29b70iOlgRkYQ8ZzINZXph
+Bruce Springsteen,Rosalita (Come Out Tonight),False,4Z80C8NlDd1AO4axf1O3n0,https://kworb.net/spotify/track/4Z80C8NlDd1AO4axf1O3n0.html,https://open.spotify.com/track/4Z80C8NlDd1AO4axf1O3n0
+Bruce Springsteen,No Surrender,False,2zMlWt4aYreVczVERFK94w,https://kworb.net/spotify/track/2zMlWt4aYreVczVERFK94w.html,https://open.spotify.com/track/2zMlWt4aYreVczVERFK94w
+Bruce Springsteen,Hello Sunshine,False,5bpaHLJ08GNBKW35ZfCYJy,https://kworb.net/spotify/track/5bpaHLJ08GNBKW35ZfCYJy.html,https://open.spotify.com/track/5bpaHLJ08GNBKW35ZfCYJy
+Bruce Springsteen,Downbound Train,False,4a0oZYU2ntSUof4lkm2PCl,https://kworb.net/spotify/track/4a0oZYU2ntSUof4lkm2PCl.html,https://open.spotify.com/track/4a0oZYU2ntSUof4lkm2PCl
+Bruce Springsteen,The Ghost of Tom Joad,False,4RaxnzmTN4bojbbEYtvXjk,https://kworb.net/spotify/track/4RaxnzmTN4bojbbEYtvXjk.html,https://open.spotify.com/track/4RaxnzmTN4bojbbEYtvXjk
+Bruce Springsteen,Jungleland,False,3R2q3FCnNIw2XhuEbYtYk6,https://kworb.net/spotify/track/3R2q3FCnNIw2XhuEbYtYk6.html,https://open.spotify.com/track/3R2q3FCnNIw2XhuEbYtYk6
+Bruce Springsteen,The Promised Land,False,2KQq1pn2eUDEFitdQ4WzzZ,https://kworb.net/spotify/track/2KQq1pn2eUDEFitdQ4WzzZ.html,https://open.spotify.com/track/2KQq1pn2eUDEFitdQ4WzzZ
+Bruce Springsteen,Backstreets,False,4cKJsZuzbNBpdxeMC9pBQG,https://kworb.net/spotify/track/4cKJsZuzbNBpdxeMC9pBQG.html,https://open.spotify.com/track/4cKJsZuzbNBpdxeMC9pBQG
+Bruce Springsteen,Blinded By The Light,False,1VyDQtfhX6gqhWTGU7Oe8X,https://kworb.net/spotify/track/1VyDQtfhX6gqhWTGU7Oe8X.html,https://open.spotify.com/track/1VyDQtfhX6gqhWTGU7Oe8X
+Bruce Springsteen,Letter To You,True,4Ngh6rMVUCOFK30oO0iEMD,https://kworb.net/spotify/track/4Ngh6rMVUCOFK30oO0iEMD.html,https://open.spotify.com/track/4Ngh6rMVUCOFK30oO0iEMD
+Bruce Springsteen,Racing in the Street,False,4L6ZmbSmjH5swqGWrelrrN,https://kworb.net/spotify/track/4L6ZmbSmjH5swqGWrelrrN.html,https://open.spotify.com/track/4L6ZmbSmjH5swqGWrelrrN
+Bruce Springsteen,"Jersey Girl - Live at Meadowlands Arena, E. Rutherford, NJ - July 1981",False,3kqC9r9ilM63AogQ47RVpu,https://kworb.net/spotify/track/3kqC9r9ilM63AogQ47RVpu.html,https://open.spotify.com/track/3kqC9r9ilM63AogQ47RVpu
+Bruce Springsteen,We Take Care of Our Own,False,4KGbQXQ8HKVypeKJslxQtH,https://kworb.net/spotify/track/4KGbQXQ8HKVypeKJslxQtH.html,https://open.spotify.com/track/4KGbQXQ8HKVypeKJslxQtH
+Bruce Springsteen,Ghosts,False,6ZOdsfgq6ygEPnG3nCIY8L,https://kworb.net/spotify/track/6ZOdsfgq6ygEPnG3nCIY8L.html,https://open.spotify.com/track/6ZOdsfgq6ygEPnG3nCIY8L
+Bruce Springsteen,One Step Up,False,3ICZte49haM8ID7H6LSSjb,https://kworb.net/spotify/track/3ICZte49haM8ID7H6LSSjb.html,https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb
+Bruce Springsteen,Out In the Street,True,1k7CqKKwQu4zIK6DrsuqKG,https://kworb.net/spotify/track/1k7CqKKwQu4zIK6DrsuqKG.html,https://open.spotify.com/track/1k7CqKKwQu4zIK6DrsuqKG
+Bruce Springsteen,Pink Cadillac - Single B-Side - 1984,False,3zG1YiTu53KCt8W56psgs2,https://kworb.net/spotify/track/3zG1YiTu53KCt8W56psgs2.html,https://open.spotify.com/track/3zG1YiTu53KCt8W56psgs2
+Bruce Springsteen,Prove It All Night,False,0Ye9OGxiHF3jylblTCuX7Q,https://kworb.net/spotify/track/0Ye9OGxiHF3jylblTCuX7Q.html,https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q
+Bruce Springsteen,Bobby Jean,False,2KPzDsCtQtIM0Lkh3RacRC,https://kworb.net/spotify/track/2KPzDsCtQtIM0Lkh3RacRC.html,https://open.spotify.com/track/2KPzDsCtQtIM0Lkh3RacRC
+Bruce Springsteen,Sherry Darling,True,5JgS0FY22HtNpFAJTo507k,https://kworb.net/spotify/track/5JgS0FY22HtNpFAJTo507k.html,https://open.spotify.com/track/5JgS0FY22HtNpFAJTo507k
+Bruce Springsteen,Wrecking Ball,False,4LKlmGTWGY8SHfIw0c9jQu,https://kworb.net/spotify/track/4LKlmGTWGY8SHfIw0c9jQu.html,https://open.spotify.com/track/4LKlmGTWGY8SHfIw0c9jQu
+Bruce Springsteen,Fire,False,0Tk2agqmwJajtoX6sCxngb,https://kworb.net/spotify/track/0Tk2agqmwJajtoX6sCxngb.html,https://open.spotify.com/track/0Tk2agqmwJajtoX6sCxngb
+Bruce Springsteen,Darkness On the Edge of Town,False,6fBy4h0spon7gkmZroCRmR,https://kworb.net/spotify/track/6fBy4h0spon7gkmZroCRmR.html,https://open.spotify.com/track/6fBy4h0spon7gkmZroCRmR
+Bruce Springsteen,Working on the Highway,False,1n16ZEz2uuWO1Dx01dVWua,https://kworb.net/spotify/track/1n16ZEz2uuWO1Dx01dVWua.html,https://open.spotify.com/track/1n16ZEz2uuWO1Dx01dVWua
+Bruce Springsteen,Human Touch - Single Edit,False,68lxYbgjSltSxiDPeyQN3Q,https://kworb.net/spotify/track/68lxYbgjSltSxiDPeyQN3Q.html,https://open.spotify.com/track/68lxYbgjSltSxiDPeyQN3Q
+Bruce Springsteen,*Dustland (feat. Bruce Springsteen),True,6F3AStga2KRSJVZvVA5L3c,https://kworb.net/spotify/track/6F3AStga2KRSJVZvVA5L3c.html,https://open.spotify.com/track/6F3AStga2KRSJVZvVA5L3c
+Bruce Springsteen,Nightshift,False,19nEbLE6eLXatpuMw3rdtM,https://kworb.net/spotify/track/19nEbLE6eLXatpuMw3rdtM.html,https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM
+Bruce Springsteen,Working On a Dream,False,08QZBupqwLXOalOpgiTi5e,https://kworb.net/spotify/track/08QZBupqwLXOalOpgiTi5e.html,https://open.spotify.com/track/08QZBupqwLXOalOpgiTi5e
+Bruce Springsteen,"Because the Night - Live at Nassau Coliseum, Uniondale, NY - December 1980",False,24qoogZedlX1wdR4AbzTSB,https://kworb.net/spotify/track/24qoogZedlX1wdR4AbzTSB.html,https://open.spotify.com/track/24qoogZedlX1wdR4AbzTSB
+Bruce Springsteen,Because the Night,False,47pgnnmY0R0spkwAMMWpNq,https://kworb.net/spotify/track/47pgnnmY0R0spkwAMMWpNq.html,https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq
+Bruce Springsteen,Tunnel of Love,False,2rUHBIfbMBB92n1gSfSqwF,https://kworb.net/spotify/track/2rUHBIfbMBB92n1gSfSqwF.html,https://open.spotify.com/track/2rUHBIfbMBB92n1gSfSqwF
+Bruce Springsteen,If I Should Fall Behind,False,2mOGLiSTUeki1l9t1BBNRQ,https://kworb.net/spotify/track/2mOGLiSTUeki1l9t1BBNRQ.html,https://open.spotify.com/track/2mOGLiSTUeki1l9t1BBNRQ
+Bruce Springsteen,Darlington County,False,3O5RCjnjWlF0CYkcvJaGVm,https://kworb.net/spotify/track/3O5RCjnjWlF0CYkcvJaGVm.html,https://open.spotify.com/track/3O5RCjnjWlF0CYkcvJaGVm
+Bruce Springsteen,Lonesome Day,False,0R9q3imnid244T1ty47MGs,https://kworb.net/spotify/track/0R9q3imnid244T1ty47MGs.html,https://open.spotify.com/track/0R9q3imnid244T1ty47MGs
+Bruce Springsteen,Spirit in the Night,False,2D9YnxyNwj7qqA1JLyKYPR,https://kworb.net/spotify/track/2D9YnxyNwj7qqA1JLyKYPR.html,https://open.spotify.com/track/2D9YnxyNwj7qqA1JLyKYPR
+Bruce Springsteen,Do I Love You (Indeed I Do),False,0NdXIfsa0zFZDcCVpUfHQi,https://kworb.net/spotify/track/0NdXIfsa0zFZDcCVpUfHQi.html,https://open.spotify.com/track/0NdXIfsa0zFZDcCVpUfHQi
+Bruce Springsteen,Nebraska,False,7GDIQqD5pdHCda5rpZ98Ie,https://kworb.net/spotify/track/7GDIQqD5pdHCda5rpZ98Ie.html,https://open.spotify.com/track/7GDIQqD5pdHCda5rpZ98Ie
+Bruce Springsteen,The Ties That Bind,True,0t6wMTbQmXdzvEe2nnh6Vx,https://kworb.net/spotify/track/0t6wMTbQmXdzvEe2nnh6Vx.html,https://open.spotify.com/track/0t6wMTbQmXdzvEe2nnh6Vx
+Bruce Springsteen,She's the One,False,5St2IxnaIYOPflaomWB3Pz,https://kworb.net/spotify/track/5St2IxnaIYOPflaomWB3Pz.html,https://open.spotify.com/track/5St2IxnaIYOPflaomWB3Pz
+Bruce Springsteen,I'll See You In My Dreams,True,2uI2KlfpxGGVnLnpNWdhHS,https://kworb.net/spotify/track/2uI2KlfpxGGVnLnpNWdhHS.html,https://open.spotify.com/track/2uI2KlfpxGGVnLnpNWdhHS
+Bruce Springsteen,Shackled And Drawn,False,7hY5jzlcuzefRTNCOQjlo9,https://kworb.net/spotify/track/7hY5jzlcuzefRTNCOQjlo9.html,https://open.spotify.com/track/7hY5jzlcuzefRTNCOQjlo9
+Bruce Springsteen,Independence Day,False,4T4e06YhupuZAoln2qZ6Fa,https://kworb.net/spotify/track/4T4e06YhupuZAoln2qZ6Fa.html,https://open.spotify.com/track/4T4e06YhupuZAoln2qZ6Fa
+Bruce Springsteen,There Goes My Miracle,True,2NVDqyBmkPLANgy3S5He6d,https://kworb.net/spotify/track/2NVDqyBmkPLANgy3S5He6d.html,https://open.spotify.com/track/2NVDqyBmkPLANgy3S5He6d
+Bruce Springsteen,Western Stars,True,58YZTutWhYcglUHl3Udnlj,https://kworb.net/spotify/track/58YZTutWhYcglUHl3Udnlj.html,https://open.spotify.com/track/58YZTutWhYcglUHl3Udnlj
+Bruce Springsteen,One Minute You're Here,True,4VpkCmCnqgcUcysgHdTbYf,https://kworb.net/spotify/track/4VpkCmCnqgcUcysgHdTbYf.html,https://open.spotify.com/track/4VpkCmCnqgcUcysgHdTbYf
+Bruce Springsteen,Tucson Train,True,4HK0sl3lqQH0RR0dA0ZQH5,https://kworb.net/spotify/track/4HK0sl3lqQH0RR0dA0ZQH5.html,https://open.spotify.com/track/4HK0sl3lqQH0RR0dA0ZQH5
+Bruce Springsteen,The Power Of Prayer,True,0bsFL9VF0BQCIvF2cRn0Sk,https://kworb.net/spotify/track/0bsFL9VF0BQCIvF2cRn0Sk.html,https://open.spotify.com/track/0bsFL9VF0BQCIvF2cRn0Sk
+Bruce Springsteen,"The River - Live at LA Coliseum, Los Angeles, CA - September 1985",False,31UJsGtQSom5H0cNCdPD8u,https://kworb.net/spotify/track/31UJsGtQSom5H0cNCdPD8u.html,https://open.spotify.com/track/31UJsGtQSom5H0cNCdPD8u
+Bruce Springsteen,Growin' Up,False,4Gpao0RtOcrBuedyutJWaP,https://kworb.net/spotify/track/4Gpao0RtOcrBuedyutJWaP.html,https://open.spotify.com/track/4Gpao0RtOcrBuedyutJWaP
+Bruce Springsteen,"4th of July, Asbury Park (Sandy)",False,4ssCwrG2WRHV7QxLH91Xk8,https://kworb.net/spotify/track/4ssCwrG2WRHV7QxLH91Xk8.html,https://open.spotify.com/track/4ssCwrG2WRHV7QxLH91Xk8
+Bruce Springsteen,High Hopes,False,4GbPT7LQNb1nQePEcakZvo,https://kworb.net/spotify/track/4GbPT7LQNb1nQePEcakZvo.html,https://open.spotify.com/track/4GbPT7LQNb1nQePEcakZvo
+Bruce Springsteen,Girls In Their Summer Clothes,False,5kVSDFEAqgjKtcD6tRvRzY,https://kworb.net/spotify/track/5kVSDFEAqgjKtcD6tRvRzY.html,https://open.spotify.com/track/5kVSDFEAqgjKtcD6tRvRzY
+Bruce Springsteen,State Trooper,False,1Ulh5rWbhhV3PltDadTBZC,https://kworb.net/spotify/track/1Ulh5rWbhhV3PltDadTBZC.html,https://open.spotify.com/track/1Ulh5rWbhhV3PltDadTBZC
+Bruce Springsteen,My City of Ruins,False,5A2wRK7ch9tg6k5iibUsgT,https://kworb.net/spotify/track/5A2wRK7ch9tg6k5iibUsgT.html,https://open.spotify.com/track/5A2wRK7ch9tg6k5iibUsgT
+Bruce Springsteen,Dream Baby Dream,False,0un5QdMnuibGplkMHYorvg,https://kworb.net/spotify/track/0un5QdMnuibGplkMHYorvg.html,https://open.spotify.com/track/0un5QdMnuibGplkMHYorvg
+Bruce Springsteen,Adam Raised a Cain,False,39J5RXFJG6MCjHql3a0Hat,https://kworb.net/spotify/track/39J5RXFJG6MCjHql3a0Hat.html,https://open.spotify.com/track/39J5RXFJG6MCjHql3a0Hat
+Bruce Springsteen,Cadillac Ranch,False,2rYYg1HMvlNT9A1SdjSYlx,https://kworb.net/spotify/track/2rYYg1HMvlNT9A1SdjSYlx.html,https://open.spotify.com/track/2rYYg1HMvlNT9A1SdjSYlx
+Bruce Springsteen,Mary's Place,False,0g0MBBxtDRy8Igs0AzSZR4,https://kworb.net/spotify/track/0g0MBBxtDRy8Igs0AzSZR4.html,https://open.spotify.com/track/0g0MBBxtDRy8Igs0AzSZR4
+Bruce Springsteen,The Wrestler,False,6E6xVYnTszA6MerlIuiAoY,https://kworb.net/spotify/track/6E6xVYnTszA6MerlIuiAoY.html,https://open.spotify.com/track/6E6xVYnTszA6MerlIuiAoY
+Bruce Springsteen,Johnny 99,False,2ohcpZDvcIRdCE3lWxu6Tc,https://kworb.net/spotify/track/2ohcpZDvcIRdCE3lWxu6Tc.html,https://open.spotify.com/track/2ohcpZDvcIRdCE3lWxu6Tc
+Bruce Springsteen,Point Blank,False,6yMh8Xi6hhSNXtPe2e7tlj,https://kworb.net/spotify/track/6yMh8Xi6hhSNXtPe2e7tlj.html,https://open.spotify.com/track/6yMh8Xi6hhSNXtPe2e7tlj
+Bruce Springsteen,Drive All Night,False,3HuUc4Fpvg0EYvpPduj2kC,https://kworb.net/spotify/track/3HuUc4Fpvg0EYvpPduj2kC.html,https://open.spotify.com/track/3HuUc4Fpvg0EYvpPduj2kC
+Bruce Springsteen,Night,False,305AMS2fhp16LoYxKiYsXF,https://kworb.net/spotify/track/305AMS2fhp16LoYxKiYsXF.html,https://open.spotify.com/track/305AMS2fhp16LoYxKiYsXF
+Bruce Springsteen,Pay Me My Money Down,False,5MIoOiIkw77j5OGDlDbM3v,https://kworb.net/spotify/track/5MIoOiIkw77j5OGDlDbM3v.html,https://open.spotify.com/track/5MIoOiIkw77j5OGDlDbM3v
+Bruce Springsteen,"Thunder Road - Live at the Roxy Theatre, W. Hollywood, CA - October 1975",False,42oticCEgoN1HXz09pyCv5,https://kworb.net/spotify/track/42oticCEgoN1HXz09pyCv5.html,https://open.spotify.com/track/42oticCEgoN1HXz09pyCv5
+Bruce Springsteen,Death To My Hometown,False,5piFhn0sH6i5iGaESBuTJd,https://kworb.net/spotify/track/5piFhn0sH6i5iGaESBuTJd.html,https://open.spotify.com/track/5piFhn0sH6i5iGaESBuTJd
+Bruce Springsteen,House Of A Thousand Guitars,True,1SlatjHQbN3SO0JERD4Mwk,https://kworb.net/spotify/track/1SlatjHQbN3SO0JERD4Mwk.html,https://open.spotify.com/track/1SlatjHQbN3SO0JERD4Mwk
+Bruce Springsteen,For You,False,218wztz9mZdDX8Ia1OkUvq,https://kworb.net/spotify/track/218wztz9mZdDX8Ia1OkUvq.html,https://open.spotify.com/track/218wztz9mZdDX8Ia1OkUvq
+Bruce Springsteen,Land of Hope and Dreams,False,5I2pryLKw0kmA41kEBBhFP,https://kworb.net/spotify/track/5I2pryLKw0kmA41kEBBhFP.html,https://open.spotify.com/track/5I2pryLKw0kmA41kEBBhFP
+Bruce Springsteen,American Land,False,0L5pgyAg5kEO69Wn0PpS2Q,https://kworb.net/spotify/track/0L5pgyAg5kEO69Wn0PpS2Q.html,https://open.spotify.com/track/0L5pgyAg5kEO69Wn0PpS2Q
+Bruce Springsteen,Candy's Room,False,19aoReRYJtOo2vWKPffECT,https://kworb.net/spotify/track/19aoReRYJtOo2vWKPffECT.html,https://open.spotify.com/track/19aoReRYJtOo2vWKPffECT
+Bruce Springsteen,Last Man Standing,True,1LQDe2LxhReHitq7sdgLcN,https://kworb.net/spotify/track/1LQDe2LxhReHitq7sdgLcN.html,https://open.spotify.com/track/1LQDe2LxhReHitq7sdgLcN
+Bruce Springsteen,If I Was The Priest,True,23iSWEI5GZAGxHcJKYCuiC,https://kworb.net/spotify/track/23iSWEI5GZAGxHcJKYCuiC.html,https://open.spotify.com/track/23iSWEI5GZAGxHcJKYCuiC
+Bruce Springsteen,Hitch Hikin',True,6Jt1ccJG0ZiT9acRHl1YfQ,https://kworb.net/spotify/track/6Jt1ccJG0ZiT9acRHl1YfQ.html,https://open.spotify.com/track/6Jt1ccJG0ZiT9acRHl1YfQ
+Bruce Springsteen,My Hometown,False,1xyk3EIhcHDO1OniqKZbUR,https://kworb.net/spotify/track/1xyk3EIhcHDO1OniqKZbUR.html,https://open.spotify.com/track/1xyk3EIhcHDO1OniqKZbUR
+Bruce Springsteen,"Trapped - Live at Meadowlands Arena, E. Rutherford, NJ - August 1984",False,5xYCSEP2FWHMkVun6GIyDk,https://kworb.net/spotify/track/5xYCSEP2FWHMkVun6GIyDk.html,https://open.spotify.com/track/5xYCSEP2FWHMkVun6GIyDk
+Bruce Springsteen,Burnin' Train,True,6iTvdHhfGD9Gu0eD7VNRkR,https://kworb.net/spotify/track/6iTvdHhfGD9Gu0eD7VNRkR.html,https://open.spotify.com/track/6iTvdHhfGD9Gu0eD7VNRkR
+Bruce Springsteen,Two Hearts,False,50JK0hBaHMWYo20S7AvKbB,https://kworb.net/spotify/track/50JK0hBaHMWYo20S7AvKbB.html,https://open.spotify.com/track/50JK0hBaHMWYo20S7AvKbB
+Bruce Springsteen,I Wanna Marry You,False,1cwxCqejFxDyFU7AiEXmVS,https://kworb.net/spotify/track/1cwxCqejFxDyFU7AiEXmVS.html,https://open.spotify.com/track/1cwxCqejFxDyFU7AiEXmVS
+Bruce Springsteen,The Wayfarer,True,06OV3qRCboo6THc73Vy2l5,https://kworb.net/spotify/track/06OV3qRCboo6THc73Vy2l5.html,https://open.spotify.com/track/06OV3qRCboo6THc73Vy2l5
+Bruce Springsteen,Janey Needs A Shooter,True,3S2bActYBlskH5gtanFIMO,https://kworb.net/spotify/track/3S2bActYBlskH5gtanFIMO.html,https://open.spotify.com/track/3S2bActYBlskH5gtanFIMO
+Bruce Springsteen,*Highway to Hell (feat. Bruce Springsteen & Eddie Vedder),False,30BltpTtw0lEHf34NesoUu,https://kworb.net/spotify/track/30BltpTtw0lEHf34NesoUu.html,https://open.spotify.com/track/30BltpTtw0lEHf34NesoUu
+Bruce Springsteen,Meeting Across the River,False,22wGmrE8HQZHvHC44n7Htm,https://kworb.net/spotify/track/22wGmrE8HQZHvHC44n7Htm.html,https://open.spotify.com/track/22wGmrE8HQZHvHC44n7Htm
+Bruce Springsteen,Something in the Night,False,0g2ADk0pu6ynetEOPV11Vb,https://kworb.net/spotify/track/0g2ADk0pu6ynetEOPV11Vb.html,https://open.spotify.com/track/0g2ADk0pu6ynetEOPV11Vb
+Bruce Springsteen,Jackson Cage,False,6QXjiVOwMFDjDnIuE7Pjm5,https://kworb.net/spotify/track/6QXjiVOwMFDjDnIuE7Pjm5.html,https://open.spotify.com/track/6QXjiVOwMFDjDnIuE7Pjm5
+Bruce Springsteen,"Fire - Live at the Winterland, San Francisco, CA - December 1978",False,7lqDKfbqbWpDvoPPxz6xTN,https://kworb.net/spotify/track/7lqDKfbqbWpDvoPPxz6xTN.html,https://open.spotify.com/track/7lqDKfbqbWpDvoPPxz6xTN
+Bruce Springsteen,Devils & Dust,False,4YUSC63LMMUbaeLjcfT4Go,https://kworb.net/spotify/track/4YUSC63LMMUbaeLjcfT4Go.html,https://open.spotify.com/track/4YUSC63LMMUbaeLjcfT4Go
+Bruce Springsteen,"Dancing In the Dark - Live at the Walter Kerr Theatre, New York, NY - July 2018",False,1ONJfXwpdE7gS6i2SGFnF0,https://kworb.net/spotify/track/1ONJfXwpdE7gS6i2SGFnF0.html,https://open.spotify.com/track/1ONJfXwpdE7gS6i2SGFnF0
+Bruce Springsteen,"My Hometown - Live at the Walter Kerr Theatre, New York, NY - July 2018",False,7G7UNs17d0Grqk63M2MAwu,https://kworb.net/spotify/track/7G7UNs17d0Grqk63M2MAwu.html,https://open.spotify.com/track/7G7UNs17d0Grqk63M2MAwu
+Bruce Springsteen,Youngstown,False,4oiTnmTrJNDAsOPgEONYpA,https://kworb.net/spotify/track/4oiTnmTrJNDAsOPgEONYpA.html,https://open.spotify.com/track/4oiTnmTrJNDAsOPgEONYpA
+Bruce Springsteen,My Father's House,False,20mvEa8wRNsdU7diadzRGg,https://kworb.net/spotify/track/20mvEa8wRNsdU7diadzRGg.html,https://open.spotify.com/track/20mvEa8wRNsdU7diadzRGg
+Bruce Springsteen,Blood Brothers,False,159Hzk2QrFg7lUAqDeuvwU,https://kworb.net/spotify/track/159Hzk2QrFg7lUAqDeuvwU.html,https://open.spotify.com/track/159Hzk2QrFg7lUAqDeuvwU
+Bruce Springsteen,Sleepy Joe's CafÃ©,True,1J0WXgITM3l66pVKVOuXtz,https://kworb.net/spotify/track/1J0WXgITM3l66pVKVOuXtz.html,https://open.spotify.com/track/1J0WXgITM3l66pVKVOuXtz
+Bruce Springsteen,"Hungry Heart - Live at Nassau Coliseum, Uniondale, NY - December 1980",False,6fOMAc2LXPILAWUWeh41Ro,https://kworb.net/spotify/track/6fOMAc2LXPILAWUWeh41Ro.html,https://open.spotify.com/track/6fOMAc2LXPILAWUWeh41Ro
+Bruce Springsteen,Highway Patrolman,False,408tTuSDxIr3zDR90Zmcw2,https://kworb.net/spotify/track/408tTuSDxIr3zDR90Zmcw2.html,https://open.spotify.com/track/408tTuSDxIr3zDR90Zmcw2
+Bruce Springsteen,"This Land is Your Land - Live at Nassau Coliseum, Uniondale, NY - December 1980",False,4MvJlIpDpdZi4sCXvAhrym,https://kworb.net/spotify/track/4MvJlIpDpdZi4sCXvAhrym.html,https://open.spotify.com/track/4MvJlIpDpdZi4sCXvAhrym
+Bruce Springsteen,Stolen Car,False,6iXyMQAaSfGWe1DmRcf0D5,https://kworb.net/spotify/track/6iXyMQAaSfGWe1DmRcf0D5.html,https://open.spotify.com/track/6iXyMQAaSfGWe1DmRcf0D5
+Bruce Springsteen,Murder Incorporated,False,5TiH6X28HWCYfkHutY18lv,https://kworb.net/spotify/track/5TiH6X28HWCYfkHutY18lv.html,https://open.spotify.com/track/5TiH6X28HWCYfkHutY18lv
+Bruce Springsteen,Fade Away,False,1nnhJRPj841KPX46NapQy0,https://kworb.net/spotify/track/1nnhJRPj841KPX46NapQy0.html,https://open.spotify.com/track/1nnhJRPj841KPX46NapQy0
+Bruce Springsteen,American Skin (41 Shots) - Studio Version,False,4fpgB0FJiQ2bH7SVBHcT7j,https://kworb.net/spotify/track/4fpgB0FJiQ2bH7SVBHcT7j.html,https://open.spotify.com/track/4fpgB0FJiQ2bH7SVBHcT7j
+Bruce Springsteen,Long Walk Home,False,41RlTAAmlNhuhPx8rPZlDS,https://kworb.net/spotify/track/41RlTAAmlNhuhPx8rPZlDS.html,https://open.spotify.com/track/41RlTAAmlNhuhPx8rPZlDS
+Bruce Springsteen,"Better Days - Live at Warner Hollywood Studios, Los Angeles, CA - September 1992",False,52d6CvA7C0NwPmMwN8fHki,https://kworb.net/spotify/track/52d6CvA7C0NwPmMwN8fHki.html,https://open.spotify.com/track/52d6CvA7C0NwPmMwN8fHki
+Bruce Springsteen,"I'm On Fire - Live at Giants Stadium, E. Rutherford, NJ - August 1985",False,2AjlFU9FurC0YAiLvnsobC,https://kworb.net/spotify/track/2AjlFU9FurC0YAiLvnsobC.html,https://open.spotify.com/track/2AjlFU9FurC0YAiLvnsobC
+Bruce Springsteen,Jack Of All Trades,False,3GIMe4KXSuMRxkxjHUhL6J,https://kworb.net/spotify/track/3GIMe4KXSuMRxkxjHUhL6J.html,https://open.spotify.com/track/3GIMe4KXSuMRxkxjHUhL6J
+Bruce Springsteen,Chasin' Wild Horses,True,6Amf1EKnnEYaWT2aeszsXl,https://kworb.net/spotify/track/6Amf1EKnnEYaWT2aeszsXl.html,https://open.spotify.com/track/6Amf1EKnnEYaWT2aeszsXl
+Bruce Springsteen,"Tougher Than The Rest - Live at LA Memorial Sports Arena, Los Angeles, CA - April 1988",False,1to15krhDdpKKomyT8Ihit,https://kworb.net/spotify/track/1to15krhDdpKKomyT8Ihit.html,https://open.spotify.com/track/1to15krhDdpKKomyT8Ihit
+Bruce Springsteen,The Ghost of Tom Joad - Electric Version,False,6HlYrk5AuljlJpzYgr8zh1,https://kworb.net/spotify/track/6HlYrk5AuljlJpzYgr8zh1.html,https://open.spotify.com/track/6HlYrk5AuljlJpzYgr8zh1
+Bruce Springsteen,Crush on You,False,62cFivJR4IOpaNytZ9X6UQ,https://kworb.net/spotify/track/62cFivJR4IOpaNytZ9X6UQ.html,https://open.spotify.com/track/62cFivJR4IOpaNytZ9X6UQ
+Bruce Springsteen,Turn Back the Hands of Time,False,1UqC0kvyqK0pk7f9MdjBZa,https://kworb.net/spotify/track/1UqC0kvyqK0pk7f9MdjBZa.html,https://open.spotify.com/track/1UqC0kvyqK0pk7f9MdjBZa
+Bruce Springsteen,Song For Orphans,True,4V1TOoANnpTNEXaDH95MKe,https://kworb.net/spotify/track/4V1TOoANnpTNEXaDH95MKe.html,https://open.spotify.com/track/4V1TOoANnpTNEXaDH95MKe
+Bruce Springsteen,Mansion On the Hill,False,4eQQGTTbcKl5abbaIM0OxW,https://kworb.net/spotify/track/4eQQGTTbcKl5abbaIM0OxW.html,https://open.spotify.com/track/4eQQGTTbcKl5abbaIM0OxW
+Bruce Springsteen,Sundown,True,0II4vX2zmxXzNV6jpZNrrn,https://kworb.net/spotify/track/0II4vX2zmxXzNV6jpZNrrn.html,https://open.spotify.com/track/0II4vX2zmxXzNV6jpZNrrn
+Bruce Springsteen,Better Days - Single Edit,False,0ZAPZ3ub3HEfwSJ8nhX9qe,https://kworb.net/spotify/track/0ZAPZ3ub3HEfwSJ8nhX9qe.html,https://open.spotify.com/track/0ZAPZ3ub3HEfwSJ8nhX9qe
+Bruce Springsteen,Moonlight Motel,False,3YJNKUN2oTEARBNooWxhlx,https://kworb.net/spotify/track/3YJNKUN2oTEARBNooWxhlx.html,https://open.spotify.com/track/3YJNKUN2oTEARBNooWxhlx
+Bruce Springsteen,Easy Money,False,2XkM4X2pJXTutY8IcUlDVc,https://kworb.net/spotify/track/2XkM4X2pJXTutY8IcUlDVc.html,https://open.spotify.com/track/2XkM4X2pJXTutY8IcUlDVc
+Bruce Springsteen,"Born To Run - Live at Giants Stadium, E. Rutherford, NJ - August 1985",False,4NlTkpLl3et1aXKP9H46y8,https://kworb.net/spotify/track/4NlTkpLl3et1aXKP9H46y8.html,https://open.spotify.com/track/4NlTkpLl3et1aXKP9H46y8
+Bruce Springsteen,Lucky Town,False,1VVVFRDykk4pLQMGssCJWp,https://kworb.net/spotify/track/1VVVFRDykk4pLQMGssCJWp.html,https://open.spotify.com/track/1VVVFRDykk4pLQMGssCJWp
+Bruce Springsteen,Old Dan Tucker,False,4rXZ7zmDDk739IWHrLcVt1,https://kworb.net/spotify/track/4rXZ7zmDDk739IWHrLcVt1.html,https://open.spotify.com/track/4rXZ7zmDDk739IWHrLcVt1
+Bruce Springsteen,Factory,False,7M8fNsiycGeQWtAu8NxgvW,https://kworb.net/spotify/track/7M8fNsiycGeQWtAu8NxgvW.html,https://open.spotify.com/track/7M8fNsiycGeQWtAu8NxgvW
+Bruce Springsteen,Streets of Fire,False,1PuHLoIL9LTev7T5ONv5zI,https://kworb.net/spotify/track/1PuHLoIL9LTev7T5ONv5zI.html,https://open.spotify.com/track/1PuHLoIL9LTev7T5ONv5zI
+Bruce Springsteen,"The Ghost of Tom Joad (feat. Tom Morello) - Live in Anaheim, CA with Tom Morello - April 2008",False,72CmDpJ0xhBitFCMC7SpRN,https://kworb.net/spotify/track/72CmDpJ0xhBitFCMC7SpRN.html,https://open.spotify.com/track/72CmDpJ0xhBitFCMC7SpRN
+Bruce Springsteen,Don't Play That Song,False,5LWhhHChX9bC9fsSKyWA9F,https://kworb.net/spotify/track/5LWhhHChX9bC9fsSKyWA9F.html,https://open.spotify.com/track/5LWhhHChX9bC9fsSKyWA9F
+Bruce Springsteen,Paradise,False,5aAfwNuKUeDuZd4wkUPlA2,https://kworb.net/spotify/track/5aAfwNuKUeDuZd4wkUPlA2.html,https://open.spotify.com/track/5aAfwNuKUeDuZd4wkUPlA2
+Bruce Springsteen,Drive Fast (The Stuntman),True,6Wo8blkPPnkSxDH23wSYvF,https://kworb.net/spotify/track/6Wo8blkPPnkSxDH23wSYvF.html,https://open.spotify.com/track/6Wo8blkPPnkSxDH23wSYvF
+Bruce Springsteen,Mrs. McGrath,False,24sruCj3p7EjKUwUQmxC1U,https://kworb.net/spotify/track/24sruCj3p7EjKUwUQmxC1U.html,https://open.spotify.com/track/24sruCj3p7EjKUwUQmxC1U
+Bruce Springsteen,You Can Look (But You Better Not Touch),False,6uvdSA5CPnHlcOXPTLevSr,https://kworb.net/spotify/track/6uvdSA5CPnHlcOXPTLevSr.html,https://open.spotify.com/track/6uvdSA5CPnHlcOXPTLevSr
+Bruce Springsteen,"No Surrender - Live at Meadowlands Arena, E. Rutherford, NJ - August 1984",False,6CjcVKEAKpcA4rjQWvX3CK,https://kworb.net/spotify/track/6CjcVKEAKpcA4rjQWvX3CK.html,https://open.spotify.com/track/6CjcVKEAKpcA4rjQWvX3CK
+Bruce Springsteen,"Born In The U.S.A. - Live at LA Coliseum, Los Angeles, CA - September 1985",False,2DGhuqg4PkU4N1ubtJhQQb,https://kworb.net/spotify/track/2DGhuqg4PkU4N1ubtJhQQb.html,https://open.spotify.com/track/2DGhuqg4PkU4N1ubtJhQQb
+Bruce Springsteen,"Land of Hope and Dreams - Live at Madison Square Garden, New York, NY - June/July 2000",False,1UkqlQV8VKxa16ScCJHf18,https://kworb.net/spotify/track/1UkqlQV8VKxa16ScCJHf18.html,https://open.spotify.com/track/1UkqlQV8VKxa16ScCJHf18
+Bruce Springsteen,O Mary Don't You Weep,False,5JN70TFrbjjHVJkKfSXlAn,https://kworb.net/spotify/track/5JN70TFrbjjHVJkKfSXlAn.html,https://open.spotify.com/track/5JN70TFrbjjHVJkKfSXlAn
+Bruce Springsteen,Ramrod,False,35EGVPxSBCbYGC3gbu5qM3,https://kworb.net/spotify/track/35EGVPxSBCbYGC3gbu5qM3.html,https://open.spotify.com/track/35EGVPxSBCbYGC3gbu5qM3
+Bruce Springsteen,I'm a Rocker,False,7bWJ6GIhvc7t2t45bFUqjJ,https://kworb.net/spotify/track/7bWJ6GIhvc7t2t45bFUqjJ.html,https://open.spotify.com/track/7bWJ6GIhvc7t2t45bFUqjJ
+Bruce Springsteen,Stones,False,4RJjxFnUWa1ZWxUiqZ3ZJN,https://kworb.net/spotify/track/4RJjxFnUWa1ZWxUiqZ3ZJN.html,https://open.spotify.com/track/4RJjxFnUWa1ZWxUiqZ3ZJN
+Bruce Springsteen,All That Heaven Will Allow,False,4jZjP5oX2dma3pe6dAPBK9,https://kworb.net/spotify/track/4jZjP5oX2dma3pe6dAPBK9.html,https://open.spotify.com/track/4jZjP5oX2dma3pe6dAPBK9
+Bruce Springsteen,Nothing Man,False,6gpkTvvmychrSmqTOlkdYf,https://kworb.net/spotify/track/6gpkTvvmychrSmqTOlkdYf.html,https://open.spotify.com/track/6gpkTvvmychrSmqTOlkdYf
+Bruce Springsteen,"My Hometown - Live at LA Coliseum, Los Angeles, CA - September 1985",False,5nq3vs6IDlHVeoi5GVu67w,https://kworb.net/spotify/track/5nq3vs6IDlHVeoi5GVu67w.html,https://open.spotify.com/track/5nq3vs6IDlHVeoi5GVu67w
+Bruce Springsteen,You're Missing,False,23zMvkiwXFOM7Y1bO954GA,https://kworb.net/spotify/track/23zMvkiwXFOM7Y1bO954GA.html,https://open.spotify.com/track/23zMvkiwXFOM7Y1bO954GA
+Bruce Springsteen,The Price You Pay,False,0KE2pycf0VOY4Tj1XVyrk4,https://kworb.net/spotify/track/0KE2pycf0VOY4Tj1XVyrk4.html,https://open.spotify.com/track/0KE2pycf0VOY4Tj1XVyrk4
+Bruce Springsteen,Reason to Believe,False,7tRIpQDyq22qkjdk4mzBrq,https://kworb.net/spotify/track/7tRIpQDyq22qkjdk4mzBrq.html,https://open.spotify.com/track/7tRIpQDyq22qkjdk4mzBrq
+Bruce Springsteen,Rainmaker,True,5lIYDDewEvlsOw7RSTlnr9,https://kworb.net/spotify/track/5lIYDDewEvlsOw7RSTlnr9.html,https://open.spotify.com/track/5lIYDDewEvlsOw7RSTlnr9
+Bruce Springsteen,Outlaw Pete,False,2XgXCt48WUKclfuHCfbQ3h,https://kworb.net/spotify/track/2XgXCt48WUKclfuHCfbQ3h.html,https://open.spotify.com/track/2XgXCt48WUKclfuHCfbQ3h
+Bruce Springsteen,New York City Serenade,False,3FYbqh8NmoLC8c1mMJ05mM,https://kworb.net/spotify/track/3FYbqh8NmoLC8c1mMJ05mM.html,https://open.spotify.com/track/3FYbqh8NmoLC8c1mMJ05mM
+Bruce Springsteen,Glory Days,False,1MULUW6qmuwcXKM3VO9lCc,https://kworb.net/spotify/track/1MULUW6qmuwcXKM3VO9lCc.html,https://open.spotify.com/track/1MULUW6qmuwcXKM3VO9lCc
+Bruce Springsteen,The Wall,False,1Rm03r3xeR4c9NbuRqEYtc,https://kworb.net/spotify/track/1Rm03r3xeR4c9NbuRqEYtc.html,https://open.spotify.com/track/1Rm03r3xeR4c9NbuRqEYtc
+Bruce Springsteen,Somewhere North of Nashville,False,1Z5BBovyC5r7Z23mGXvgoA,https://kworb.net/spotify/track/1Z5BBovyC5r7Z23mGXvgoA.html,https://open.spotify.com/track/1Z5BBovyC5r7Z23mGXvgoA
+Bruce Springsteen,Better Days,False,27JhdyVLc45QD9CCErgOuT,https://kworb.net/spotify/track/27JhdyVLc45QD9CCErgOuT.html,https://open.spotify.com/track/27JhdyVLc45QD9CCErgOuT
+Bruce Springsteen,"Land of Hope and Dreams - Live at the Walter Kerr Theatre, New York, NY - July 2018",False,63ZszFJB21tmGvuosC0w5i,https://kworb.net/spotify/track/63ZszFJB21tmGvuosC0w5i.html,https://open.spotify.com/track/63ZszFJB21tmGvuosC0w5i
+Bruce Springsteen,Rocky Ground,False,0Kb43WhfwnVCroQhAxHs6n,https://kworb.net/spotify/track/0Kb43WhfwnVCroQhAxHs6n.html,https://open.spotify.com/track/0Kb43WhfwnVCroQhAxHs6n
+Bruce Springsteen,Open All Night,False,6puA3V4iUFow4GMGFDf7qF,https://kworb.net/spotify/track/6puA3V4iUFow4GMGFDf7qF.html,https://open.spotify.com/track/6puA3V4iUFow4GMGFDf7qF
+Bruce Springsteen,"Thunder Road - The Song - Live at the Hammersmith Odeon, London, UK - November 1975",False,2tFykPvhvN1AdUkeQQLCuV,https://kworb.net/spotify/track/2tFykPvhvN1AdUkeQQLCuV.html,https://open.spotify.com/track/2tFykPvhvN1AdUkeQQLCuV
+Bruce Springsteen,Wreck on the Highway,False,1vqZh6D1JlnsIikyvDThfc,https://kworb.net/spotify/track/1vqZh6D1JlnsIikyvDThfc.html,https://open.spotify.com/track/1vqZh6D1JlnsIikyvDThfc
+Bruce Springsteen,The E Street Shuffle,False,7iCqdpfPTVk1fw12eqfCAP,https://kworb.net/spotify/track/7iCqdpfPTVk1fw12eqfCAP.html,https://open.spotify.com/track/7iCqdpfPTVk1fw12eqfCAP
+Bruce Springsteen,This Hard Land,False,2CiuLIXhORqJOiwKjPnuYN,https://kworb.net/spotify/track/2CiuLIXhORqJOiwKjPnuYN.html,https://open.spotify.com/track/2CiuLIXhORqJOiwKjPnuYN
+Bruce Springsteen,When You Need Me - Studio Outtake - 1987,False,34oYzILaNsdFPt48Yeb8aq,https://kworb.net/spotify/track/34oYzILaNsdFPt48Yeb8aq.html,https://open.spotify.com/track/34oYzILaNsdFPt48Yeb8aq
+Bruce Springsteen,"Badlands - Live at Arizona State University, Tempe, AZ - November 1980",False,6XWbxpB5Z060gHrBgsKKAv,https://kworb.net/spotify/track/6XWbxpB5Z060gHrBgsKKAv.html,https://open.spotify.com/track/6XWbxpB5Z060gHrBgsKKAv
+Bruce Springsteen,"Racing In The Street - Live at Meadowlands Arena, E. Rutherford, NJ - July 1981",False,5NmRaidQfwrwdUzL0cF0SV,https://kworb.net/spotify/track/5NmRaidQfwrwdUzL0cF0SV.html,https://open.spotify.com/track/5NmRaidQfwrwdUzL0cF0SV
+Bruce Springsteen,It's Hard to Be a Saint in the City,False,6s8q3fQNcayP7yEFpuF3wz,https://kworb.net/spotify/track/6s8q3fQNcayP7yEFpuF3wz.html,https://open.spotify.com/track/6s8q3fQNcayP7yEFpuF3wz
+Bruce Springsteen,"American Skin (41 Shots) - Live at Madison Square Garden, New York, NY - June/July 2000",False,1RMCRSvX4NWcI2ohE5bdNV,https://kworb.net/spotify/track/1RMCRSvX4NWcI2ohE5bdNV.html,https://open.spotify.com/track/1RMCRSvX4NWcI2ohE5bdNV
+Bruce Springsteen,"The Promised Land - Live at the Walter Kerr Theatre, New York, NY - July 2018",False,4F4jhvc8RtnQlErUunYMkA,https://kworb.net/spotify/track/4F4jhvc8RtnQlErUunYMkA.html,https://open.spotify.com/track/4F4jhvc8RtnQlErUunYMkA
+Bruce Springsteen,"Further On (Up the Road) - Live at the Point Theatre, Dublin, Ireland - November 2006",False,2VLPFM4GRnq1GcFqr36wWU,https://kworb.net/spotify/track/2VLPFM4GRnq1GcFqr36wWU.html,https://open.spotify.com/track/2VLPFM4GRnq1GcFqr36wWU
+Bruce Springsteen,I'll Stand By You,False,6Udpycyz42IiNE7JOeakJ1,https://kworb.net/spotify/track/6Udpycyz42IiNE7JOeakJ1.html,https://open.spotify.com/track/6Udpycyz42IiNE7JOeakJ1
+Bruce Springsteen,This Hard Land - Studio Outtake - 1982,False,7aNHlFEALD1GyiVpQsbtD0,https://kworb.net/spotify/track/7aNHlFEALD1GyiVpQsbtD0.html,https://open.spotify.com/track/7aNHlFEALD1GyiVpQsbtD0
+Bruce Springsteen,Used Cars,False,1LDz5dqGxxWSOxNWjuzclb,https://kworb.net/spotify/track/1LDz5dqGxxWSOxNWjuzclb.html,https://open.spotify.com/track/1LDz5dqGxxWSOxNWjuzclb
+Bruce Springsteen,Long Time Comin',False,0E5eM3bcpUhvaqVs0RwBB1,https://kworb.net/spotify/track/0E5eM3bcpUhvaqVs0RwBB1.html,https://open.spotify.com/track/0E5eM3bcpUhvaqVs0RwBB1
+Bruce Springsteen,*Wasted Days (feat. Bruce Springsteen),False,00KBMCig03dtdMJG4jkrIu,https://kworb.net/spotify/track/00KBMCig03dtdMJG4jkrIu.html,https://open.spotify.com/track/00KBMCig03dtdMJG4jkrIu
+Bruce Springsteen,Two Faces,False,0ZeQYobHf2kr2fkZOjhfWH,https://kworb.net/spotify/track/0ZeQYobHf2kr2fkZOjhfWH.html,https://open.spotify.com/track/0ZeQYobHf2kr2fkZOjhfWH
+Bruce Springsteen,Living Proof,False,1sObHlK6OHKCIiGVzFWcSu,https://kworb.net/spotify/track/1sObHlK6OHKCIiGVzFWcSu.html,https://open.spotify.com/track/1sObHlK6OHKCIiGVzFWcSu
+Bruce Springsteen,Just Like Fire Would,False,6GfEXHNIiEYIRwgvuVR8s0,https://kworb.net/spotify/track/6GfEXHNIiEYIRwgvuVR8s0.html,https://open.spotify.com/track/6GfEXHNIiEYIRwgvuVR8s0
+Bruce Springsteen,This Depression,False,74T9rL9UIqUUBQcHG1QY3I,https://kworb.net/spotify/track/74T9rL9UIqUUBQcHG1QY3I.html,https://open.spotify.com/track/74T9rL9UIqUUBQcHG1QY3I
+Bruce Springsteen,"Atlantic City - Live at Madison Square Garden, New York, NY - June/July 2000",False,27DCji1iCCgtgcWWXnqV9U,https://kworb.net/spotify/track/27DCji1iCCgtgcWWXnqV9U.html,https://open.spotify.com/track/27DCji1iCCgtgcWWXnqV9U
+Bruce Springsteen,Walk Like a Man,False,36WnSVxMlPA5pB9NcQi0py,https://kworb.net/spotify/track/36WnSVxMlPA5pB9NcQi0py.html,https://open.spotify.com/track/36WnSVxMlPA5pB9NcQi0py
+Bruce Springsteen,Empty Sky,False,4J3kArNud5C3B98dbCZXE4,https://kworb.net/spotify/track/4J3kArNud5C3B98dbCZXE4.html,https://open.spotify.com/track/4J3kArNud5C3B98dbCZXE4
+Bruce Springsteen,My Lucky Day,False,07K610YCf6q6uE5THimBb3,https://kworb.net/spotify/track/07K610YCf6q6uE5THimBb3.html,https://open.spotify.com/track/07K610YCf6q6uE5THimBb3
+Bruce Springsteen,You've Got It,False,6vLV9rlz6hT1bR6rxptXfh,https://kworb.net/spotify/track/6vLV9rlz6hT1bR6rxptXfh.html,https://open.spotify.com/track/6vLV9rlz6hT1bR6rxptXfh
+Bruce Springsteen,"Born to Run - Live at the Walter Kerr Theatre, New York, NY - July 2018",False,660kr65d0O2AVIL0yfse4O,https://kworb.net/spotify/track/660kr65d0O2AVIL0yfse4O.html,https://open.spotify.com/track/660kr65d0O2AVIL0yfse4O
+Bruce Springsteen,Magic,False,54Gnnzf64nOe3p7uDv1HdK,https://kworb.net/spotify/track/54Gnnzf64nOe3p7uDv1HdK.html,https://open.spotify.com/track/54Gnnzf64nOe3p7uDv1HdK
+Bruce Springsteen,We Are Alive,False,63ge5ihHVtpxiY7Hpfm1sR,https://kworb.net/spotify/track/63ge5ihHVtpxiY7Hpfm1sR.html,https://open.spotify.com/track/63ge5ihHVtpxiY7Hpfm1sR
+Bruce Springsteen,Racing in the Street - '78,False,3VdNjgoLw5M1YsoC8SGfuy,https://kworb.net/spotify/track/3VdNjgoLw5M1YsoC8SGfuy.html,https://open.spotify.com/track/3VdNjgoLw5M1YsoC8SGfuy
+Bruce Springsteen,Kitty's Back,False,5AToGW7gh0xgNyrDVd3qus,https://kworb.net/spotify/track/5AToGW7gh0xgNyrDVd3qus.html,https://open.spotify.com/track/5AToGW7gh0xgNyrDVd3qus
+Bruce Springsteen,Lost in the Flood,False,4x8vfPspwVPHRh7LGf7Whg,https://kworb.net/spotify/track/4x8vfPspwVPHRh7LGf7Whg.html,https://open.spotify.com/track/4x8vfPspwVPHRh7LGf7Whg
+Bruce Springsteen,Into the Fire,False,4s4S5JJGfqXGlNY6eQZWQB,https://kworb.net/spotify/track/4s4S5JJGfqXGlNY6eQZWQB.html,https://open.spotify.com/track/4s4S5JJGfqXGlNY6eQZWQB
+Bruce Springsteen,You'll Be Comin' Down,False,742xIz52S7SuO3l5iYZ7I5,https://kworb.net/spotify/track/742xIz52S7SuO3l5iYZ7I5.html,https://open.spotify.com/track/742xIz52S7SuO3l5iYZ7I5
+Bruce Springsteen,Valentine's Day,True,4yz5cxtyvHcD8kjxh9p8UZ,https://kworb.net/spotify/track/4yz5cxtyvHcD8kjxh9p8UZ.html,https://open.spotify.com/track/4yz5cxtyvHcD8kjxh9p8UZ
+Bruce Springsteen,Ain't Good Enough for You,False,7LYl247HucCqb1SXIE4mpb,https://kworb.net/spotify/track/7LYl247HucCqb1SXIE4mpb.html,https://open.spotify.com/track/7LYl247HucCqb1SXIE4mpb
+Bruce Springsteen,Incident on 57th Street,False,0wQzwIo50V1Uboha0bymhg,https://kworb.net/spotify/track/0wQzwIo50V1Uboha0bymhg.html,https://open.spotify.com/track/0wQzwIo50V1Uboha0bymhg
+Bruce Springsteen,"Cadillac Ranch - Live at Meadowlands Arena, E. Rutherford, NJ - July 1981",False,1onZ5D8uw2K36DDZFDgR15,https://kworb.net/spotify/track/1onZ5D8uw2K36DDZFDgR15.html,https://open.spotify.com/track/1onZ5D8uw2K36DDZFDgR15
+Bruce Springsteen,"Bobby Jean - Live at Giants Stadium, E. Rutherford, NJ - August 1985",False,4uoV8sEttEqRUe4cPePNXf,https://kworb.net/spotify/track/4uoV8sEttEqRUe4cPePNXf.html,https://open.spotify.com/track/4uoV8sEttEqRUe4cPePNXf
+Bruce Springsteen,Ain't Got You,False,7qzluAFwjGGGUJUXDaLurM,https://kworb.net/spotify/track/7qzluAFwjGGGUJUXDaLurM.html,https://open.spotify.com/track/7qzluAFwjGGGUJUXDaLurM
+Bruce Springsteen,"Born In the U.S.A. - Live at the Walter Kerr Theatre, New York, NY - July 2018",False,6TGhSdj9CaXcxTHLjbNNYL,https://kworb.net/spotify/track/6TGhSdj9CaXcxTHLjbNNYL.html,https://open.spotify.com/track/6TGhSdj9CaXcxTHLjbNNYL
+Bruce Springsteen,"My Father's House - Live at the Walter Kerr Theatre, New York, NY - July 2018",False,6W0Ja06Dh9Dj1Q7wAkFyea,https://kworb.net/spotify/track/6W0Ja06Dh9Dj1Q7wAkFyea.html,https://open.spotify.com/track/6W0Ja06Dh9Dj1Q7wAkFyea
+Bruce Springsteen,Meet Me In The City - Studio Outtake - 1979,False,4BlOigB3NT7DiwHgikD9C8,https://kworb.net/spotify/track/4BlOigB3NT7DiwHgikD9C8.html,https://open.spotify.com/track/4BlOigB3NT7DiwHgikD9C8
+Bruce Springsteen,When You're Alone,False,2WmxMKkmzpNxQcHxotVpfa,https://kworb.net/spotify/track/2WmxMKkmzpNxQcHxotVpfa.html,https://open.spotify.com/track/2WmxMKkmzpNxQcHxotVpfa
+Bruce Springsteen,Straight Time,False,4gupPromYvaSQaiawbtbgH,https://kworb.net/spotify/track/4gupPromYvaSQaiawbtbgH.html,https://open.spotify.com/track/4gupPromYvaSQaiawbtbgH
+Bruce Springsteen,"The Promised Land - Live at LA Coliseum, Los Angeles, CA - September 1985",False,2aQ7xE574vKgMnvIhXncRy,https://kworb.net/spotify/track/2aQ7xE574vKgMnvIhXncRy.html,https://open.spotify.com/track/2aQ7xE574vKgMnvIhXncRy
+Bruce Springsteen,"Tenth Avenue Freeze-Out - Live at Meadowlands Arena, E. Rutherford, NJ - August 1984",False,4PexmWxmftd3ggYweZ56XB,https://kworb.net/spotify/track/4PexmWxmftd3ggYweZ56XB.html,https://open.spotify.com/track/4PexmWxmftd3ggYweZ56XB
+Bruce Springsteen,Spare Parts,False,1BROaM6SuFTr9MLrOvY4tk,https://kworb.net/spotify/track/1BROaM6SuFTr9MLrOvY4tk.html,https://open.spotify.com/track/1BROaM6SuFTr9MLrOvY4tk
+Bruce Springsteen,Soul Days (feat. Sam Moore),False,3a1AyWAQKRSClHI29mqemI,https://kworb.net/spotify/track/3a1AyWAQKRSClHI29mqemI.html,https://open.spotify.com/track/3a1AyWAQKRSClHI29mqemI
+Bruce Springsteen,I Wish I Were Blind,False,0v7LzVH95JMwa2JhEJhaA9,https://kworb.net/spotify/track/0v7LzVH95JMwa2JhEJhaA9.html,https://open.spotify.com/track/0v7LzVH95JMwa2JhEJhaA9
+Bruce Springsteen,Growin' Up - Demo Version - 1972,False,3BPc57lkrBmnKpgmfF5S6L,https://kworb.net/spotify/track/3BPc57lkrBmnKpgmfF5S6L.html,https://open.spotify.com/track/3BPc57lkrBmnKpgmfF5S6L
+Bruce Springsteen,Harry's Place,False,74dFnSmE7o2flB5PT28mb8,https://kworb.net/spotify/track/74dFnSmE7o2flB5PT28mb8.html,https://open.spotify.com/track/74dFnSmE7o2flB5PT28mb8
+Bruce Springsteen,"Born to Run - Acoustic Version - Live at LA Memorial Sports Arena, Los Angeles, CA - April 1988",False,2IaxjSh7ExlLLCknO8GmlW,https://kworb.net/spotify/track/2IaxjSh7ExlLLCknO8GmlW.html,https://open.spotify.com/track/2IaxjSh7ExlLLCknO8GmlW
+Bruce Springsteen,"Rosalita (Come Out Tonight) - Live at the Roxy Theatre, W. Hollywood, CA - July 1978",False,45YCWXQgGS9tejjZswjnTS,https://kworb.net/spotify/track/45YCWXQgGS9tejjZswjnTS.html,https://open.spotify.com/track/45YCWXQgGS9tejjZswjnTS
+Bruce Springsteen,Hunter of Invisible Game,False,6rVeqP405c9TvZk6cEH3bL,https://kworb.net/spotify/track/6rVeqP405c9TvZk6cEH3bL.html,https://open.spotify.com/track/6rVeqP405c9TvZk6cEH3bL
+Bruce Springsteen,"Tenth Avenue Freeze-Out - Live at the Walter Kerr Theatre, New York, NY - July 2018",False,1ROdEjSQNMGFvckeRu68SE,https://kworb.net/spotify/track/1ROdEjSQNMGFvckeRu68SE.html,https://open.spotify.com/track/1ROdEjSQNMGFvckeRu68SE
+Bruce Springsteen,The Sun Ain't Gonna Shine Anymore,False,1ppg3cH3NE4gLEwhraZ7jc,https://kworb.net/spotify/track/1ppg3cH3NE4gLEwhraZ7jc.html,https://open.spotify.com/track/1ppg3cH3NE4gLEwhraZ7jc
+Bruce Springsteen,"Spirit in the Night - Live at the Roxy Theatre, W. Hollywood, CA - July 1978",False,6JWBNwpKHWQF4J8PM9cvM6,https://kworb.net/spotify/track/6JWBNwpKHWQF4J8PM9cvM6.html,https://open.spotify.com/track/6JWBNwpKHWQF4J8PM9cvM6
+Bruce Springsteen,"If I Should Fall Behind - Live at the Point Theatre, Dublin, Ireland - November 2006",False,5abnD7oKKBWUHyven8FHJy,https://kworb.net/spotify/track/5abnD7oKKBWUHyven8FHJy.html,https://open.spotify.com/track/5abnD7oKKBWUHyven8FHJy
+Bruce Springsteen,Further On (Up the Road),False,42LXJi06Y5KXYAJCsZSPv1,https://kworb.net/spotify/track/42LXJi06Y5KXYAJCsZSPv1.html,https://open.spotify.com/track/42LXJi06Y5KXYAJCsZSPv1
+Bruce Springsteen,Only the Strong Survive,False,6at33NMZgSJIp7jNoCuTd7,https://kworb.net/spotify/track/6at33NMZgSJIp7jNoCuTd7.html,https://open.spotify.com/track/6at33NMZgSJIp7jNoCuTd7
+Bruce Springsteen,"Reason To Believe - Live at Meadowlands Arena, E. Rutherford, NJ - August 1984",False,5FGivvInxAfath01ActnPG,https://kworb.net/spotify/track/5FGivvInxAfath01ActnPG.html,https://open.spotify.com/track/5FGivvInxAfath01ActnPG
+Bruce Springsteen,"Backstreets - Live at the Roxy Theatre, W. Hollywood, CA - July 1978",False,3QuNEhbj4KvC9xfFkNJYI1,https://kworb.net/spotify/track/3QuNEhbj4KvC9xfFkNJYI1.html,https://open.spotify.com/track/3QuNEhbj4KvC9xfFkNJYI1
+Bruce Springsteen,"Johnny 99 - Live at Giants Stadium, E. Rutherford, NJ - August 1985",False,5TQQvGoLY2IopeOv3HeEML,https://kworb.net/spotify/track/5TQQvGoLY2IopeOv3HeEML.html,https://open.spotify.com/track/5TQQvGoLY2IopeOv3HeEML
+Bruce Springsteen,Countin' On a Miracle,False,5HqK6HOczMtdrnvYmDZgAI,https://kworb.net/spotify/track/5HqK6HOczMtdrnvYmDZgAI.html,https://open.spotify.com/track/5HqK6HOczMtdrnvYmDZgAI
+Bruce Springsteen,Worlds Apart,False,2AyGYefMitcHfYGOtzsEWf,https://kworb.net/spotify/track/2AyGYefMitcHfYGOtzsEWf.html,https://open.spotify.com/track/2AyGYefMitcHfYGOtzsEWf
+Bruce Springsteen,"If I Should Fall Behind - Live at Madison Square Garden, New York, NY - June/July 2000",False,3zHAF84Jjuy9iEwasyUKUy,https://kworb.net/spotify/track/3zHAF84Jjuy9iEwasyUKUy.html,https://open.spotify.com/track/3zHAF84Jjuy9iEwasyUKUy
+Bruce Springsteen,Down in the Hole,False,7eraqImLpg2dhoQwusew3C,https://kworb.net/spotify/track/7eraqImLpg2dhoQwusew3C.html,https://open.spotify.com/track/7eraqImLpg2dhoQwusew3C
+Bruce Springsteen,"War - Live at LA Coliseum, Los Angeles, CA - September 1985",False,1sTeIjsjonMTTQyffRgehj,https://kworb.net/spotify/track/1sTeIjsjonMTTQyffRgehj.html,https://open.spotify.com/track/1sTeIjsjonMTTQyffRgehj
+Bruce Springsteen,From Small Things (Big Things One Day Come) - Studio Outtake - 1979,False,282dVm1dvbGqev47BXjjoO,https://kworb.net/spotify/track/282dVm1dvbGqev47BXjjoO.html,https://open.spotify.com/track/282dVm1dvbGqev47BXjjoO
+Bruce Springsteen,"4th of July, Asbury Park (Sandy) - Live at Nassau Coliseum, Uniondale, NY - December 1980",False,2btdb2jPG8dPZIyx98D5OG,https://kworb.net/spotify/track/2btdb2jPG8dPZIyx98D5OG.html,https://open.spotify.com/track/2btdb2jPG8dPZIyx98D5OG
+Bruce Springsteen,Livin' In the Future,False,3EjU4PpZ6rvbUR70YlDEa6,https://kworb.net/spotify/track/3EjU4PpZ6rvbUR70YlDEa6.html,https://open.spotify.com/track/3EjU4PpZ6rvbUR70YlDEa6
+Bruce Springsteen,"Jungleland - Live at Madison Square Garden, New York, NY - June/July 2000",False,0WD7EMd8ExHXFjaikOaBsj,https://kworb.net/spotify/track/0WD7EMd8ExHXFjaikOaBsj.html,https://open.spotify.com/track/0WD7EMd8ExHXFjaikOaBsj
+Bruce Springsteen,Does This Bus Stop at 82nd Street?,False,5GttWUZxYgLsWNdCMfisR0,https://kworb.net/spotify/track/5GttWUZxYgLsWNdCMfisR0.html,https://open.spotify.com/track/5GttWUZxYgLsWNdCMfisR0
+Bruce Springsteen,Cautious Man,False,5vschfpax25JTbGq4I3hCE,https://kworb.net/spotify/track/5vschfpax25JTbGq4I3hCE.html,https://open.spotify.com/track/5vschfpax25JTbGq4I3hCE
+Bruce Springsteen,Western Stars - Film Version,False,6J9MUDZ96r7m1LdevPehIH,https://kworb.net/spotify/track/6J9MUDZ96r7m1LdevPehIH.html,https://open.spotify.com/track/6J9MUDZ96r7m1LdevPehIH
+Bruce Springsteen,"Adam Raised A Cain - Live at the Roxy Theatre, W. Hollywood, CA - July 1978",False,4PFilYdhg23EyNYNDKieUi,https://kworb.net/spotify/track/4PFilYdhg23EyNYNDKieUi.html,https://open.spotify.com/track/4PFilYdhg23EyNYNDKieUi
+Bruce Springsteen,Jesse James (Just Ask),False,1AHJ9o9ANGVX80oESbiViR,https://kworb.net/spotify/track/1AHJ9o9ANGVX80oESbiViR.html,https://open.spotify.com/track/1AHJ9o9ANGVX80oESbiViR
+Bruce Springsteen,"Growin' Up - Live at the Roxy Theatre, W. Hollywood, CA - July 1978",False,4yEBlYhwi1CKSsERj4epTL,https://kworb.net/spotify/track/4yEBlYhwi1CKSsERj4epTL.html,https://open.spotify.com/track/4yEBlYhwi1CKSsERj4epTL
+Bruce Springsteen,57 Channels (And Nothin' On),False,42eWzCqHuCD5QRwzq3I24e,https://kworb.net/spotify/track/42eWzCqHuCD5QRwzq3I24e.html,https://open.spotify.com/track/42eWzCqHuCD5QRwzq3I24e
+Bruce Springsteen,"My Love Will Not Let You Down - Live at Madison Square Garden, New York, NY - June/July 2000",False,5N0lqJgDhvvlKdauj3kpZM,https://kworb.net/spotify/track/5N0lqJgDhvvlKdauj3kpZM.html,https://open.spotify.com/track/5N0lqJgDhvvlKdauj3kpZM
+Bruce Springsteen,"Youngstown - Live at Madison Square Garden, New York, NY - June/July 2000",False,4QmifndIBPJGIezSgI15Ad,https://kworb.net/spotify/track/4QmifndIBPJGIezSgI15Ad.html,https://open.spotify.com/track/4QmifndIBPJGIezSgI15Ad
+Bruce Springsteen,When She Was My Girl,False,5Uzcv55FWehC7kW2Nz42zA,https://kworb.net/spotify/track/5Uzcv55FWehC7kW2Nz42zA.html,https://open.spotify.com/track/5Uzcv55FWehC7kW2Nz42zA
+Bruce Springsteen,"Darkness On The Edge Of Town - Live at Nassau Coliseum, Uniondale, NY - December 1980",False,1xUHhK1nJCKtSqHVy0cTZq,https://kworb.net/spotify/track/1xUHhK1nJCKtSqHVy0cTZq.html,https://open.spotify.com/track/1xUHhK1nJCKtSqHVy0cTZq
+Bruce Springsteen,*Rose Tattoo,False,62DicNvSxr3yXAmWOyVajk,https://kworb.net/spotify/track/62DicNvSxr3yXAmWOyVajk.html,https://open.spotify.com/track/62DicNvSxr3yXAmWOyVajk
+Bruce Springsteen,Frankie Fell in Love,False,5jrs1wogI5iTazGAg0s5zo,https://kworb.net/spotify/track/5jrs1wogI5iTazGAg0s5zo.html,https://open.spotify.com/track/5jrs1wogI5iTazGAg0s5zo
+Bruce Springsteen,"The River - Live at Madison Square Garden, New York, NY - June/July 2000",False,2Mp0ZdhcLGzi8woNimrvNg,https://kworb.net/spotify/track/2Mp0ZdhcLGzi8woNimrvNg.html,https://open.spotify.com/track/2Mp0ZdhcLGzi8woNimrvNg
+Bruce Springsteen,"Badlands - Live at Madison Square Garden, New York, NY - June/July 2000",False,2M6dHhZ8l1lUjjSRGjfEo4,https://kworb.net/spotify/track/2M6dHhZ8l1lUjjSRGjfEo4.html,https://open.spotify.com/track/2M6dHhZ8l1lUjjSRGjfEo4
+Bruce Springsteen,Swallowed Up (In The Belly Of The Whale),False,0q1ZGnRagRa4H9hkaVjefb,https://kworb.net/spotify/track/0q1ZGnRagRa4H9hkaVjefb.html,https://open.spotify.com/track/0q1ZGnRagRa4H9hkaVjefb
+Bruce Springsteen,Mary Queen of Arkansas,False,6owaottm8Mrk2B4BSuVBe4,https://kworb.net/spotify/track/6owaottm8Mrk2B4BSuVBe4.html,https://open.spotify.com/track/6owaottm8Mrk2B4BSuVBe4
+Bruce Springsteen,"Human Touch - Live at Warner Hollywood Studios, Los Angeles, CA - September 1992",False,4MokS2mdqHVtPkO8lYZPRB,https://kworb.net/spotify/track/4MokS2mdqHVtPkO8lYZPRB.html,https://open.spotify.com/track/4MokS2mdqHVtPkO8lYZPRB
+Bruce Springsteen,John Henry,False,4mai1CggFbdIpK8MEohA0K,https://kworb.net/spotify/track/4mai1CggFbdIpK8MEohA0K.html,https://open.spotify.com/track/4mai1CggFbdIpK8MEohA0K
+Bruce Springsteen,"Badlands - Live at Madison Square Garden, New York, NY - 09/22/79",False,2b3FHhC407kGc1hfAHs4wD,https://kworb.net/spotify/track/2b3FHhC407kGc1hfAHs4wD.html,https://open.spotify.com/track/2b3FHhC407kGc1hfAHs4wD
+Bruce Springsteen,I'll Work for Your Love,False,2ngqFjfI2npmPQYuQaBCNz,https://kworb.net/spotify/track/2ngqFjfI2npmPQYuQaBCNz.html,https://open.spotify.com/track/2ngqFjfI2npmPQYuQaBCNz
+Bruce Springsteen,Let's Be Friends (Skin to Skin),False,5YBWXntTBc5P0NWS9hClHG,https://kworb.net/spotify/track/5YBWXntTBc5P0NWS9hClHG.html,https://open.spotify.com/track/5YBWXntTBc5P0NWS9hClHG
+Bruce Springsteen,The Promise,False,5JZvZh1cTxet4c8RRsY6cG,https://kworb.net/spotify/track/5JZvZh1cTxet4c8RRsY6cG.html,https://open.spotify.com/track/5JZvZh1cTxet4c8RRsY6cG
+Bruce Springsteen,Queen Of The Supermarket,False,3YYwcT63iArNkWtI8T9xDj,https://kworb.net/spotify/track/3YYwcT63iArNkWtI8T9xDj.html,https://open.spotify.com/track/3YYwcT63iArNkWtI8T9xDj
+Bruce Springsteen,Erie Canal,False,5RqFC823JhgZjcX2p5pLC2,https://kworb.net/spotify/track/5RqFC823JhgZjcX2p5pLC2.html,https://open.spotify.com/track/5RqFC823JhgZjcX2p5pLC2
+Bruce Springsteen,Highway 29,False,2mDcBH9aZ1tHHK8b33p1wL,https://kworb.net/spotify/track/2mDcBH9aZ1tHHK8b33p1wL.html,https://open.spotify.com/track/2mDcBH9aZ1tHHK8b33p1wL
+Bruce Springsteen,Rhinestone Cowboy - Film Version,False,4j68DZOEftEeDjkMttWdll,https://kworb.net/spotify/track/4j68DZOEftEeDjkMttWdll.html,https://open.spotify.com/track/4j68DZOEftEeDjkMttWdll
+Bruce Springsteen,We Shall Overcome,False,62Vo9XI7EBbop77Wl4QoQ9,https://kworb.net/spotify/track/62Vo9XI7EBbop77Wl4QoQ9.html,https://open.spotify.com/track/62Vo9XI7EBbop77Wl4QoQ9
+Bruce Springsteen,"Pay Me My Money Down - Live at the Point Theatre, Dublin, Ireland - November 2006",False,6XLSBmI7tdXIJAV2Akcq6p,https://kworb.net/spotify/track/6XLSBmI7tdXIJAV2Akcq6p.html,https://open.spotify.com/track/6XLSBmI7tdXIJAV2Akcq6p
+Bruce Springsteen,"Independence Day - Live at Meadowlands Arena, E. Rutherford, NJ - July 1981",False,6D1WziNORIl7j60KUyCUCk,https://kworb.net/spotify/track/6D1WziNORIl7j60KUyCUCk.html,https://open.spotify.com/track/6D1WziNORIl7j60KUyCUCk
+Bruce Springsteen,"Cover Me - Live at LA Coliseum, Los Angeles, CA - September 1985",False,6fxIgKUXu6b4UQmX3Gbdap,https://kworb.net/spotify/track/6fxIgKUXu6b4UQmX3Gbdap.html,https://open.spotify.com/track/6fxIgKUXu6b4UQmX3Gbdap
+Bruce Springsteen,"Candy's Room - Live at Meadowlands Arena, E. Rutherford, NJ - July 1981",False,7hXy7Oc0XfODlcR8ESR9up,https://kworb.net/spotify/track/7hXy7Oc0XfODlcR8ESR9up.html,https://open.spotify.com/track/7hXy7Oc0XfODlcR8ESR9up
+Bruce Springsteen,"Born to Run - Live at Madison Square Garden, New York, NY - June/July 2000",False,6UojLuXri3EOEkOgiEjSE7,https://kworb.net/spotify/track/6UojLuXri3EOEkOgiEjSE7.html,https://open.spotify.com/track/6UojLuXri3EOEkOgiEjSE7
+Bruce Springsteen,"Fire - Single Edit - Live at the Winterland, San Francisco, CA - December 1978",False,60Vj2umQ1VIuVaAf6Z9KFJ,https://kworb.net/spotify/track/60Vj2umQ1VIuVaAf6Z9KFJ.html,https://open.spotify.com/track/60Vj2umQ1VIuVaAf6Z9KFJ
+Bruce Springsteen,"Nebraska - Live at Meadowlands Arena, E. Rutherford, NJ - August 1984",False,3X0vVnN14DDQQStSTysJDs,https://kworb.net/spotify/track/3X0vVnN14DDQQStSTysJDs.html,https://open.spotify.com/track/3X0vVnN14DDQQStSTysJDs
+Bruce Springsteen,Hitch Hikin' - Film Version,False,1MksSIlQp0qQe8gYBxE8g7,https://kworb.net/spotify/track/1MksSIlQp0qQe8gYBxE8g7.html,https://open.spotify.com/track/1MksSIlQp0qQe8gYBxE8g7
+Bruce Springsteen,"American Land - Live at the Point Theatre, Dublin, Ireland - November 2006",False,4gSfJM8WUIDgFeN435uzgM,https://kworb.net/spotify/track/4gSfJM8WUIDgFeN435uzgM.html,https://open.spotify.com/track/4gSfJM8WUIDgFeN435uzgM
+Bruce Springsteen,Heaven's Wall,False,5tdERSH4Mgu2dylN1rp3xr,https://kworb.net/spotify/track/5tdERSH4Mgu2dylN1rp3xr.html,https://open.spotify.com/track/5tdERSH4Mgu2dylN1rp3xr
+Bruce Springsteen,Blood Brothers - Alternate Version,False,0IoA3nvkWlHMPjvsXWU88S,https://kworb.net/spotify/track/0IoA3nvkWlHMPjvsXWU88S.html,https://open.spotify.com/track/0IoA3nvkWlHMPjvsXWU88S
+Bruce Springsteen,"Old Dan Tucker - Live at the Point Theatre, Dublin, Ireland - November 2006",False,2NMdVzBBRmoedtAvq75oPp,https://kworb.net/spotify/track/2NMdVzBBRmoedtAvq75oPp.html,https://open.spotify.com/track/2NMdVzBBRmoedtAvq75oPp
+Bruce Springsteen,"Thunder Road - Live at Warner Hollywood Studios, Los Angeles, CA - September 1992",False,1Be8xH5Ys7wZff7lDQyLkJ,https://kworb.net/spotify/track/1Be8xH5Ys7wZff7lDQyLkJ.html,https://open.spotify.com/track/1Be8xH5Ys7wZff7lDQyLkJ
+Bruce Springsteen,"Red Headed Woman - Live at Warner Hollywood Studios, Los Angeles, CA - September 1992",False,2CWQfRB7l1bGYVBckaJJUT,https://kworb.net/spotify/track/2CWQfRB7l1bGYVBckaJJUT.html,https://open.spotify.com/track/2CWQfRB7l1bGYVBckaJJUT
+Bruce Springsteen,Tomorrow Never Knows,False,3NtHU8jqIAERWScI9cJUIo,https://kworb.net/spotify/track/3NtHU8jqIAERWScI9cJUIo.html,https://open.spotify.com/track/3NtHU8jqIAERWScI9cJUIo
+Bruce Springsteen,This is Your Sword,False,6CHW7Je7FeCCSsGrjSAkZp,https://kworb.net/spotify/track/6CHW7Je7FeCCSsGrjSAkZp.html,https://open.spotify.com/track/6CHW7Je7FeCCSsGrjSAkZp
+Bruce Springsteen,"Atlantic City - Live at the Point Theatre, Dublin, Ireland - November 2006",False,4mwldZHYFByAKh1ZTUiI8F,https://kworb.net/spotify/track/4mwldZHYFByAKh1ZTUiI8F.html,https://open.spotify.com/track/4mwldZHYFByAKh1ZTUiI8F
+Bruce Springsteen,"Prove It All Night - Live at Madison Square Garden, New York, NY - June/July 2000",False,2tN6w5bSagvt7kL5LiB0p5,https://kworb.net/spotify/track/2tN6w5bSagvt7kL5LiB0p5.html,https://open.spotify.com/track/2tN6w5bSagvt7kL5LiB0p5
+Bruce Springsteen,*Did You Say Such A Thing (feat. Bruce Springsteen),False,7tzYZF0cVEwSVdzDFlg1RP,https://kworb.net/spotify/track/7tzYZF0cVEwSVdzDFlg1RP.html,https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP
+Bruce Springsteen,Gypsy Biker,False,5EmUMk42Am4f3bpatZHuPH,https://kworb.net/spotify/track/5EmUMk42Am4f3bpatZHuPH.html,https://open.spotify.com/track/5EmUMk42Am4f3bpatZHuPH
+Bruce Springsteen,The Fever - Studio Outtake - 1973,False,6bYSE8J7mA2sT61kF4lLZg,https://kworb.net/spotify/track/6bYSE8J7mA2sT61kF4lLZg.html,https://open.spotify.com/track/6bYSE8J7mA2sT61kF4lLZg
+Bruce Springsteen,"Atlantic City - Live at Warner Hollywood Studios, Los Angeles, CA - September 1992",False,2sxT3pTqDoB26sSfpWl15X,https://kworb.net/spotify/track/2sxT3pTqDoB26sSfpWl15X.html,https://open.spotify.com/track/2sxT3pTqDoB26sSfpWl15X
+Bruce Springsteen,"Out In the Street - Live at Madison Square Garden, New York, NY - June/July 2000",False,4U5AG8bTV6kKbucAYCeO9N,https://kworb.net/spotify/track/4U5AG8bTV6kKbucAYCeO9N.html,https://open.spotify.com/track/4U5AG8bTV6kKbucAYCeO9N
+Bruce Springsteen,"I Wish I Were Blind - Live at Warner Hollywood Studios, Los Angeles, CA - September 1992",False,1AP90TZY9gjBXYovkIpgpA,https://kworb.net/spotify/track/1AP90TZY9gjBXYovkIpgpA.html,https://open.spotify.com/track/1AP90TZY9gjBXYovkIpgpA
+Bruce Springsteen,Wild Billy's Circus Story,False,6OBEKyFZgWR0eKLFMJjJG1,https://kworb.net/spotify/track/6OBEKyFZgWR0eKLFMJjJG1.html,https://open.spotify.com/track/6OBEKyFZgWR0eKLFMJjJG1
+Bruce Springsteen,Sundown - Film Version,False,3YvVFTEwaZs8AGZUcypxOd,https://kworb.net/spotify/track/3YvVFTEwaZs8AGZUcypxOd.html,https://open.spotify.com/track/3YvVFTEwaZs8AGZUcypxOd
+Bruce Springsteen,American Land,False,4rzaPfWO07Cs1PIyXecjB2,https://kworb.net/spotify/track/4rzaPfWO07Cs1PIyXecjB2.html,https://open.spotify.com/track/4rzaPfWO07Cs1PIyXecjB2
+Bruce Springsteen,The Fuse,False,33J7vGytLYoIAomYcZn8kl,https://kworb.net/spotify/track/33J7vGytLYoIAomYcZn8kl.html,https://open.spotify.com/track/33J7vGytLYoIAomYcZn8kl
+Bruce Springsteen,My Love Will Not Let You Down - Studio Outtake - 1982,False,2OamVmtzJv63wz5YKeB1jP,https://kworb.net/spotify/track/2OamVmtzJv63wz5YKeB1jP.html,https://open.spotify.com/track/2OamVmtzJv63wz5YKeB1jP
+Bruce Springsteen,Save My Love,False,7gv3Z2VSvWjEA4HEqVtXtF,https://kworb.net/spotify/track/7gv3Z2VSvWjEA4HEqVtXtF.html,https://open.spotify.com/track/7gv3Z2VSvWjEA4HEqVtXtF
+Bruce Springsteen,"Working On The Highway - Live at Giants Stadium, E. Rutherford, NJ - August 1985",False,7DECMQwZ7q39LQcV5nMoHh,https://kworb.net/spotify/track/7DECMQwZ7q39LQcV5nMoHh.html,https://open.spotify.com/track/7DECMQwZ7q39LQcV5nMoHh
+Bruce Springsteen,"It's Hard To Be A Saint In The City - Live at the Roxy Theatre, W. Hollywood, CA - July 1978",False,3XvwJxLvtp04LOCiDdpD8D,https://kworb.net/spotify/track/3XvwJxLvtp04LOCiDdpD8D.html,https://open.spotify.com/track/3XvwJxLvtp04LOCiDdpD8D
+Bruce Springsteen,Last to Die,False,0m9hl8ZhjYFqVKPVSN2Xhb,https://kworb.net/spotify/track/0m9hl8ZhjYFqVKPVSN2Xhb.html,https://open.spotify.com/track/0m9hl8ZhjYFqVKPVSN2Xhb
+Bruce Springsteen,"Two Hearts - Live at Meadowlands Arena, E. Rutherford, NJ - July 1981",False,1xJ7QEBsrlcxrE2Jp8Zm0u,https://kworb.net/spotify/track/1xJ7QEBsrlcxrE2Jp8Zm0u.html,https://open.spotify.com/track/1xJ7QEBsrlcxrE2Jp8Zm0u
+Bruce Springsteen,Shenandoah,False,3DnGO6nNtrPOy8N2pKxk9F,https://kworb.net/spotify/track/3DnGO6nNtrPOy8N2pKxk9F.html,https://open.spotify.com/track/3DnGO6nNtrPOy8N2pKxk9F
+Bruce Springsteen,My Oklahoma Home,False,7dqmragLm9YMSqy4UCKO5P,https://kworb.net/spotify/track/7dqmragLm9YMSqy4UCKO5P.html,https://open.spotify.com/track/7dqmragLm9YMSqy4UCKO5P
+Bruce Springsteen,Your Own Worst Enemy,False,1wLsq01yVaIFOFlmtVy1W0,https://kworb.net/spotify/track/1wLsq01yVaIFOFlmtVy1W0.html,https://open.spotify.com/track/1wLsq01yVaIFOFlmtVy1W0
+Bruce Springsteen,Sinaloa Cowboys,False,39SaXjaiqahk7QASE2MrgI,https://kworb.net/spotify/track/39SaXjaiqahk7QASE2MrgI.html,https://open.spotify.com/track/39SaXjaiqahk7QASE2MrgI
+Bruce Springsteen,"Dancing In the Dark - Live at Brendan Byrne Arena, E. Rutherford, NJ - 8/5/1984",False,0zMMBELNGfbI1qS0jTHKOe,https://kworb.net/spotify/track/0zMMBELNGfbI1qS0jTHKOe.html,https://open.spotify.com/track/0zMMBELNGfbI1qS0jTHKOe
+Bruce Springsteen,"Paradise By The ""C"" - Live at the Roxy Theatre, W. Hollywood, CA - July 1978",False,3Or9IOMwJeupDtCH3ugiZN,https://kworb.net/spotify/track/3Or9IOMwJeupDtCH3ugiZN.html,https://open.spotify.com/track/3Or9IOMwJeupDtCH3ugiZN
+Bruce Springsteen,"If I Should Fall Behind - Live at Warner Hollywood Studios, Los Angeles, CA - September 1992",False,5mKMELcALGGyxHkP800ill,https://kworb.net/spotify/track/5mKMELcALGGyxHkP800ill.html,https://open.spotify.com/track/5mKMELcALGGyxHkP800ill
+Bruce Springsteen,"Tenth Avenue Freeze-Out - Live at Madison Square Garden, New York, NY - June/July 2000",False,1iDW9MyDBdvQ6ag2MwBw0X,https://kworb.net/spotify/track/1iDW9MyDBdvQ6ag2MwBw0X.html,https://open.spotify.com/track/1iDW9MyDBdvQ6ag2MwBw0X
+Bruce Springsteen,"Darlington County - Live at LA Coliseum, Los Angeles, CA - September 1985",False,60gHwCwD6z2N89LwcHZjHt,https://kworb.net/spotify/track/60gHwCwD6z2N89LwcHZjHt.html,https://open.spotify.com/track/60gHwCwD6z2N89LwcHZjHt
+Bruce Springsteen,"Tenth Avenue Freeze-Out - Live at the Hammersmith Odeon, London, UK - November 1975",False,7lJ8AcD7hEnTBLz1sixHey,https://kworb.net/spotify/track/7lJ8AcD7hEnTBLz1sixHey.html,https://open.spotify.com/track/7lJ8AcD7hEnTBLz1sixHey
+Bruce Springsteen,Back In Your Arms - Studio Outtake - 1995,False,4hFP45pHloNXIY9Bvu3TiV,https://kworb.net/spotify/track/4hFP45pHloNXIY9Bvu3TiV.html,https://open.spotify.com/track/4hFP45pHloNXIY9Bvu3TiV
+Bruce Springsteen,"Tougher Than the Rest - Live at the Walter Kerr Theatre, New York, NY - July 2018",False,0RWvjagX1YOcTNZ4EcKgqy,https://kworb.net/spotify/track/0RWvjagX1YOcTNZ4EcKgqy.html,https://open.spotify.com/track/0RWvjagX1YOcTNZ4EcKgqy
+Bruce Springsteen,"Prove It All Night - Live at Madison Square Garden, New York, NY - 09/22/79",False,0GmzNYfOaekGOARHoPTqxO,https://kworb.net/spotify/track/0GmzNYfOaekGOARHoPTqxO.html,https://open.spotify.com/track/0GmzNYfOaekGOARHoPTqxO
+Bruce Springsteen,"O Mary Don't You Weep - Live at the Point Theatre, Dublin, Ireland - November 2006",False,6kLug454lursghNhuLVjI6,https://kworb.net/spotify/track/6kLug454lursghNhuLVjI6.html,https://open.spotify.com/track/6kLug454lursghNhuLVjI6
+Bruce Springsteen,What Becomes of the Brokenhearted,False,3baNHHgIt0SHotZYUSt6Wy,https://kworb.net/spotify/track/3baNHHgIt0SHotZYUSt6Wy.html,https://open.spotify.com/track/3baNHHgIt0SHotZYUSt6Wy
+Bruce Springsteen,"This Little Light of Mine - Live at the Point Theatre, Dublin, Ireland - November 2006",False,45F5Du2IpQDwYdGN0jFYQb,https://kworb.net/spotify/track/45F5Du2IpQDwYdGN0jFYQb.html,https://open.spotify.com/track/45F5Du2IpQDwYdGN0jFYQb
+Bruce Springsteen,Janey Don't You Lose Heart - Single B-Side - 1985,False,1pk7mS3D6hRJsrzCDev9UY,https://kworb.net/spotify/track/1pk7mS3D6hRJsrzCDev9UY.html,https://open.spotify.com/track/1pk7mS3D6hRJsrzCDev9UY
+Bruce Springsteen,The Angel,False,5KaIwOufPpnMorBd9O4pxl,https://kworb.net/spotify/track/5KaIwOufPpnMorBd9O4pxl.html,https://open.spotify.com/track/5KaIwOufPpnMorBd9O4pxl
+Bruce Springsteen,"Mrs. McGrath - Live at the Point Theatre, Dublin, Ireland - November 2006",False,3GstGvxbW62as9uD0gJChO,https://kworb.net/spotify/track/3GstGvxbW62as9uD0gJChO.html,https://open.spotify.com/track/3GstGvxbW62as9uD0gJChO
+Bruce Springsteen,Man's Job,False,2fqeDaxNO0b7mhJPcoO1F5,https://kworb.net/spotify/track/2fqeDaxNO0b7mhJPcoO1F5.html,https://open.spotify.com/track/2fqeDaxNO0b7mhJPcoO1F5
+Bruce Springsteen,I Wish It Would Rain,False,3K6nQf3cw44yC8INLP4xPS,https://kworb.net/spotify/track/3K6nQf3cw44yC8INLP4xPS.html,https://open.spotify.com/track/3K6nQf3cw44yC8INLP4xPS
+Bruce Springsteen,Stand On It - Single B-Side - 1985,False,5FmIW8aV00ckb9H1c3OBz6,https://kworb.net/spotify/track/5FmIW8aV00ckb9H1c3OBz6.html,https://open.spotify.com/track/5FmIW8aV00ckb9H1c3OBz6
+Bruce Springsteen,"Purple Rain - Live at Barclays Center, Brooklyn, NY - 4/23/2016",False,5CpBkIxadxMZwpqAgp45VQ,https://kworb.net/spotify/track/5CpBkIxadxMZwpqAgp45VQ.html,https://open.spotify.com/track/5CpBkIxadxMZwpqAgp45VQ
+Bruce Springsteen,The Wayfarer - Film Version,False,6FPOXlsocQfNKNo2yn8PKm,https://kworb.net/spotify/track/6FPOXlsocQfNKNo2yn8PKm.html,https://open.spotify.com/track/6FPOXlsocQfNKNo2yn8PKm
+Bruce Springsteen,Tucson Train - Film Version,False,1FmpzuETef4zTQc6azxJCP,https://kworb.net/spotify/track/1FmpzuETef4zTQc6azxJCP.html,https://open.spotify.com/track/1FmpzuETef4zTQc6azxJCP
+Bruce Springsteen,Jacob's Ladder,False,4t2L7UTfOcUBF4P8j2eA45,https://kworb.net/spotify/track/4t2L7UTfOcUBF4P8j2eA45.html,https://open.spotify.com/track/4t2L7UTfOcUBF4P8j2eA45
+Bruce Springsteen,I Wanna Be With You - Studio Outtake - 1979,False,5JPbi8tVqfXvluElFmvOOG,https://kworb.net/spotify/track/5JPbi8tVqfXvluElFmvOOG.html,https://open.spotify.com/track/5JPbi8tVqfXvluElFmvOOG
+Bruce Springsteen,Across the Border,False,7lVyeemuCDArnL706efpTl,https://kworb.net/spotify/track/7lVyeemuCDArnL706efpTl.html,https://open.spotify.com/track/7lVyeemuCDArnL706efpTl
+Bruce Springsteen,"Raise Your Hand - Live at the Roxy Theatre, W. Hollywood, CA - July 1978",False,5j8uFHcUV2KH6IebmwuXXH,https://kworb.net/spotify/track/5j8uFHcUV2KH6IebmwuXXH.html,https://open.spotify.com/track/5j8uFHcUV2KH6IebmwuXXH
+Bruce Springsteen,What Love Can Do,False,0GZKQm2bW1DSmUxvb7NXDC,https://kworb.net/spotify/track/0GZKQm2bW1DSmUxvb7NXDC.html,https://open.spotify.com/track/0GZKQm2bW1DSmUxvb7NXDC
+Bruce Springsteen,"Seeds - Live at LA Coliseum, Los Angeles, CA - September 1985",False,7zdz1ZxlgLwRY6i2Ij2ACG,https://kworb.net/spotify/track/7zdz1ZxlgLwRY6i2Ij2ACG.html,https://open.spotify.com/track/7zdz1ZxlgLwRY6i2Ij2ACG
+Bruce Springsteen,Hungry Heart - Single LP Version - 1979,False,60xz8ZpEdA86PuMNohTvpM,https://kworb.net/spotify/track/60xz8ZpEdA86PuMNohTvpM.html,https://open.spotify.com/track/60xz8ZpEdA86PuMNohTvpM
+Bruce Springsteen,"Sherry Darling - Live at Madison Square Garden, New York, NY - 09/22/79",False,5KACKGdD8LATLXaFitTbLS,https://kworb.net/spotify/track/5KACKGdD8LATLXaFitTbLS.html,https://open.spotify.com/track/5KACKGdD8LATLXaFitTbLS
+Bruce Springsteen,"You Can Look (But You Better Not Touch) - Live at Nassau Coliseum, Uniondale, NY - December 1980",False,4pN2nnujPBIGzvbi2NL4RA,https://kworb.net/spotify/track/4pN2nnujPBIGzvbi2NL4RA.html,https://open.spotify.com/track/4pN2nnujPBIGzvbi2NL4RA
+Bruce Springsteen,Roll of the Dice,False,5I9jiKw7iUrgjij9BlSxEg,https://kworb.net/spotify/track/5I9jiKw7iUrgjij9BlSxEg.html,https://open.spotify.com/track/5I9jiKw7iUrgjij9BlSxEg
+Bruce Springsteen,Kingdom Of Days,False,6GF7nsLEJ16bIEHuGBH7h5,https://kworb.net/spotify/track/6GF7nsLEJ16bIEHuGBH7h5.html,https://open.spotify.com/track/6GF7nsLEJ16bIEHuGBH7h5
+Bruce Springsteen,Gotta Get That Feeling,False,3eqDiFEjN09mT86ZxV0cQ7,https://kworb.net/spotify/track/3eqDiFEjN09mT86ZxV0cQ7.html,https://open.spotify.com/track/3eqDiFEjN09mT86ZxV0cQ7
+Bruce Springsteen,"Hey, Western Union Man",False,5EQK7Zy6bcsBTcrV3M42pk,https://kworb.net/spotify/track/5EQK7Zy6bcsBTcrV3M42pk.html,https://open.spotify.com/track/5EQK7Zy6bcsBTcrV3M42pk
+Bruce Springsteen,"Growin' Up - Live at the Walter Kerr Theatre, New York, NY - July 2018",False,6LysH2MCHSCm6GnKWScHHA,https://kworb.net/spotify/track/6LysH2MCHSCm6GnKWScHHA.html,https://open.spotify.com/track/6LysH2MCHSCm6GnKWScHHA
+Bruce Springsteen,Eyes on the Prize,False,1S0xoTJmQCIhbpj9c1ZphK,https://kworb.net/spotify/track/1S0xoTJmQCIhbpj9c1ZphK.html,https://open.spotify.com/track/1S0xoTJmQCIhbpj9c1ZphK
+Bruce Springsteen,The Line,False,3D2a29lN634NyexjFPY9rV,https://kworb.net/spotify/track/3D2a29lN634NyexjFPY9rV.html,https://open.spotify.com/track/3D2a29lN634NyexjFPY9rV
+Bruce Springsteen,Someday (We'll Be Together),False,2zbGAJHx8SKEFOTkloYoi4,https://kworb.net/spotify/track/2zbGAJHx8SKEFOTkloYoi4.html,https://open.spotify.com/track/2zbGAJHx8SKEFOTkloYoi4
+Bruce Springsteen,"Thunder Road - Live at the Walter Kerr Theatre, New York, NY - July 2018",False,4t5vA7diJvcFGHMAEDrWzy,https://kworb.net/spotify/track/4t5vA7diJvcFGHMAEDrWzy.html,https://open.spotify.com/track/4t5vA7diJvcFGHMAEDrWzy
+Bruce Springsteen,"Surprise, Surprise",False,7KQ2eHNPNc9JWFn5NGdnn6,https://kworb.net/spotify/track/7KQ2eHNPNc9JWFn5NGdnn6.html,https://open.spotify.com/track/7KQ2eHNPNc9JWFn5NGdnn6
+Bruce Springsteen,Missing - from 'The Crossing Guard' OST,False,5WyuAivBKb2T68C4YNsjGW,https://kworb.net/spotify/track/5WyuAivBKb2T68C4YNsjGW.html,https://open.spotify.com/track/5WyuAivBKb2T68C4YNsjGW
+Bruce Springsteen,"She's the One - Live at the Hammersmith Odeon, London, UK - November 1975",False,0dhsKLr6aJNpHTvsgRI2j5,https://kworb.net/spotify/track/0dhsKLr6aJNpHTvsgRI2j5.html,https://open.spotify.com/track/0dhsKLr6aJNpHTvsgRI2j5
+Bruce Springsteen,"The River - Live at Madison Square Garden, New York, NY - 09/22/79",False,6CjoVIa36eqhhChapMkMF3,https://kworb.net/spotify/track/6CjoVIa36eqhhChapMkMF3.html,https://open.spotify.com/track/6CjoVIa36eqhhChapMkMF3
+Bruce Springsteen,I Forgot To Be Your Lover (feat. Sam Moore),False,7vZIal7p5GUPc2XWQ13jW3,https://kworb.net/spotify/track/7vZIal7p5GUPc2XWQ13jW3.html,https://open.spotify.com/track/7vZIal7p5GUPc2XWQ13jW3
+Bruce Springsteen,Froggie Went a Courtin',False,07fNOvllfYmjvQU76biksH,https://kworb.net/spotify/track/07fNOvllfYmjvQU76biksH.html,https://open.spotify.com/track/07fNOvllfYmjvQU76biksH
+Bruce Springsteen,Bring 'Em Home,False,20NMvQ7078gahRN511FACT,https://kworb.net/spotify/track/20NMvQ7078gahRN511FACT.html,https://open.spotify.com/track/20NMvQ7078gahRN511FACT
+Bruce Springsteen,"Man's Job - Live at Warner Hollywood Studios, Los Angeles, CA - September 1992",False,314a7to7BaisUASLhwyCVi,https://kworb.net/spotify/track/314a7to7BaisUASLhwyCVi.html,https://open.spotify.com/track/314a7to7BaisUASLhwyCVi
+Bruce Springsteen,Someday We'll Be Together,False,2sSL1ImM8A2IcXAvbYUxTT,https://kworb.net/spotify/track/2sSL1ImM8A2IcXAvbYUxTT.html,https://open.spotify.com/track/2sSL1ImM8A2IcXAvbYUxTT
+Bruce Springsteen,Dry Lightning,False,5gw1ngV7cDILJHTujuvs6O,https://kworb.net/spotify/track/5gw1ngV7cDILJHTujuvs6O.html,https://open.spotify.com/track/5gw1ngV7cDILJHTujuvs6O
+Bruce Springsteen,Maria's Bed,False,6PHPbZkJmYAoKyGKa2qAQW,https://kworb.net/spotify/track/6PHPbZkJmYAoKyGKa2qAQW.html,https://open.spotify.com/track/6PHPbZkJmYAoKyGKa2qAQW
+Bruce Springsteen,This Life,False,4DpVLXMJpcCUGVd8hSM15Z,https://kworb.net/spotify/track/4DpVLXMJpcCUGVd8hSM15Z.html,https://open.spotify.com/track/4DpVLXMJpcCUGVd8hSM15Z
+Bruce Springsteen,Pony Boy,False,6J31VG7KJxq5G53Pw1Qs9N,https://kworb.net/spotify/track/6J31VG7KJxq5G53Pw1Qs9N.html,https://open.spotify.com/track/6J31VG7KJxq5G53Pw1Qs9N
+Bruce Springsteen,Any Other Way,False,2LRkPUjFJd4YNHZqAPxahC,https://kworb.net/spotify/track/2LRkPUjFJd4YNHZqAPxahC.html,https://open.spotify.com/track/2LRkPUjFJd4YNHZqAPxahC
+Bruce Springsteen,Soul Driver,False,7jCOvsWfneHRULA5JKqwTV,https://kworb.net/spotify/track/7jCOvsWfneHRULA5JKqwTV.html,https://open.spotify.com/track/7jCOvsWfneHRULA5JKqwTV
+Bruce Springsteen,Sleepy Joe's CafÃ© - Film Version,False,3tRK0db2wd6d2JBEblKTtl,https://kworb.net/spotify/track/3tRK0db2wd6d2JBEblKTtl.html,https://open.spotify.com/track/3tRK0db2wd6d2JBEblKTtl
+Bruce Springsteen,"The Wish - Live at the Walter Kerr Theatre, New York, NY - July 2018",False,1HeIA8Es0YmMzx9wsW0jLK,https://kworb.net/spotify/track/1HeIA8Es0YmMzx9wsW0jLK.html,https://open.spotify.com/track/1HeIA8Es0YmMzx9wsW0jLK
+Bruce Springsteen,My Beautiful Reward,False,22zWT1qkAqcqGsKDOos3ye,https://kworb.net/spotify/track/22zWT1qkAqcqGsKDOos3ye.html,https://open.spotify.com/track/22zWT1qkAqcqGsKDOos3ye
+Bruce Springsteen,"When the Saints Go Marching In - Live at the Point Theatre, Dublin, Ireland - November 2006",False,43wn74ZdUtgDFoTeExwo7c,https://kworb.net/spotify/track/43wn74ZdUtgDFoTeExwo7c.html,https://open.spotify.com/track/43wn74ZdUtgDFoTeExwo7c
+Bruce Springsteen,"Jesse James - Live at the Point Theatre, Dublin, Ireland - November 2006",False,0aPWKuQAiaYzdKuS6lN10k,https://kworb.net/spotify/track/0aPWKuQAiaYzdKuS6lN10k.html,https://open.spotify.com/track/0aPWKuQAiaYzdKuS6lN10k
+Bruce Springsteen,Talk to Me,False,6HraU1Tt4h6LXKjIB8yx2d,https://kworb.net/spotify/track/6HraU1Tt4h6LXKjIB8yx2d.html,https://open.spotify.com/track/6HraU1Tt4h6LXKjIB8yx2d
+Bruce Springsteen,"Eyes on the Prize - Live at the Point Theatre, Dublin, Ireland - November 2006",False,5P2lakk0jd1hzBeLijAu9G,https://kworb.net/spotify/track/5P2lakk0jd1hzBeLijAu9G.html,https://open.spotify.com/track/5P2lakk0jd1hzBeLijAu9G
+Bruce Springsteen,Where The Bands Are - Studio Outtake - 1979,False,01tBpn6TR9LTG1xbwnXUOC,https://kworb.net/spotify/track/01tBpn6TR9LTG1xbwnXUOC.html,https://open.spotify.com/track/01tBpn6TR9LTG1xbwnXUOC
+Bruce Springsteen,"Born to Run - Live at the Hammersmith Odeon, London, UK - November 1975",False,0hdPw0RRNCFFnCuYxLS59D,https://kworb.net/spotify/track/0hdPw0RRNCFFnCuYxLS59D.html,https://open.spotify.com/track/0hdPw0RRNCFFnCuYxLS59D
+Bruce Springsteen,How Can a Poor Man Stand Such Times and Live,False,3uPImxAltF6FcSGIC3OPWq,https://kworb.net/spotify/track/3uPImxAltF6FcSGIC3OPWq.html,https://open.spotify.com/track/3uPImxAltF6FcSGIC3OPWq
+Bruce Springsteen,The Ballad of Jesse James,False,5b1DqW7n5AvEjVgw6jRzE9,https://kworb.net/spotify/track/5b1DqW7n5AvEjVgw6jRzE9.html,https://open.spotify.com/track/5b1DqW7n5AvEjVgw6jRzE9
+Bruce Springsteen,The Last Carnival,False,55BnUofUqupastRt9118pO,https://kworb.net/spotify/track/55BnUofUqupastRt9118pO.html,https://open.spotify.com/track/55BnUofUqupastRt9118pO
+Bruce Springsteen,Spanish Eyes,False,0suvhcO8s8zpp7u3YFJxas,https://kworb.net/spotify/track/0suvhcO8s8zpp7u3YFJxas.html,https://open.spotify.com/track/0suvhcO8s8zpp7u3YFJxas
+Bruce Springsteen,Cross My Heart,False,3YBipPWVkpZ9UL1yQ5CMzW,https://kworb.net/spotify/track/3YBipPWVkpZ9UL1yQ5CMzW.html,https://open.spotify.com/track/3YBipPWVkpZ9UL1yQ5CMzW
+Bruce Springsteen,Cindy - Single LP Version - 1979,False,4AnTU0gMQaQIDnoDWy0Dvx,https://kworb.net/spotify/track/4AnTU0gMQaQIDnoDWy0Dvx.html,https://open.spotify.com/track/4AnTU0gMQaQIDnoDWy0Dvx
+Bruce Springsteen,Henry Boy,False,3VMSj3Nv5LTtji0aA7FFYv,https://kworb.net/spotify/track/3VMSj3Nv5LTtji0aA7FFYv.html,https://open.spotify.com/track/3VMSj3Nv5LTtji0aA7FFYv
+Bruce Springsteen,Buffalo Gals,False,28Q9uWuoLNCl3e8fJADaL1,https://kworb.net/spotify/track/28Q9uWuoLNCl3e8fJADaL1.html,https://open.spotify.com/track/28Q9uWuoLNCl3e8fJADaL1
+Bruce Springsteen,Party Lights - Studio Outtake - 1980,False,5IrZgtnsNBTeRLsqq5gyyg,https://kworb.net/spotify/track/5IrZgtnsNBTeRLsqq5gyyg.html,https://open.spotify.com/track/5IrZgtnsNBTeRLsqq5gyyg
+Bruce Springsteen,Viva Las Vegas - from 'The Last Temptation of Elvis',False,7dQlIzDMlZYb1cFqMOSkF5,https://kworb.net/spotify/track/7dQlIzDMlZYb1cFqMOSkF5.html,https://open.spotify.com/track/7dQlIzDMlZYb1cFqMOSkF5
+Bruce Springsteen,"Thunder Road - Live at Madison Square Garden, New York, NY - 09/21/79",False,1Id2oHtuPn4sBcKyEvHBSQ,https://kworb.net/spotify/track/1Id2oHtuPn4sBcKyEvHBSQ.html,https://open.spotify.com/track/1Id2oHtuPn4sBcKyEvHBSQ
+Bruce Springsteen,One Way Street,False,7G4HMJbwSQLtrgbIefw0VA,https://kworb.net/spotify/track/7G4HMJbwSQLtrgbIefw0VA.html,https://open.spotify.com/track/7G4HMJbwSQLtrgbIefw0VA
+Bruce Springsteen,"Lost In the Flood - Live at the Hammersmith Odeon, London, UK - November 1975",False,5ymKK4A0mInBFBKYJjRXTj,https://kworb.net/spotify/track/5ymKK4A0mInBFBKYJjRXTj.html,https://open.spotify.com/track/5ymKK4A0mInBFBKYJjRXTj
+Bruce Springsteen,Leap Of Faith,False,1femVqwJLS5eC9RgCe50Dc,https://kworb.net/spotify/track/1femVqwJLS5eC9RgCe50Dc.html,https://open.spotify.com/track/1femVqwJLS5eC9RgCe50Dc
+Bruce Springsteen,Outside Looking In,False,2nSsS9Rf6HQeJ7yK4mw1kP,https://kworb.net/spotify/track/2nSsS9Rf6HQeJ7yK4mw1kP.html,https://open.spotify.com/track/2nSsS9Rf6HQeJ7yK4mw1kP
+Bruce Springsteen,"Jungleland - Live at the Hammersmith Odeon, London, UK - November 1975",False,6oYzuOipuYP9ZpOgWmVAKP,https://kworb.net/spotify/track/6oYzuOipuYP9ZpOgWmVAKP.html,https://open.spotify.com/track/6oYzuOipuYP9ZpOgWmVAKP
+Bruce Springsteen,Addicted to Romance - from the film 'She Came to Me',False,0SQ4VQXznjjfueQeMh0Ve1,https://kworb.net/spotify/track/0SQ4VQXznjjfueQeMh0Ve1.html,https://open.spotify.com/track/0SQ4VQXznjjfueQeMh0Ve1
+Bruce Springsteen,Balboa Park,False,4XDQuvRrjGKuD1VzZsKY1a,https://kworb.net/spotify/track/4XDQuvRrjGKuD1VzZsKY1a.html,https://open.spotify.com/track/4XDQuvRrjGKuD1VzZsKY1a
+Bruce Springsteen,Roulette - Studio Outtake - 1979,False,0yvpBvhz7Xft2zJi8DfKEo,https://kworb.net/spotify/track/0yvpBvhz7Xft2zJi8DfKEo.html,https://open.spotify.com/track/0yvpBvhz7Xft2zJi8DfKEo
+Bruce Springsteen,Chasin' Wild Horses - Film Version,False,05eKAYwnkIOJIwcZSJSzRs,https://kworb.net/spotify/track/05eKAYwnkIOJIwcZSJSzRs.html,https://open.spotify.com/track/05eKAYwnkIOJIwcZSJSzRs
+Bruce Springsteen,Local Hero,False,1mYQqrXUfi4vPiL8ml9YuM,https://kworb.net/spotify/track/1mYQqrXUfi4vPiL8ml9YuM.html,https://open.spotify.com/track/1mYQqrXUfi4vPiL8ml9YuM
+Bruce Springsteen,Stolen Car - Single LP Version - 1979,False,4kBH3agi5Bcl82KYlEhvRp,https://kworb.net/spotify/track/4kBH3agi5Bcl82KYlEhvRp.html,https://open.spotify.com/track/4kBH3agi5Bcl82KYlEhvRp
+Bruce Springsteen,"Murder Incorporated - Live at Madison Square Garden, New York, NY - June/July 2000",False,0uqgSZWPZ5Wm7xwBRxuIDn,https://kworb.net/spotify/track/0uqgSZWPZ5Wm7xwBRxuIDn.html,https://open.spotify.com/track/0uqgSZWPZ5Wm7xwBRxuIDn
+Bruce Springsteen,The Ties That Bind - Single LP Version - 1979,False,3Lf0rT3uwJKWi1TUyKZ10J,https://kworb.net/spotify/track/3Lf0rT3uwJKWi1TUyKZ10J.html,https://open.spotify.com/track/3Lf0rT3uwJKWi1TUyKZ10J
+Bruce Springsteen,The Wish - Studio Outtake - 1987,False,4pEueOLwLhEoc96uSzmoOa,https://kworb.net/spotify/track/4pEueOLwLhEoc96uSzmoOa.html,https://open.spotify.com/track/4pEueOLwLhEoc96uSzmoOa
+Bruce Springsteen,Drive Fast (The Stuntman) - Film Version,False,3w9L5cvyoDu29d1dz4dEcI,https://kworb.net/spotify/track/3w9L5cvyoDu29d1dz4dEcI.html,https://open.spotify.com/track/3w9L5cvyoDu29d1dz4dEcI
+Bruce Springsteen,Leah,False,5HkWcIkVoUKsMq1Qvqvg3H,https://kworb.net/spotify/track/5HkWcIkVoUKsMq1Qvqvg3H.html,https://open.spotify.com/track/5HkWcIkVoUKsMq1Qvqvg3H
+Bruce Springsteen,The River - Single LP Version - 1979,False,2IVsKq1ZEey2NTWwWWElVh,https://kworb.net/spotify/track/2IVsKq1ZEey2NTWwWWElVh.html,https://open.spotify.com/track/2IVsKq1ZEey2NTWwWWElVh
+Bruce Springsteen,"Two Hearts - Live at Madison Square Garden, New York, NY - June/July 2000",False,2Lsttno74zoqrRBe2B8enO,https://kworb.net/spotify/track/2Lsttno74zoqrRBe2B8enO.html,https://open.spotify.com/track/2Lsttno74zoqrRBe2B8enO
+Bruce Springsteen,"Spirit In The Night - Live at the Hammersmith Odeon, London, UK - November 1975",False,0iknUVjF5tojBSTqC3pL0S,https://kworb.net/spotify/track/0iknUVjF5tojBSTqC3pL0S.html,https://open.spotify.com/track/0iknUVjF5tojBSTqC3pL0S
+Bruce Springsteen,Reno,False,1EosR6LgyX7C4kNDUsbqsg,https://kworb.net/spotify/track/1EosR6LgyX7C4kNDUsbqsg.html,https://open.spotify.com/track/1EosR6LgyX7C4kNDUsbqsg
+Bruce Springsteen,All The Way Home,False,5xqK2CfiscQLAXpNxomQMz,https://kworb.net/spotify/track/5xqK2CfiscQLAXpNxomQMz.html,https://open.spotify.com/track/5xqK2CfiscQLAXpNxomQMz
+Bruce Springsteen,"Erie Canal - Live at the Point Theatre, Dublin, Ireland - November 2006",False,6G6Ewp5nk8sDrEW8EHpi6u,https://kworb.net/spotify/track/6G6Ewp5nk8sDrEW8EHpi6u.html,https://open.spotify.com/track/6G6Ewp5nk8sDrEW8EHpi6u
+Bruce Springsteen,Lift Me Up - from 'Limbo' OST,False,0tFY7r8LVPJMtRHuykRlSj,https://kworb.net/spotify/track/0tFY7r8LVPJMtRHuykRlSj.html,https://open.spotify.com/track/0tFY7r8LVPJMtRHuykRlSj
+Bruce Springsteen,"Dead Man Walkin' - from ""Dead Man Walkin'""",False,7bZHk2B5L4LgzcLy1vrf4E,https://kworb.net/spotify/track/7bZHk2B5L4LgzcLy1vrf4E.html,https://open.spotify.com/track/7bZHk2B5L4LgzcLy1vrf4E
+Bruce Springsteen,Rendezvous,False,2377q16lGJp3iqRN5SdjXl,https://kworb.net/spotify/track/2377q16lGJp3iqRN5SdjXl.html,https://open.spotify.com/track/2377q16lGJp3iqRN5SdjXl
+Bruce Springsteen,The Brokenhearted,False,38ukUkU69g6DGQCd3ayFGO,https://kworb.net/spotify/track/38ukUkU69g6DGQCd3ayFGO.html,https://open.spotify.com/track/38ukUkU69g6DGQCd3ayFGO
+Bruce Springsteen,*Chinatown (feat. Bruce Springsteen) - Recorded at Electric Lady Studio,False,0nJCClpIcss7ADSaZ9fBpa,https://kworb.net/spotify/track/0nJCClpIcss7ADSaZ9fBpa.html,https://open.spotify.com/track/0nJCClpIcss7ADSaZ9fBpa
+Bruce Springsteen,Hello Sunshine - Film Version,False,05rizAAJYYh9y2SnAIoCPZ,https://kworb.net/spotify/track/05rizAAJYYh9y2SnAIoCPZ.html,https://open.spotify.com/track/05rizAAJYYh9y2SnAIoCPZ
+Bruce Springsteen,"Growin' Up (Introduction) - Live at the Walter Kerr Theatre, New York, NY - July 2018",False,7jTBodGQzYdcXbiTIz5GEe,https://kworb.net/spotify/track/7jTBodGQzYdcXbiTIz5GEe.html,https://open.spotify.com/track/7jTBodGQzYdcXbiTIz5GEe
+Bruce Springsteen,Life Itself,False,45PwQHOUx6EQZ9pCbMC8lu,https://kworb.net/spotify/track/45PwQHOUx6EQZ9pCbMC8lu.html,https://open.spotify.com/track/45PwQHOUx6EQZ9pCbMC8lu
+Bruce Springsteen,"My Oklahoma Home - Live at the Point Theatre, Dublin, Ireland - November 2006",False,4LOJltIwtQgPGmb42QP0cj,https://kworb.net/spotify/track/4LOJltIwtQgPGmb42QP0cj.html,https://open.spotify.com/track/4LOJltIwtQgPGmb42QP0cj
+Bruce Springsteen,My Best Was Never Good Enough,False,7wfgcuh43jsQCUsWReFzTR,https://kworb.net/spotify/track/7wfgcuh43jsQCUsWReFzTR.html,https://open.spotify.com/track/7wfgcuh43jsQCUsWReFzTR
+Bruce Springsteen,Terry's Song,False,0Z0fC0YNVyikjF50WMRdgS,https://kworb.net/spotify/track/0Z0fC0YNVyikjF50WMRdgS.html,https://open.spotify.com/track/0Z0fC0YNVyikjF50WMRdgS
+Bruce Springsteen,7 Rooms Of Gloom,False,3kZkcdPm9HQy7KwAnbWPph,https://kworb.net/spotify/track/3kZkcdPm9HQy7KwAnbWPph.html,https://open.spotify.com/track/3kZkcdPm9HQy7KwAnbWPph
+Bruce Springsteen,Candy's Boy,False,24CddFkMemTIlczJkcSUNE,https://kworb.net/spotify/track/24CddFkMemTIlczJkcSUNE.html,https://open.spotify.com/track/24CddFkMemTIlczJkcSUNE
+Bruce Springsteen,"Lucky Town - Live at Warner Hollywood Studios, Los Angeles, CA - September 1992",False,4XwQKfh45dStVTuGH9f04W,https://kworb.net/spotify/track/4XwQKfh45dStVTuGH9f04W.html,https://open.spotify.com/track/4XwQKfh45dStVTuGH9f04W
+Bruce Springsteen,Be True - Single LP Version - 1979,False,0urOl37IJY46eq8hPQWRUs,https://kworb.net/spotify/track/0urOl37IJY46eq8hPQWRUs.html,https://open.spotify.com/track/0urOl37IJY46eq8hPQWRUs
+Bruce Springsteen,*She Don't Love Me Now,False,74srY0SjUrZMyjIB6sPQ4R,https://kworb.net/spotify/track/74srY0SjUrZMyjIB6sPQ4R.html,https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R
+Bruce Springsteen,The New Timer,False,0Ms6R5cgFl2mvt3bnghtmk,https://kworb.net/spotify/track/0Ms6R5cgFl2mvt3bnghtmk.html,https://open.spotify.com/track/0Ms6R5cgFl2mvt3bnghtmk
+Bruce Springsteen,There Goes My Miracle - Film Version,False,5delR93ecqgtAIbhRdMDPO,https://kworb.net/spotify/track/5delR93ecqgtAIbhRdMDPO.html,https://open.spotify.com/track/5delR93ecqgtAIbhRdMDPO
+Bruce Springsteen,"Blinded By The Light - The Song - Live at the Point Theatre, Dublin, Ireland - November 2006",False,7fJeCq68E3QfbnmxbbgnoZ,https://kworb.net/spotify/track/7fJeCq68E3QfbnmxbbgnoZ.html,https://open.spotify.com/track/7fJeCq68E3QfbnmxbbgnoZ
+Bruce Springsteen,"Darkness On the Edge of Town - Live at Warner Hollywood Studios, Los Angeles, CA - September 1992",False,4gqxQL2mEsFYDQavvV6RcM,https://kworb.net/spotify/track/4gqxQL2mEsFYDQavvV6RcM.html,https://open.spotify.com/track/4gqxQL2mEsFYDQavvV6RcM
+Bruce Springsteen,Wrong Side of the Street,False,3tb2Rr1hSKrhmAGhARs7yf,https://kworb.net/spotify/track/3tb2Rr1hSKrhmAGhARs7yf.html,https://open.spotify.com/track/3tb2Rr1hSKrhmAGhARs7yf
+Bruce Springsteen,"Highway Patrolman - Live at the Point Theatre, Dublin, Ireland - November 2006",False,2W8mydG4UrC9NlCDIYn7Jh,https://kworb.net/spotify/track/2W8mydG4UrC9NlCDIYn7Jh.html,https://open.spotify.com/track/2W8mydG4UrC9NlCDIYn7Jh
+Bruce Springsteen,Come On (Let's Go Tonight),False,6SH8ffmA8APCauRRNVcwT1,https://kworb.net/spotify/track/6SH8ffmA8APCauRRNVcwT1.html,https://open.spotify.com/track/6SH8ffmA8APCauRRNVcwT1
+Bruce Springsteen,"Mansion On the Hill - Live at Madison Square Garden, New York, NY - June/July 2000",False,2xgMw17fDbK1iKBpDN5O5C,https://kworb.net/spotify/track/2xgMw17fDbK1iKBpDN5O5C.html,https://open.spotify.com/track/2xgMw17fDbK1iKBpDN5O5C
+Bruce Springsteen,Loose Ends - Single LP Version - 1979,False,26P0taK4ugxnS6ovX319mo,https://kworb.net/spotify/track/26P0taK4ugxnS6ovX319mo.html,https://open.spotify.com/track/26P0taK4ugxnS6ovX319mo
+Bruce Springsteen,Take 'Em as They Come - Studio Outtake - 1980,False,6V3Y13ZSA1bH7YAbUo8Umc,https://kworb.net/spotify/track/6V3Y13ZSA1bH7YAbUo8Umc.html,https://open.spotify.com/track/6V3Y13ZSA1bH7YAbUo8Umc
+Bruce Springsteen,Stones - Film Version,False,6PKOGoRNhAd01tltGGWg1s,https://kworb.net/spotify/track/6PKOGoRNhAd01tltGGWg1s.html,https://open.spotify.com/track/6PKOGoRNhAd01tltGGWg1s
+Bruce Springsteen,Good Eye,False,5L4XI3rAipDiTKdYOoS27G,https://kworb.net/spotify/track/5L4XI3rAipDiTKdYOoS27G.html,https://open.spotify.com/track/5L4XI3rAipDiTKdYOoS27G
+Bruce Springsteen,All I'm Thinkin' About,False,5aFPkGyURyOpilNqIcmphC,https://kworb.net/spotify/track/5aFPkGyURyOpilNqIcmphC.html,https://open.spotify.com/track/5aFPkGyURyOpilNqIcmphC
+Bruce Springsteen,"Chimes of Freedom - Live at Stockholms Olympiastadion, Stockholm, SE - July 1988",False,2BeUsBb8MbJaBzl2pozQoF,https://kworb.net/spotify/track/2BeUsBb8MbJaBzl2pozQoF.html,https://open.spotify.com/track/2BeUsBb8MbJaBzl2pozQoF
+Bruce Springsteen,"Brilliant Disguise - Live at the Walter Kerr Theatre, New York, NY - July 2018",False,3BovzKDaHT2jsEZj3Kku95,https://kworb.net/spotify/track/3BovzKDaHT2jsEZj3Kku95.html,https://open.spotify.com/track/3BovzKDaHT2jsEZj3Kku95
+Bruce Springsteen,With Every Wish,False,4UZFnSaV7AMEUNcd33Djgm,https://kworb.net/spotify/track/4UZFnSaV7AMEUNcd33Djgm.html,https://open.spotify.com/track/4UZFnSaV7AMEUNcd33Djgm
+Bruce Springsteen,City of Night,False,57iXIQYshWQ213cpjE7SgO,https://kworb.net/spotify/track/57iXIQYshWQ213cpjE7SgO.html,https://open.spotify.com/track/57iXIQYshWQ213cpjE7SgO
+Bruce Springsteen,Galveston Bay,False,5SMqAcyULA666x9M51t2wm,https://kworb.net/spotify/track/5SMqAcyULA666x9M51t2wm.html,https://open.spotify.com/track/5SMqAcyULA666x9M51t2wm
+Bruce Springsteen,Loose Ends - Studio Outtake - 1979,False,6OVpwWUoAxnw3wHahWY1Hm,https://kworb.net/spotify/track/6OVpwWUoAxnw3wHahWY1Hm.html,https://open.spotify.com/track/6OVpwWUoAxnw3wHahWY1Hm
+Bruce Springsteen,Stray Bullet - Studio Outtake - 1980,False,0Hd6VztNzTTm02k5czm8kZ,https://kworb.net/spotify/track/0Hd6VztNzTTm02k5czm8kZ.html,https://open.spotify.com/track/0Hd6VztNzTTm02k5czm8kZ
+Bruce Springsteen,"How Can a Poor Man Stand Such Times and Live - Live at the Point Theatre, Dublin, Ireland - Novembe",False,5vYStQLC3YK2QDehsXgjPJ,https://kworb.net/spotify/track/5vYStQLC3YK2QDehsXgjPJ.html,https://open.spotify.com/track/5vYStQLC3YK2QDehsXgjPJ
+Bruce Springsteen,Book of Dreams,False,5KWueq2An5IRg2VFup6sgb,https://kworb.net/spotify/track/5KWueq2An5IRg2VFup6sgb.html,https://open.spotify.com/track/5KWueq2An5IRg2VFup6sgb
+Bruce Springsteen,"Downbound Train - Live at LA Memorial Coliseum, Los Angeles, CA - 9/27/1985",False,08xrGsq938BBXHX9yRwDyB,https://kworb.net/spotify/track/08xrGsq938BBXHX9yRwDyB.html,https://open.spotify.com/track/08xrGsq938BBXHX9yRwDyB
+Bruce Springsteen,"Open All Night - Live at the Point Theatre, Dublin, Ireland - November 2006",False,2zm9wKprDcEF99adjUKfoR,https://kworb.net/spotify/track/2zm9wKprDcEF99adjUKfoR.html,https://open.spotify.com/track/2zm9wKprDcEF99adjUKfoR
+Bruce Springsteen,"Backstreets - Live at the Hammersmith Odeon, London, UK - November 1975",False,1HLbfFVLMVPphzckhhHdyi,https://kworb.net/spotify/track/1HLbfFVLMVPphzckhhHdyi.html,https://open.spotify.com/track/1HLbfFVLMVPphzckhhHdyi
+Bruce Springsteen,"Waitin' on a Sunny Day - Live at Olympiastadion, Helsinki, Finland - 6/16/2003",False,0Dom9Lgfy2dkxlLbknA7Xa,https://kworb.net/spotify/track/0Dom9Lgfy2dkxlLbknA7Xa.html,https://open.spotify.com/track/0Dom9Lgfy2dkxlLbknA7Xa
+Bruce Springsteen,"Lost In the Flood - Live at Madison Square Garden, New York, NY - June/July 2000",False,08IRvRylPsA29UrbTB4TLu,https://kworb.net/spotify/track/08IRvRylPsA29UrbTB4TLu.html,https://open.spotify.com/track/08IRvRylPsA29UrbTB4TLu
+Bruce Springsteen,The Time That Never Was - Studio Outtake - 1980,False,2KyBtykwJvMrUF2hmHNjoa,https://kworb.net/spotify/track/2KyBtykwJvMrUF2hmHNjoa.html,https://open.spotify.com/track/2KyBtykwJvMrUF2hmHNjoa
+Bruce Springsteen,"The Rising - Live at the Walter Kerr Theatre, New York, NY - July 2018",False,4912tpbfCZEcSqPvmQVu1W,https://kworb.net/spotify/track/4912tpbfCZEcSqPvmQVu1W.html,https://open.spotify.com/track/4912tpbfCZEcSqPvmQVu1W
+Bruce Springsteen,Somewhere North of Nashville - Film Version,False,5DvmvGpiGl2GEy5gp3rg7u,https://kworb.net/spotify/track/5DvmvGpiGl2GEy5gp3rg7u.html,https://open.spotify.com/track/5DvmvGpiGl2GEy5gp3rg7u
+Bruce Springsteen,"The Promised Land - Live at Madison Square Garden, New York, NY - 09/22/79",False,6wnVTdEIGOuIevodSTZHkR,https://kworb.net/spotify/track/6wnVTdEIGOuIevodSTZHkR.html,https://open.spotify.com/track/6wnVTdEIGOuIevodSTZHkR
+Bruce Springsteen,"Light of Day - Live at Warner Hollywood Studios, Los Angeles, CA - September 1992",False,4T5a8xqZ6YoWtEOMS3Q268,https://kworb.net/spotify/track/4T5a8xqZ6YoWtEOMS3Q268.html,https://open.spotify.com/track/4T5a8xqZ6YoWtEOMS3Q268
+Bruce Springsteen,Little White Lies - Studio Outtake - 1979,False,2cT0NyGQoA3M9a0XqYDGUe,https://kworb.net/spotify/track/2cT0NyGQoA3M9a0XqYDGUe.html,https://open.spotify.com/track/2cT0NyGQoA3M9a0XqYDGUe
+Bruce Springsteen,Moonlight Motel - Film Version,False,7w8SXSTI9kyUTj1m4TbTQP,https://kworb.net/spotify/track/7w8SXSTI9kyUTj1m4TbTQP.html,https://open.spotify.com/track/7w8SXSTI9kyUTj1m4TbTQP
+Bruce Springsteen,Restless Nights - Studio Outtake - 1980,False,1jM6WWcr6q9WXcgtCmEZIh,https://kworb.net/spotify/track/1jM6WWcr6q9WXcgtCmEZIh.html,https://open.spotify.com/track/1jM6WWcr6q9WXcgtCmEZIh
+Bruce Springsteen,"Long Time Comin' - Live at the Point Theatre, Dublin, Ireland - November 2006",False,51zjAq40hyWBCSy34tcWvR,https://kworb.net/spotify/track/51zjAq40hyWBCSy34tcWvR.html,https://open.spotify.com/track/51zjAq40hyWBCSy34tcWvR
+Bruce Springsteen,"Love of the Common People - Live at the Point Theatre, Dublin, Ireland - November 2006",False,45Xh7LEZx6rp17KDniZKuo,https://kworb.net/spotify/track/45Xh7LEZx6rp17KDniZKuo.html,https://open.spotify.com/track/45Xh7LEZx6rp17KDniZKuo
+Bruce Springsteen,"We Shall Overcome - Live at the Point Theatre, Dublin, Ireland - November 2006",False,0txTXArTiF0YzDaCOmFzzP,https://kworb.net/spotify/track/0txTXArTiF0YzDaCOmFzzP.html,https://open.spotify.com/track/0txTXArTiF0YzDaCOmFzzP
+Bruce Springsteen,Devil's Arcade,False,0d5OjJpP79QvO24yisI7qq,https://kworb.net/spotify/track/0d5OjJpP79QvO24yisI7qq.html,https://open.spotify.com/track/0d5OjJpP79QvO24yisI7qq
+Bruce Springsteen,"The E Street Shuffle / Having A Party - Live at the Hammersmith Odeon, London, UK - November 1975",False,1XobP3s3u53mtkls75CsUM,https://kworb.net/spotify/track/1XobP3s3u53mtkls75CsUM.html,https://open.spotify.com/track/1XobP3s3u53mtkls75CsUM
+Bruce Springsteen,"Born In the U.S.A. - Live at Madison Square Garden, New York, NY - June/July 2000",False,4MK3A7GAdhIxJjnavcenWj,https://kworb.net/spotify/track/4MK3A7GAdhIxJjnavcenWj.html,https://open.spotify.com/track/4MK3A7GAdhIxJjnavcenWj
+Bruce Springsteen,The Promise - Studio Outtake - 1999,False,5pDtAXuC4Hfmk0SWaawny4,https://kworb.net/spotify/track/5pDtAXuC4Hfmk0SWaawny4.html,https://open.spotify.com/track/5pDtAXuC4Hfmk0SWaawny4
+Bruce Springsteen,It's a Shame,False,4NAVQAXNJOqLPn346v3eQg,https://kworb.net/spotify/track/4NAVQAXNJOqLPn346v3eQg.html,https://open.spotify.com/track/4NAVQAXNJOqLPn346v3eQg
+Bruce Springsteen,The Price You Pay - Single LP Version - 1979,False,0cWjKev54NjGX0kdJMxMiE,https://kworb.net/spotify/track/0cWjKev54NjGX0kdJMxMiE.html,https://open.spotify.com/track/0cWjKev54NjGX0kdJMxMiE
+Bruce Springsteen,Jesus Was an Only Son,False,73laP3hZ9Yipu73tkyQ3cE,https://kworb.net/spotify/track/73laP3hZ9Yipu73tkyQ3cE.html,https://open.spotify.com/track/73laP3hZ9Yipu73tkyQ3cE
+Bruce Springsteen,"Ramrod - Live at Madison Square Garden, New York, NY - June/July 2000",False,5vazWjK4Gco2LH86ZdHRbH,https://kworb.net/spotify/track/5vazWjK4Gco2LH86ZdHRbH.html,https://open.spotify.com/track/5vazWjK4Gco2LH86ZdHRbH
+Bruce Springsteen,"No Surrender - Live at the Wachovia Spectrum, Philadelphia, PA - 10/20/2009",False,2WvUkq35zPfbIgIB3L2LIB,https://kworb.net/spotify/track/2WvUkq35zPfbIgIB3L2LIB.html,https://open.spotify.com/track/2WvUkq35zPfbIgIB3L2LIB
+Bruce Springsteen,Living On The Edge Of The World - Studio Outtake - 1979,False,35bGvmkMIQf6b48rOgguKJ,https://kworb.net/spotify/track/35bGvmkMIQf6b48rOgguKJ.html,https://open.spotify.com/track/35bGvmkMIQf6b48rOgguKJ
+Bruce Springsteen,Black Cowboys,False,3AYzGpMFthLueizq9qvWOs,https://kworb.net/spotify/track/3AYzGpMFthLueizq9qvWOs.html,https://open.spotify.com/track/3AYzGpMFthLueizq9qvWOs
+Bruce Springsteen,I Wanna Marry You - Single LP Version - 1979,False,6MzIsyys9Ws1aXDjJjChNw,https://kworb.net/spotify/track/6MzIsyys9Ws1aXDjJjChNw.html,https://open.spotify.com/track/6MzIsyys9Ws1aXDjJjChNw
+Bruce Springsteen,Born In the U.S.A. - Demo Version - 1982,False,5sFz2Pvpu1barkrc4qRePf,https://kworb.net/spotify/track/5sFz2Pvpu1barkrc4qRePf.html,https://open.spotify.com/track/5sFz2Pvpu1barkrc4qRePf
+Bruce Springsteen,The Hitter,False,2PlPegkfW8hx7HLfOlWrz2,https://kworb.net/spotify/track/2PlPegkfW8hx7HLfOlWrz2.html,https://open.spotify.com/track/2PlPegkfW8hx7HLfOlWrz2
+Bruce Springsteen,"Growin' Up - Live at the Point Theatre, Dublin, Ireland - November 2006",False,0g6okOfGyhLLUdjmSwb3oZ,https://kworb.net/spotify/track/0g6okOfGyhLLUdjmSwb3oZ.html,https://open.spotify.com/track/0g6okOfGyhLLUdjmSwb3oZ
+Bruce Springsteen,"Jacob's Ladder - Live at the Point Theatre, Dublin, Ireland - November 2006",False,7pCFq95G8CBVCRecbgjqU7,https://kworb.net/spotify/track/7pCFq95G8CBVCRecbgjqU7.html,https://open.spotify.com/track/7pCFq95G8CBVCRecbgjqU7
+Bruce Springsteen,"Rosalita (Come Out Tonight) - Live at the Hammersmith Odeon, London, UK - November 1975",False,7An0G5kTdjJrhd9uh8kfdh,https://kworb.net/spotify/track/7An0G5kTdjJrhd9uh8kfdh.html,https://open.spotify.com/track/7An0G5kTdjJrhd9uh8kfdh
+Bruce Springsteen,The Little Things (My Baby Does),False,0TQES8k46jdo5LCkmzeZfp,https://kworb.net/spotify/track/0TQES8k46jdo5LCkmzeZfp.html,https://open.spotify.com/track/0TQES8k46jdo5LCkmzeZfp
+Bruce Springsteen,You Can Look (But You Better Not Touch) - Single LP Version - 1979,False,4FO9EN0uwDi6t9sF5EIkN6,https://kworb.net/spotify/track/4FO9EN0uwDi6t9sF5EIkN6.html,https://open.spotify.com/track/4FO9EN0uwDi6t9sF5EIkN6
+Bruce Springsteen,The Man Who Got Away - Studio Outtake - 1979,False,6Vek81Jz09VNFLddlO4IY6,https://kworb.net/spotify/track/6Vek81Jz09VNFLddlO4IY6.html,https://open.spotify.com/track/6Vek81Jz09VNFLddlO4IY6
+Bruce Springsteen,Ricky Wants A Man Of Her Own - Studio Outtake - 1979,False,5wjf8t841zjxZb3Jobcw5p,https://kworb.net/spotify/track/5wjf8t841zjxZb3Jobcw5p.html,https://open.spotify.com/track/5wjf8t841zjxZb3Jobcw5p
+Bruce Springsteen,"Drive All Night - Live at Madison Square Garden, New York, NY - 11/8/2009",False,2G4HKOuWlW7hbefqWhwKWy,https://kworb.net/spotify/track/2G4HKOuWlW7hbefqWhwKWy.html,https://open.spotify.com/track/2G4HKOuWlW7hbefqWhwKWy
+Bruce Springsteen,Night Fire - Studio Outtake - 1979,False,46O8AhDbPqUFLjKqHHjNyS,https://kworb.net/spotify/track/46O8AhDbPqUFLjKqHHjNyS.html,https://open.spotify.com/track/46O8AhDbPqUFLjKqHHjNyS
+Bruce Springsteen,Thundercrack - Studio Outtake - 1973,False,7vCdnd3OhjCcOOFWIqcBNZ,https://kworb.net/spotify/track/7vCdnd3OhjCcOOFWIqcBNZ.html,https://open.spotify.com/track/7vCdnd3OhjCcOOFWIqcBNZ
+Bruce Springsteen,"My Hometown (Introduction Part 1) - Live at the Walter Kerr Theatre, New York, NY - July 2018",False,3TM0Ohnzg5npnrXtPYi95H,https://kworb.net/spotify/track/3TM0Ohnzg5npnrXtPYi95H.html,https://open.spotify.com/track/3TM0Ohnzg5npnrXtPYi95H
+Bruce Springsteen,"Tougher Than the Rest - Live at Madison Square Garden, New York, NY - 5/23/1988",False,7tz0hdW75OfNNIquhvz7D3,https://kworb.net/spotify/track/7tz0hdW75OfNNIquhvz7D3.html,https://open.spotify.com/track/7tz0hdW75OfNNIquhvz7D3
+Bruce Springsteen,All Or Nothin' At All,False,5o0stgqA2MVn33ENYzup9e,https://kworb.net/spotify/track/5o0stgqA2MVn33ENYzup9e.html,https://open.spotify.com/track/5o0stgqA2MVn33ENYzup9e
+Bruce Springsteen,Dollhouse - Studio Outtake - 1979,False,0ZmT7DQBIjKBDruahTLZzT,https://kworb.net/spotify/track/0ZmT7DQBIjKBDruahTLZzT.html,https://open.spotify.com/track/0ZmT7DQBIjKBDruahTLZzT
+Bruce Springsteen,How Can I Keep from Singing,False,7BAgDWYAV5Ae7DtUnJi9xo,https://kworb.net/spotify/track/7BAgDWYAV5Ae7DtUnJi9xo.html,https://open.spotify.com/track/7BAgDWYAV5Ae7DtUnJi9xo
+Bruce Springsteen,Seaside Bar Song - Studio Outtake - 1973,False,0c1Hb0Tg7yA82LrHyBVmEl,https://kworb.net/spotify/track/0c1Hb0Tg7yA82LrHyBVmEl.html,https://open.spotify.com/track/0c1Hb0Tg7yA82LrHyBVmEl
+Bruce Springsteen,Gloria's Eyes,False,0gec0LnSMK0gmScOY4q4Zc,https://kworb.net/spotify/track/0gec0LnSMK0gmScOY4q4Zc.html,https://open.spotify.com/track/0gec0LnSMK0gmScOY4q4Zc
+Bruce Springsteen,"For You - Live at the Hammersmith Odeon, London, UK - November 1975",False,5OJSOpqtBwoexsDgGb61zo,https://kworb.net/spotify/track/5OJSOpqtBwoexsDgGb61zo.html,https://open.spotify.com/track/5OJSOpqtBwoexsDgGb61zo
+Bruce Springsteen,Real World,False,6w4equipfYsc1dCSumdxgF,https://kworb.net/spotify/track/6w4equipfYsc1dCSumdxgF.html,https://open.spotify.com/track/6w4equipfYsc1dCSumdxgF
+Bruce Springsteen,"Rendezvous - Live at Nassau Coliseum, Uniondale, NY - December 1980",False,2N7gnpTs70dYGHz5F8gBPp,https://kworb.net/spotify/track/2N7gnpTs70dYGHz5F8gBPp.html,https://open.spotify.com/track/2N7gnpTs70dYGHz5F8gBPp
+Bruce Springsteen,Breakaway,False,3GhPnMDZmyP95mKlcRRx0Y,https://kworb.net/spotify/track/3GhPnMDZmyP95mKlcRRx0Y.html,https://open.spotify.com/track/3GhPnMDZmyP95mKlcRRx0Y
+Bruce Springsteen,"Badlands - Live at Capitol Theatre, Passaic, NJ - 9/19/1978",False,3ATwNopieLhHvem7FEW7C4,https://kworb.net/spotify/track/3ATwNopieLhHvem7FEW7C4.html,https://open.spotify.com/track/3ATwNopieLhHvem7FEW7C4
