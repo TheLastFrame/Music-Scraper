@@ -1,0 +1,6 @@
+pandas
+bs4
+lxml
+html5lib
+openpyxl
+tqdm
