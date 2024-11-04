@@ -1,501 +1,501 @@
-Artist,Song,ValidLink,ID,KworbLink,Spotify Link
-Taylor Swift,Cruel Summer,True,1BxfuPKGuaTgP7aM0Bbdwr,https://kworb.net/spotify/track/1BxfuPKGuaTgP7aM0Bbdwr.html,https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr
-Taylor Swift,Blank Space,False,1p80LdxRV74UKvL8gnD7ky,https://kworb.net/spotify/track/1p80LdxRV74UKvL8gnD7ky.html,https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky
-Taylor Swift,*I Donât Wanna Live Forever (Fifty Shades Darker),False,55n9yjI6qqXh5F2mYvUc2y,https://kworb.net/spotify/track/55n9yjI6qqXh5F2mYvUc2y.html,https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y
-Taylor Swift,Anti-Hero,True,0V3wPSX9ygBnCm8psDIegu,https://kworb.net/spotify/track/0V3wPSX9ygBnCm8psDIegu.html,https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu
-Taylor Swift,Lover,True,1dGr1c8CrMLDpV6mPbImSI,https://kworb.net/spotify/track/1dGr1c8CrMLDpV6mPbImSI.html,https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI
-Taylor Swift,Shake It Off,False,5xTtaWoae3wi06K5WfVUUH,https://kworb.net/spotify/track/5xTtaWoae3wi06K5WfVUUH.html,https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH
-Taylor Swift,cardigan,True,4R2kfaDFhslZEMJqAFNpdd,https://kworb.net/spotify/track/4R2kfaDFhslZEMJqAFNpdd.html,https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd
-Taylor Swift,Style,False,4lIxdJw6W3Fg4vUIYCB0S5,https://kworb.net/spotify/track/4lIxdJw6W3Fg4vUIYCB0S5.html,https://open.spotify.com/track/4lIxdJw6W3Fg4vUIYCB0S5
-Taylor Swift,august,True,3hUxzQpSfdDqwM3ZTFQY0K,https://kworb.net/spotify/track/3hUxzQpSfdDqwM3ZTFQY0K.html,https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K
-Taylor Swift,Donât Blame Me,True,1R0a2iXumgCiFb7HEZ7gUE,https://kworb.net/spotify/track/1R0a2iXumgCiFb7HEZ7gUE.html,https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE
-Taylor Swift,Look What You Made Me Do,False,1P17dC1amhFzptugyAO7Il,https://kworb.net/spotify/track/1P17dC1amhFzptugyAO7Il.html,https://open.spotify.com/track/1P17dC1amhFzptugyAO7Il
-Taylor Swift,Delicate,True,6NFyWDv5CjfwuzoCkw47Xf,https://kworb.net/spotify/track/6NFyWDv5CjfwuzoCkw47Xf.html,https://open.spotify.com/track/6NFyWDv5CjfwuzoCkw47Xf
-Taylor Swift,Wildest Dreams,False,59HjlYCeBsxdI0fcm3zglw,https://kworb.net/spotify/track/59HjlYCeBsxdI0fcm3zglw.html,https://open.spotify.com/track/59HjlYCeBsxdI0fcm3zglw
-Taylor Swift,You Need To Calm Down,True,6RRNNciQGZEXnqk8SQ9yv5,https://kworb.net/spotify/track/6RRNNciQGZEXnqk8SQ9yv5.html,https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5
-Taylor Swift,Love Story,True,1vrd6UOGamcKNGnSHJQlSt,https://kworb.net/spotify/track/1vrd6UOGamcKNGnSHJQlSt.html,https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt
-Taylor Swift,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),True,5enxwA8aAbwZbf5qCHORXi,https://kworb.net/spotify/track/5enxwA8aAbwZbf5qCHORXi.html,https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi
-Taylor Swift,willow,False,0lx2cLdOt3piJbcaXIV74f,https://kworb.net/spotify/track/0lx2cLdOt3piJbcaXIV74f.html,https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f
-Taylor Swift,I Knew You Were Trouble.,True,6FB3v4YcR57y4tXFcdxI1E,https://kworb.net/spotify/track/6FB3v4YcR57y4tXFcdxI1E.html,https://open.spotify.com/track/6FB3v4YcR57y4tXFcdxI1E
-Taylor Swift,ME! (feat. Brendon Urie of Panic! At The Disco),False,2Rk4JlNc2TPmZe2af99d45,https://kworb.net/spotify/track/2Rk4JlNc2TPmZe2af99d45.html,https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45
-Taylor Swift,Love Story (Taylorâs Version),True,6YvqWjhGD8mB5QXcbcUKtx,https://kworb.net/spotify/track/6YvqWjhGD8mB5QXcbcUKtx.html,https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx
-Taylor Swift,Enchanted,False,10eBRyImhfqVvkiVEGf0N0,https://kworb.net/spotify/track/10eBRyImhfqVvkiVEGf0N0.html,https://open.spotify.com/track/10eBRyImhfqVvkiVEGf0N0
-Taylor Swift,Karma,True,7KokYm8cMIXCsGVmUvKtqf,https://kworb.net/spotify/track/7KokYm8cMIXCsGVmUvKtqf.html,https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf
-Taylor Swift,The Man,True,3RauEVgRgj1IuWdJ9fDs70,https://kworb.net/spotify/track/3RauEVgRgj1IuWdJ9fDs70.html,https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70
-Taylor Swift,exile (feat. Bon Iver),True,4pvb0WLRcMtbPGmtejJJ6y,https://kworb.net/spotify/track/4pvb0WLRcMtbPGmtejJJ6y.html,https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y
-Taylor Swift,...Ready For It?,False,2yLa0QULdQr0qAIvVwN6B5,https://kworb.net/spotify/track/2yLa0QULdQr0qAIvVwN6B5.html,https://open.spotify.com/track/2yLa0QULdQr0qAIvVwN6B5
-Taylor Swift,Wildest Dreams (Taylor's Version),False,1K39ty6o1sHwwlZwO6a7wK,https://kworb.net/spotify/track/1K39ty6o1sHwwlZwO6a7wK.html,https://open.spotify.com/track/1K39ty6o1sHwwlZwO6a7wK
-Taylor Swift,Lavender Haze,True,5jQI2r1RdgtuT8S3iG8zFC,https://kworb.net/spotify/track/5jQI2r1RdgtuT8S3iG8zFC.html,https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC
-Taylor Swift,You Belong With Me (Taylorâs Version),True,1qrpoAMXodY6895hGKoUpA,https://kworb.net/spotify/track/1qrpoAMXodY6895hGKoUpA.html,https://open.spotify.com/track/1qrpoAMXodY6895hGKoUpA
-Taylor Swift,Getaway Car,True,0VE4kBnHJUgtMf0dy6DRmW,https://kworb.net/spotify/track/0VE4kBnHJUgtMf0dy6DRmW.html,https://open.spotify.com/track/0VE4kBnHJUgtMf0dy6DRmW
-Taylor Swift,Fortnight (feat. Post Malone),False,6dODwocEuGzHAavXqTbwHv,https://kworb.net/spotify/track/6dODwocEuGzHAavXqTbwHv.html,https://open.spotify.com/track/6dODwocEuGzHAavXqTbwHv
-Taylor Swift,Midnight Rain,True,3rWDp9tBPQR9z6U5YyRSK4,https://kworb.net/spotify/track/3rWDp9tBPQR9z6U5YyRSK4.html,https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4
-Taylor Swift,We Are Never Ever Getting Back Together,True,0VwNdo84DaVYLIkbVO86ND,https://kworb.net/spotify/track/0VwNdo84DaVYLIkbVO86ND.html,https://open.spotify.com/track/0VwNdo84DaVYLIkbVO86ND
-Taylor Swift,Paper Rings,True,4y5bvROuBDPr5fuwXbIBZR,https://kworb.net/spotify/track/4y5bvROuBDPr5fuwXbIBZR.html,https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR
-Taylor Swift,You Belong With Me,True,3GCL1PydwsLodcpv0Ll1ch,https://kworb.net/spotify/track/3GCL1PydwsLodcpv0Ll1ch.html,https://open.spotify.com/track/3GCL1PydwsLodcpv0Ll1ch
-Taylor Swift,champagne problems,True,0sY6ZUTh4yoctD8VIXz339,https://kworb.net/spotify/track/0sY6ZUTh4yoctD8VIXz339.html,https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339
-Taylor Swift,"You're On Your Own, Kid",True,4D7BCuvgdJlYvlX5WlN54t,https://kworb.net/spotify/track/4D7BCuvgdJlYvlX5WlN54t.html,https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t
-Taylor Swift,Gorgeous,False,1ZY1PqizIl78geGM4xWlEA,https://kworb.net/spotify/track/1ZY1PqizIl78geGM4xWlEA.html,https://open.spotify.com/track/1ZY1PqizIl78geGM4xWlEA
-Taylor Swift,Bad Blood,False,273dCMFseLcVsoSWx59IoE,https://kworb.net/spotify/track/273dCMFseLcVsoSWx59IoE.html,https://open.spotify.com/track/273dCMFseLcVsoSWx59IoE
-Taylor Swift,the 1,True,0Jlcvv8IykzHaSmj49uNW8,https://kworb.net/spotify/track/0Jlcvv8IykzHaSmj49uNW8.html,https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8
-Taylor Swift,Bejeweled,True,3qoftcUZaUOncvIYjFSPdE,https://kworb.net/spotify/track/3qoftcUZaUOncvIYjFSPdE.html,https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE
-Taylor Swift,my tears ricochet,True,1MgV7FIyNxIG7WzMRJV5HC,https://kworb.net/spotify/track/1MgV7FIyNxIG7WzMRJV5HC.html,https://open.spotify.com/track/1MgV7FIyNxIG7WzMRJV5HC
-Taylor Swift,End Game,True,2x0WlnmfG39ZuDmstl9xfX,https://kworb.net/spotify/track/2x0WlnmfG39ZuDmstl9xfX.html,https://open.spotify.com/track/2x0WlnmfG39ZuDmstl9xfX
-Taylor Swift,I Can Do It With a Broken Heart,False,2fPvQfGQEZOKtJ9qXeL4x8,https://kworb.net/spotify/track/2fPvQfGQEZOKtJ9qXeL4x8.html,https://open.spotify.com/track/2fPvQfGQEZOKtJ9qXeL4x8
-Taylor Swift,Maroon,True,3eX0NZfLtGzoLUxPNvRfqm,https://kworb.net/spotify/track/3eX0NZfLtGzoLUxPNvRfqm.html,https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm
-Taylor Swift,I Did Something Bad,True,4svZDCRz4cJoneBpjpx8DJ,https://kworb.net/spotify/track/4svZDCRz4cJoneBpjpx8DJ.html,https://open.spotify.com/track/4svZDCRz4cJoneBpjpx8DJ
-Taylor Swift,illicit affairs,True,2NmsngXHeC1GQ9wWrzhOMf,https://kworb.net/spotify/track/2NmsngXHeC1GQ9wWrzhOMf.html,https://open.spotify.com/track/2NmsngXHeC1GQ9wWrzhOMf
-Taylor Swift,Is It Over Now? (Taylor's Version) (From The Vault),True,1Iq8oo9XkmmvCQiGOfORiz,https://kworb.net/spotify/track/1Iq8oo9XkmmvCQiGOfORiz.html,https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz
-Taylor Swift,mirrorball,True,0ZNU020wNYvgW84iljPkPP,https://kworb.net/spotify/track/0ZNU020wNYvgW84iljPkPP.html,https://open.spotify.com/track/0ZNU020wNYvgW84iljPkPP
-Taylor Swift,Daylight,True,1fzAuUVbzlhZ1lJAx9PtY6,https://kworb.net/spotify/track/1fzAuUVbzlhZ1lJAx9PtY6.html,https://open.spotify.com/track/1fzAuUVbzlhZ1lJAx9PtY6
-Taylor Swift,Snow On The Beach (feat. Lana Del Rey),True,1wtOxkiel43cVs0Yux5Q4h,https://kworb.net/spotify/track/1wtOxkiel43cVs0Yux5Q4h.html,https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h
-Taylor Swift,The Way I Loved You (Taylorâs Version),True,22bPsP2jCgbLUvh82U0Z3M,https://kworb.net/spotify/track/22bPsP2jCgbLUvh82U0Z3M.html,https://open.spotify.com/track/22bPsP2jCgbLUvh82U0Z3M
-Taylor Swift,The Archer,False,3pHkh7d0lzM2AldUtz2x37,https://kworb.net/spotify/track/3pHkh7d0lzM2AldUtz2x37.html,https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37
-Taylor Swift,Call It What You Want,False,1GwMQaZz6Au3QLDbjbMdme,https://kworb.net/spotify/track/1GwMQaZz6Au3QLDbjbMdme.html,https://open.spotify.com/track/1GwMQaZz6Au3QLDbjbMdme
-Taylor Swift,this is me trying,True,7kt9e9LFSpN1zQtYEl19o1,https://kworb.net/spotify/track/7kt9e9LFSpN1zQtYEl19o1.html,https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1
-Taylor Swift,Vigilante Shit,True,1xwAWUI6Dj0WGC3KiUPN0O,https://kworb.net/spotify/track/1xwAWUI6Dj0WGC3KiUPN0O.html,https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O
-Taylor Swift,Miss Americana & The Heartbreak Prince,True,214nt20w5wOxJnY462klLw,https://kworb.net/spotify/track/214nt20w5wOxJnY462klLw.html,https://open.spotify.com/track/214nt20w5wOxJnY462klLw
-Taylor Swift,Afterglow,True,1SymEzIT3H8UZfibCs3TYi,https://kworb.net/spotify/track/1SymEzIT3H8UZfibCs3TYi.html,https://open.spotify.com/track/1SymEzIT3H8UZfibCs3TYi
-Taylor Swift,Back To December,True,3DrjZArsPsoqbLzUZZV1Id,https://kworb.net/spotify/track/3DrjZArsPsoqbLzUZZV1Id.html,https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id
-Taylor Swift,22,False,6ce41JVa6KFaryfmC2bu2W,https://kworb.net/spotify/track/6ce41JVa6KFaryfmC2bu2W.html,https://open.spotify.com/track/6ce41JVa6KFaryfmC2bu2W
-Taylor Swift,I Knew You Were Trouble (Taylor's Version),True,6AtZLIzUINvExIUy4QhdjP,https://kworb.net/spotify/track/6AtZLIzUINvExIUy4QhdjP.html,https://open.spotify.com/track/6AtZLIzUINvExIUy4QhdjP
-Taylor Swift,invisible string,True,6VsvKPJ4xjVNKpI8VVZ3SV,https://kworb.net/spotify/track/6VsvKPJ4xjVNKpI8VVZ3SV.html,https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV
-Taylor Swift,Mr. Perfectly Fine (Taylorâs Version) (From The Vault),True,2CYVETnhM9aytqrazYYwrK,https://kworb.net/spotify/track/2CYVETnhM9aytqrazYYwrK.html,https://open.spotify.com/track/2CYVETnhM9aytqrazYYwrK
-Taylor Swift,All Of The Girls You Loved Before,False,17yraMKqmZIKAv3iaGcoLX,https://kworb.net/spotify/track/17yraMKqmZIKAv3iaGcoLX.html,https://open.spotify.com/track/17yraMKqmZIKAv3iaGcoLX
-Taylor Swift,the last great american dynasty,True,2Eeur20xVqfUoM3Q7EFPFt,https://kworb.net/spotify/track/2Eeur20xVqfUoM3Q7EFPFt.html,https://open.spotify.com/track/2Eeur20xVqfUoM3Q7EFPFt
-Taylor Swift,betty,True,5kI4eCXXzyuIUXjQra0Cxi,https://kworb.net/spotify/track/5kI4eCXXzyuIUXjQra0Cxi.html,https://open.spotify.com/track/5kI4eCXXzyuIUXjQra0Cxi
-Taylor Swift,We Are Never Ever Getting Back Together (Taylor's Version),True,5YqltLsjdqFtvqE7Nrysvs,https://kworb.net/spotify/track/5YqltLsjdqFtvqE7Nrysvs.html,https://open.spotify.com/track/5YqltLsjdqFtvqE7Nrysvs
-Taylor Swift,Mastermind,True,7FmYn9e7KHMXcxqGSj9LjH,https://kworb.net/spotify/track/7FmYn9e7KHMXcxqGSj9LjH.html,https://open.spotify.com/track/7FmYn9e7KHMXcxqGSj9LjH
-Taylor Swift,Our Song,False,15DeqWWQB4dcEWzJg15VrN,https://kworb.net/spotify/track/15DeqWWQB4dcEWzJg15VrN.html,https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN
-Taylor Swift,Dress,True,6oVxXO5oQ4pTpO8RSnkzvv,https://kworb.net/spotify/track/6oVxXO5oQ4pTpO8RSnkzvv.html,https://open.spotify.com/track/6oVxXO5oQ4pTpO8RSnkzvv
-Taylor Swift,right where you left me - bonus track,True,3zwMVvkBe2qIKDObWgXw4N,https://kworb.net/spotify/track/3zwMVvkBe2qIKDObWgXw4N.html,https://open.spotify.com/track/3zwMVvkBe2qIKDObWgXw4N
-Taylor Swift,Cornelia Street,True,12M5uqx0ZuwkpLp5rJim1a,https://kworb.net/spotify/track/12M5uqx0ZuwkpLp5rJim1a.html,https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a
-Taylor Swift,London Boy,True,1LLXZFeAHK9R4xUramtUKw,https://kworb.net/spotify/track/1LLXZFeAHK9R4xUramtUKw.html,https://open.spotify.com/track/1LLXZFeAHK9R4xUramtUKw
-Taylor Swift,I Forgot That You Existed,True,43rA71bccXFGD4C8GOpIlN,https://kworb.net/spotify/track/43rA71bccXFGD4C8GOpIlN.html,https://open.spotify.com/track/43rA71bccXFGD4C8GOpIlN
-Taylor Swift,Enchanted (Taylor's Version),True,3sW3oSbzsfecv9XoUdGs7h,https://kworb.net/spotify/track/3sW3oSbzsfecv9XoUdGs7h.html,https://open.spotify.com/track/3sW3oSbzsfecv9XoUdGs7h
-Taylor Swift,tolerate it,True,0PurA4JVJ8YQgSVopY8fn6,https://kworb.net/spotify/track/0PurA4JVJ8YQgSVopY8fn6.html,https://open.spotify.com/track/0PurA4JVJ8YQgSVopY8fn6
-Taylor Swift,Fearless (Taylorâs Version),True,77sMIMlNaSURUAXq5coCxE,https://kworb.net/spotify/track/77sMIMlNaSURUAXq5coCxE.html,https://open.spotify.com/track/77sMIMlNaSURUAXq5coCxE
-Taylor Swift,Down Bad,False,1kbEbBdEgQdQeLXCJh28pJ,https://kworb.net/spotify/track/1kbEbBdEgQdQeLXCJh28pJ.html,https://open.spotify.com/track/1kbEbBdEgQdQeLXCJh28pJ
-Taylor Swift,seven,True,6KJqZcs9XDgVck7Lg9QOTC,https://kworb.net/spotify/track/6KJqZcs9XDgVck7Lg9QOTC.html,https://open.spotify.com/track/6KJqZcs9XDgVck7Lg9QOTC
-Taylor Swift,Out Of The Woods,False,5OndtwLGA9O6XHFcGm2H7r,https://kworb.net/spotify/track/5OndtwLGA9O6XHFcGm2H7r.html,https://open.spotify.com/track/5OndtwLGA9O6XHFcGm2H7r
-Taylor Swift,22 (Taylor's Version),True,3yII7UwgLF6K5zW3xad3MP,https://kworb.net/spotify/track/3yII7UwgLF6K5zW3xad3MP.html,https://open.spotify.com/track/3yII7UwgLF6K5zW3xad3MP
-Taylor Swift,Now That We Don't Talk (Taylor's Version) (From The Vault),True,5KD6AEm19QnMbfWpfoOHMl,https://kworb.net/spotify/track/5KD6AEm19QnMbfWpfoOHMl.html,https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl
-Taylor Swift,"""Slut!"" (Taylor's Version) (From The Vault)",True,71BqAINEnezjQfxE4VuJfq,https://kworb.net/spotify/track/71BqAINEnezjQfxE4VuJfq.html,https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq
-Taylor Swift,Red (Taylor's Version),True,4OAuvHryIVv4kMDNSLuPt6,https://kworb.net/spotify/track/4OAuvHryIVv4kMDNSLuPt6.html,https://open.spotify.com/track/4OAuvHryIVv4kMDNSLuPt6
-Taylor Swift,Question...?,True,0heeNYlwOGuUSe7TgUD27B,https://kworb.net/spotify/track/0heeNYlwOGuUSe7TgUD27B.html,https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B
-Taylor Swift,Guilty as Sin?,False,799KrpEbhZp0MHeiA8YK9P,https://kworb.net/spotify/track/799KrpEbhZp0MHeiA8YK9P.html,https://open.spotify.com/track/799KrpEbhZp0MHeiA8YK9P
-Taylor Swift,Death By A Thousand Cuts,True,2dgFqt3w9xIQRjhPtwNk3D,https://kworb.net/spotify/track/2dgFqt3w9xIQRjhPtwNk3D.html,https://open.spotify.com/track/2dgFqt3w9xIQRjhPtwNk3D
-Taylor Swift,gold rush,True,5BK0uqwY9DNfZ630STAEaq,https://kworb.net/spotify/track/5BK0uqwY9DNfZ630STAEaq.html,https://open.spotify.com/track/5BK0uqwY9DNfZ630STAEaq
-Taylor Swift,The Great War,False,2VuqMjgoKaOHNM8HpxtXKx,https://kworb.net/spotify/track/2VuqMjgoKaOHNM8HpxtXKx.html,https://open.spotify.com/track/2VuqMjgoKaOHNM8HpxtXKx
-Taylor Swift,Labyrinth,True,0A1JLUlkZkp2EFrosoNQi0,https://kworb.net/spotify/track/0A1JLUlkZkp2EFrosoNQi0.html,https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0
-Taylor Swift,Lover (Remix) [feat. Shawn Mendes],True,3i9UVldZOE0aD0JnyfAZZ0,https://kworb.net/spotify/track/3i9UVldZOE0aD0JnyfAZZ0.html,https://open.spotify.com/track/3i9UVldZOE0aD0JnyfAZZ0
-Taylor Swift,Sweet Nothing,True,0wavGRldH0AWyu2zvTz8zb,https://kworb.net/spotify/track/0wavGRldH0AWyu2zvTz8zb.html,https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb
-Taylor Swift,I Think He Knows,True,2YWtcWi3a83pdEg3Gif4Pd,https://kworb.net/spotify/track/2YWtcWi3a83pdEg3Gif4Pd.html,https://open.spotify.com/track/2YWtcWi3a83pdEg3Gif4Pd
-Taylor Swift,"no body, no crime (feat. HAIM)",False,3RaT22zZsxVYxxKR7TAaYF,https://kworb.net/spotify/track/3RaT22zZsxVYxxKR7TAaYF.html,https://open.spotify.com/track/3RaT22zZsxVYxxKR7TAaYF
-Taylor Swift,King Of My Heart,True,7HuBDWi18s4aJM8UFnNheH,https://kworb.net/spotify/track/7HuBDWi18s4aJM8UFnNheH.html,https://open.spotify.com/track/7HuBDWi18s4aJM8UFnNheH
-Taylor Swift,"Would've, Could've, Should've",False,4txojlesMFQZGWxwz2EeqB,https://kworb.net/spotify/track/4txojlesMFQZGWxwz2EeqB.html,https://open.spotify.com/track/4txojlesMFQZGWxwz2EeqB
-Taylor Swift,New Romantics,False,6rZVy6FIG7lSJQMFXHo12z,https://kworb.net/spotify/track/6rZVy6FIG7lSJQMFXHo12z.html,https://open.spotify.com/track/6rZVy6FIG7lSJQMFXHo12z
-Taylor Swift,All Too Well (Taylor's Version),True,3nsfB1vus2qaloUdcBZvDu,https://kworb.net/spotify/track/3nsfB1vus2qaloUdcBZvDu.html,https://open.spotify.com/track/3nsfB1vus2qaloUdcBZvDu
-Taylor Swift,âtis the damn season,False,7dW84mWkdWE5a6lFWxJCBG,https://kworb.net/spotify/track/7dW84mWkdWE5a6lFWxJCBG.html,https://open.spotify.com/track/7dW84mWkdWE5a6lFWxJCBG
-Taylor Swift,Everything Has Changed,False,3Z1kZKYfRC8iRXnYeC5sCJ,https://kworb.net/spotify/track/3Z1kZKYfRC8iRXnYeC5sCJ.html,https://open.spotify.com/track/3Z1kZKYfRC8iRXnYeC5sCJ
-Taylor Swift,Whoâs Afraid of Little Old Me?,False,2d8UxVNhJinc8uat9PoM9y,https://kworb.net/spotify/track/2d8UxVNhJinc8uat9PoM9y.html,https://open.spotify.com/track/2d8UxVNhJinc8uat9PoM9y
-Taylor Swift,I Can See You (Taylorâs Version) (From The Vault),True,5kHMfzgLZP95O9NBy0ku4v,https://kworb.net/spotify/track/5kHMfzgLZP95O9NBy0ku4v.html,https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v
-Taylor Swift,This Love (Taylorâs Version),True,5QVVjX0ZItqlVpEuVCM9Yg,https://kworb.net/spotify/track/5QVVjX0ZItqlVpEuVCM9Yg.html,https://open.spotify.com/track/5QVVjX0ZItqlVpEuVCM9Yg
-Taylor Swift,Style (Taylor's Version),True,1hjRhYpWyqDpPahmSlUTlc,https://kworb.net/spotify/track/1hjRhYpWyqDpPahmSlUTlc.html,https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc
-Taylor Swift,"So Long, London",False,7wAkQFShJ27V8362MqevQr,https://kworb.net/spotify/track/7wAkQFShJ27V8362MqevQr.html,https://open.spotify.com/track/7wAkQFShJ27V8362MqevQr
-Taylor Swift,Dancing With Our Hands Tied,True,7I7JbDv63ZJJsSi24DyJrz,https://kworb.net/spotify/track/7I7JbDv63ZJJsSi24DyJrz.html,https://open.spotify.com/track/7I7JbDv63ZJJsSi24DyJrz
-Taylor Swift,Red,False,4yBEU0askBZzE2XEVdEwmx,https://kworb.net/spotify/track/4yBEU0askBZzE2XEVdEwmx.html,https://open.spotify.com/track/4yBEU0askBZzE2XEVdEwmx
-Taylor Swift,False God,True,5hQSXkFgbxjZo9uCwd11so,https://kworb.net/spotify/track/5hQSXkFgbxjZo9uCwd11so.html,https://open.spotify.com/track/5hQSXkFgbxjZo9uCwd11so
-Taylor Swift,Youâre Losing Me (From The Vault),True,3CWq0pAKKTWb0K4yiglDc4,https://kworb.net/spotify/track/3CWq0pAKKTWb0K4yiglDc4.html,https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4
-Taylor Swift,My Boy Only Breaks His Favorite Toys,False,7uGYWMwRy24dm7RUDDhUlD,https://kworb.net/spotify/track/7uGYWMwRy24dm7RUDDhUlD.html,https://open.spotify.com/track/7uGYWMwRy24dm7RUDDhUlD
-Taylor Swift,Welcome To New York,False,6qnM0XXPZOINWA778uNqQ9,https://kworb.net/spotify/track/6qnM0XXPZOINWA778uNqQ9.html,https://open.spotify.com/track/6qnM0XXPZOINWA778uNqQ9
-Taylor Swift,All Too Well,False,7HH8rEmkK5JENnv869MDCz,https://kworb.net/spotify/track/7HH8rEmkK5JENnv869MDCz.html,https://open.spotify.com/track/7HH8rEmkK5JENnv869MDCz
-Taylor Swift,But Daddy I Love Him,False,4QMgEffJQuKtjCNvqfRZ0m,https://kworb.net/spotify/track/4QMgEffJQuKtjCNvqfRZ0m.html,https://open.spotify.com/track/4QMgEffJQuKtjCNvqfRZ0m
-Taylor Swift,*Highway Don't Care,False,4wFUdSCer8bdQsrp1M90sa,https://kworb.net/spotify/track/4wFUdSCer8bdQsrp1M90sa.html,https://open.spotify.com/track/4wFUdSCer8bdQsrp1M90sa
-Taylor Swift,marjorie,False,12ntTeqEeTg7GAVpe8Mhpl,https://kworb.net/spotify/track/12ntTeqEeTg7GAVpe8Mhpl.html,https://open.spotify.com/track/12ntTeqEeTg7GAVpe8Mhpl
-Taylor Swift,Blank Space (Taylor's Version),True,45wMBGri1PORPjM9PwFfrS,https://kworb.net/spotify/track/45wMBGri1PORPjM9PwFfrS.html,https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS
-Taylor Swift,This Is Why We Can't Have Nice Things,True,07NxDD1iKCHbAldceD7QLP,https://kworb.net/spotify/track/07NxDD1iKCHbAldceD7QLP.html,https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP
-Taylor Swift,Safe & Sound - from The Hunger Games Soundtrack,False,0z9UVN8VBHJ9HdfYsOuuNf,https://kworb.net/spotify/track/0z9UVN8VBHJ9HdfYsOuuNf.html,https://open.spotify.com/track/0z9UVN8VBHJ9HdfYsOuuNf
-Taylor Swift,Nothing New (feat. Phoebe Bridgers) (Taylorâs Version) (From The Vault),True,01K4zKU104LyJ8gMb7227B,https://kworb.net/spotify/track/01K4zKU104LyJ8gMb7227B.html,https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B
-Taylor Swift,Mean,False,5yEPktRqvIhko5QFF3aBhQ,https://kworb.net/spotify/track/5yEPktRqvIhko5QFF3aBhQ.html,https://open.spotify.com/track/5yEPktRqvIhko5QFF3aBhQ
-Taylor Swift,ivy,True,19CSr8rwW05VJL2F91KFNK,https://kworb.net/spotify/track/19CSr8rwW05VJL2F91KFNK.html,https://open.spotify.com/track/19CSr8rwW05VJL2F91KFNK
-Taylor Swift,evermore (feat. Bon Iver),False,3O5osWf1rSoKMwe6E9ZaXP,https://kworb.net/spotify/track/3O5osWf1rSoKMwe6E9ZaXP.html,https://open.spotify.com/track/3O5osWf1rSoKMwe6E9ZaXP
-Taylor Swift,I Bet You Think About Me (feat. Chris Stapleton) (Taylorâs Version) (From The Vault),True,4CkgMiMqZ5JzW9iYXSTMTL,https://kworb.net/spotify/track/4CkgMiMqZ5JzW9iYXSTMTL.html,https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL
-Taylor Swift,Mine,False,0dBW6ZsW8skfvoRfgeerBF,https://kworb.net/spotify/track/0dBW6ZsW8skfvoRfgeerBF.html,https://open.spotify.com/track/0dBW6ZsW8skfvoRfgeerBF
-Taylor Swift,mad woman,True,2QDyYdZyhlP2fp79KZX8Bi,https://kworb.net/spotify/track/2QDyYdZyhlP2fp79KZX8Bi.html,https://open.spotify.com/track/2QDyYdZyhlP2fp79KZX8Bi
-Taylor Swift,Teardrops On My Guitar - Radio Single Remix,False,7zMcNqs55Mxer82bvZFkpg,https://kworb.net/spotify/track/7zMcNqs55Mxer82bvZFkpg.html,https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg
-Taylor Swift,peace,True,7MbT4I8qGntX4fMdqMQgke,https://kworb.net/spotify/track/7MbT4I8qGntX4fMdqMQgke.html,https://open.spotify.com/track/7MbT4I8qGntX4fMdqMQgke
-Taylor Swift,All You Had To Do Was Stay,False,0dAb8TY433dl3ZfXYCLE19,https://kworb.net/spotify/track/0dAb8TY433dl3ZfXYCLE19.html,https://open.spotify.com/track/0dAb8TY433dl3ZfXYCLE19
-Taylor Swift,The Tortured Poets Department,False,4PdLaGZubp4lghChqp8erB,https://kworb.net/spotify/track/4PdLaGZubp4lghChqp8erB.html,https://open.spotify.com/track/4PdLaGZubp4lghChqp8erB
-Taylor Swift,Back To December (Taylor's Version),True,79uDOz0zuuWS7HWxzMmTa2,https://kworb.net/spotify/track/79uDOz0zuuWS7HWxzMmTa2.html,https://open.spotify.com/track/79uDOz0zuuWS7HWxzMmTa2
-Taylor Swift,Florida!!! (feat. Florence + The Machine),False,5ExOm0dh4NyRyAdSAO9hyM,https://kworb.net/spotify/track/5ExOm0dh4NyRyAdSAO9hyM.html,https://open.spotify.com/track/5ExOm0dh4NyRyAdSAO9hyM
-Taylor Swift,New Yearâs Day,True,7F5oktn5YOsR9eR5YsFtqb,https://kworb.net/spotify/track/7F5oktn5YOsR9eR5YsFtqb.html,https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb
-Taylor Swift,long story short,False,2o2sgVJIgFXk8GQjWTgI6U,https://kworb.net/spotify/track/2o2sgVJIgFXk8GQjWTgI6U.html,https://open.spotify.com/track/2o2sgVJIgFXk8GQjWTgI6U
-Taylor Swift,Hits Different,True,3xYJScVfxByb61dYHTwiby,https://kworb.net/spotify/track/3xYJScVfxByb61dYHTwiby.html,https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby
-Taylor Swift,Picture To Burn,False,32mVHdy0bi1XKgr0ajsBlG,https://kworb.net/spotify/track/32mVHdy0bi1XKgr0ajsBlG.html,https://open.spotify.com/track/32mVHdy0bi1XKgr0ajsBlG
-Taylor Swift,Snow On The Beach (feat. More Lana Del Rey),False,4zmKGsrXjLmljb5fTaBTot,https://kworb.net/spotify/track/4zmKGsrXjLmljb5fTaBTot.html,https://open.spotify.com/track/4zmKGsrXjLmljb5fTaBTot
-Taylor Swift,Message In A Bottle (Taylor's Version) (From The Vault),True,3z6XUommYDWPHeFhmhhT6j,https://kworb.net/spotify/track/3z6XUommYDWPHeFhmhhT6j.html,https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j
-Taylor Swift,The Smallest Man Who Ever Lived,False,1xtw1krCR6Dw2KwkXw5z63,https://kworb.net/spotify/track/1xtw1krCR6Dw2KwkXw5z63.html,https://open.spotify.com/track/1xtw1krCR6Dw2KwkXw5z63
-Taylor Swift,Say Don't Go (Taylor's Version) (From The Vault),True,4NioO5R9sHEZh4cGzMHyNt,https://kworb.net/spotify/track/4NioO5R9sHEZh4cGzMHyNt.html,https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt
-Taylor Swift,cowboy like me,True,1XjHRolIXL2M1EEOUsGGR4,https://kworb.net/spotify/track/1XjHRolIXL2M1EEOUsGGR4.html,https://open.spotify.com/track/1XjHRolIXL2M1EEOUsGGR4
-Taylor Swift,Mine (Taylor's Version),True,7G0gBu6nLdhFDPRLc0HdDG,https://kworb.net/spotify/track/7G0gBu6nLdhFDPRLc0HdDG.html,https://open.spotify.com/track/7G0gBu6nLdhFDPRLc0HdDG
-Taylor Swift,hoax,True,6MWoRt97mnSTXZhu3ggi9C,https://kworb.net/spotify/track/6MWoRt97mnSTXZhu3ggi9C.html,https://open.spotify.com/track/6MWoRt97mnSTXZhu3ggi9C
-Taylor Swift,happiness,True,73YUReisjb3A9ActdLLjJQ,https://kworb.net/spotify/track/73YUReisjb3A9ActdLLjJQ.html,https://open.spotify.com/track/73YUReisjb3A9ActdLLjJQ
-Taylor Swift,Bigger Than The Whole Sky,False,71CBDRKmF2VeRKYMG1DFBh,https://kworb.net/spotify/track/71CBDRKmF2VeRKYMG1DFBh.html,https://open.spotify.com/track/71CBDRKmF2VeRKYMG1DFBh
-Taylor Swift,Better Than Revenge,False,2ythurkTtSiyfK7GprJoFW,https://kworb.net/spotify/track/2ythurkTtSiyfK7GprJoFW.html,https://open.spotify.com/track/2ythurkTtSiyfK7GprJoFW
-Taylor Swift,Clean,False,06WgOCf0LV2h4keYXDRnuh,https://kworb.net/spotify/track/06WgOCf0LV2h4keYXDRnuh.html,https://open.spotify.com/track/06WgOCf0LV2h4keYXDRnuh
-Taylor Swift,Paris,False,5tWxKWq1DSP1s9WQ5PWuqu,https://kworb.net/spotify/track/5tWxKWq1DSP1s9WQ5PWuqu.html,https://open.spotify.com/track/5tWxKWq1DSP1s9WQ5PWuqu
-Taylor Swift,So It Goes...,True,5PxFv9yJEg9dxvbZggykro,https://kworb.net/spotify/track/5PxFv9yJEg9dxvbZggykro.html,https://open.spotify.com/track/5PxFv9yJEg9dxvbZggykro
-Taylor Swift,epiphany,True,08fa9LFcFBTcilB3iq2e2A,https://kworb.net/spotify/track/08fa9LFcFBTcilB3iq2e2A.html,https://open.spotify.com/track/08fa9LFcFBTcilB3iq2e2A
-Taylor Swift,loml,False,3YkNIrAvbKNrrwwEd7NVLl,https://kworb.net/spotify/track/3YkNIrAvbKNrrwwEd7NVLl.html,https://open.spotify.com/track/3YkNIrAvbKNrrwwEd7NVLl
-Taylor Swift,Bad Blood,False,6xsEAm6w9oMQYYg3jkEkMT,https://kworb.net/spotify/track/6xsEAm6w9oMQYYg3jkEkMT.html,https://open.spotify.com/track/6xsEAm6w9oMQYYg3jkEkMT
-Taylor Swift,coney island (feat. The National),False,3k7ne7VmH43ZPWxPdvPUgR,https://kworb.net/spotify/track/3k7ne7VmH43ZPWxPdvPUgR.html,https://open.spotify.com/track/3k7ne7VmH43ZPWxPdvPUgR
-Taylor Swift,*The Joker And The Queen (feat. Taylor Swift),True,6N1K5OVVCopBjGViHs2IvP,https://kworb.net/spotify/track/6N1K5OVVCopBjGViHs2IvP.html,https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP
-Taylor Swift,So High School,True,7Mts0OfPorF4iwOomvfqn1,https://kworb.net/spotify/track/7Mts0OfPorF4iwOomvfqn1.html,https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1
-Taylor Swift,Sparks Fly,False,6d9IiDcFxtFVIvt9pCqyGH,https://kworb.net/spotify/track/6d9IiDcFxtFVIvt9pCqyGH.html,https://open.spotify.com/track/6d9IiDcFxtFVIvt9pCqyGH
-Taylor Swift,dorothea,False,670fUmXf4KQekzbEgaXyPA,https://kworb.net/spotify/track/670fUmXf4KQekzbEgaXyPA.html,https://open.spotify.com/track/670fUmXf4KQekzbEgaXyPA
-Taylor Swift,The Very First Night (Taylor's Version) (From The Vault),True,6pYNq0ZwpPVazKzsqpf0G8,https://kworb.net/spotify/track/6pYNq0ZwpPVazKzsqpf0G8.html,https://open.spotify.com/track/6pYNq0ZwpPVazKzsqpf0G8
-Taylor Swift,Christmas Tree Farm,True,2mvabkN1i2gLnGAPUVdwek,https://kworb.net/spotify/track/2mvabkN1i2gLnGAPUVdwek.html,https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek
-Taylor Swift,How You Get The Girl,False,4dYUOfmWna6DFccnz732n8,https://kworb.net/spotify/track/4dYUOfmWna6DFccnz732n8.html,https://open.spotify.com/track/4dYUOfmWna6DFccnz732n8
-Taylor Swift,The Alchemy,False,1tuNqJOtRQVHvONR8Lg3MZ,https://kworb.net/spotify/track/1tuNqJOtRQVHvONR8Lg3MZ.html,https://open.spotify.com/track/1tuNqJOtRQVHvONR8Lg3MZ
-Taylor Swift,the lakes - bonus track,False,0eFQWVz0qIxDOvhLpZ40P7,https://kworb.net/spotify/track/0eFQWVz0qIxDOvhLpZ40P7.html,https://open.spotify.com/track/0eFQWVz0qIxDOvhLpZ40P7
-Taylor Swift,Everything Has Changed (feat. Ed Sheeran) (Taylorâs Version),True,7qEUFOVcxRI19tbT68JcYK,https://kworb.net/spotify/track/7qEUFOVcxRI19tbT68JcYK.html,https://open.spotify.com/track/7qEUFOVcxRI19tbT68JcYK
-Taylor Swift,High Infidelity,False,1SztNGCwEHJEVFx90E5g7D,https://kworb.net/spotify/track/1SztNGCwEHJEVFx90E5g7D.html,https://open.spotify.com/track/1SztNGCwEHJEVFx90E5g7D
-Taylor Swift,Out Of The Woods (Taylor's Version),True,045ZeOHPIzhxxsm8bq5kyE,https://kworb.net/spotify/track/045ZeOHPIzhxxsm8bq5kyE.html,https://open.spotify.com/track/045ZeOHPIzhxxsm8bq5kyE
-Taylor Swift,Better Man (Taylor's Version) (From The Vault),True,4OmFmE0fzcMG6g0Y8p4eSD,https://kworb.net/spotify/track/4OmFmE0fzcMG6g0Y8p4eSD.html,https://open.spotify.com/track/4OmFmE0fzcMG6g0Y8p4eSD
-Taylor Swift,Long Live (Taylor's Version),True,4hqJ4bSlYJOXb6Z4SRmzxs,https://kworb.net/spotify/track/4hqJ4bSlYJOXb6Z4SRmzxs.html,https://open.spotify.com/track/4hqJ4bSlYJOXb6Z4SRmzxs
-Taylor Swift,Fresh Out The Slammer,False,7IWcDWOfiooH5hRs9XOVYz,https://kworb.net/spotify/track/7IWcDWOfiooH5hRs9XOVYz.html,https://open.spotify.com/track/7IWcDWOfiooH5hRs9XOVYz
-Taylor Swift,The Story Of Us,False,3RBluWmSoG2pGA1OePzGJI,https://kworb.net/spotify/track/3RBluWmSoG2pGA1OePzGJI.html,https://open.spotify.com/track/3RBluWmSoG2pGA1OePzGJI
-Taylor Swift,I Wish You Would,False,3wmN11qXGL0HyPojvEE1D9,https://kworb.net/spotify/track/3wmN11qXGL0HyPojvEE1D9.html,https://open.spotify.com/track/3wmN11qXGL0HyPojvEE1D9
-Taylor Swift,Soon Youâll Get Better (feat. The Chicks),True,4AYtqFyFbX0Xkc2wtcygTr,https://kworb.net/spotify/track/4AYtqFyFbX0Xkc2wtcygTr.html,https://open.spotify.com/track/4AYtqFyFbX0Xkc2wtcygTr
-Taylor Swift,Shake It Off (Taylor's Version),True,3pv7Q5v2dpdefwdWIvE7yH,https://kworb.net/spotify/track/3pv7Q5v2dpdefwdWIvE7yH.html,https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH
-Taylor Swift,Wonderland,False,6iWMI5oOhWrDbLbjmwTWFq,https://kworb.net/spotify/track/6iWMI5oOhWrDbLbjmwTWFq.html,https://open.spotify.com/track/6iWMI5oOhWrDbLbjmwTWFq
-Taylor Swift,New Romantics (Taylor's Version),True,2vPMoMDXxu9uX1igWZmXSG,https://kworb.net/spotify/track/2vPMoMDXxu9uX1igWZmXSG.html,https://open.spotify.com/track/2vPMoMDXxu9uX1igWZmXSG
-Taylor Swift,imgonnagetyouback,True,1kcwpPDQnqEqmezzXdJTCP,https://kworb.net/spotify/track/1kcwpPDQnqEqmezzXdJTCP.html,https://open.spotify.com/track/1kcwpPDQnqEqmezzXdJTCP
-Taylor Swift,Speak Now,False,24DefNCFiWTP8OjYWiXuYe,https://kworb.net/spotify/track/24DefNCFiWTP8OjYWiXuYe.html,https://open.spotify.com/track/24DefNCFiWTP8OjYWiXuYe
-Taylor Swift,Run (feat. Ed Sheeran) (Taylorâs Version) (From The Vault),True,4IQkfUsrwXol38VV3U7t7T,https://kworb.net/spotify/track/4IQkfUsrwXol38VV3U7t7T.html,https://open.spotify.com/track/4IQkfUsrwXol38VV3U7t7T
-Taylor Swift,You Are In Love,False,4A2LfnduSTsE8u0ecYROxE,https://kworb.net/spotify/track/4A2LfnduSTsE8u0ecYROxE.html,https://open.spotify.com/track/4A2LfnduSTsE8u0ecYROxE
-Taylor Swift,*Two Is Better Than One (feat. Taylor Swift),False,1MaqkdFNIKPdpQGDzme5ss,https://kworb.net/spotify/track/1MaqkdFNIKPdpQGDzme5ss.html,https://open.spotify.com/track/1MaqkdFNIKPdpQGDzme5ss
-Taylor Swift,The Prophecy,True,18WFFUIsewmA8g31KAeo3e,https://kworb.net/spotify/track/18WFFUIsewmA8g31KAeo3e.html,https://open.spotify.com/track/18WFFUIsewmA8g31KAeo3e
-Taylor Swift,Dear John,False,7hZuICN5eaCuQyp443RCt6,https://kworb.net/spotify/track/7hZuICN5eaCuQyp443RCt6.html,https://open.spotify.com/track/7hZuICN5eaCuQyp443RCt6
-Taylor Swift,Better Than Revenge (Taylor's Version),True,0NwGC0v03ysCYINtg6ns58,https://kworb.net/spotify/track/0NwGC0v03ysCYINtg6ns58.html,https://open.spotify.com/track/0NwGC0v03ysCYINtg6ns58
-Taylor Swift,Itâs Nice To Have A Friend,True,1SmiQ65iSAbPto6gPFlBYm,https://kworb.net/spotify/track/1SmiQ65iSAbPto6gPFlBYm.html,https://open.spotify.com/track/1SmiQ65iSAbPto6gPFlBYm
-Taylor Swift,Tim McGraw,False,0Om9WAB5RS09L80DyOfTNa,https://kworb.net/spotify/track/0Om9WAB5RS09L80DyOfTNa.html,https://open.spotify.com/track/0Om9WAB5RS09L80DyOfTNa
-Taylor Swift,Dear Reader,False,10GRRCR5fctuOF4GFmATJI,https://kworb.net/spotify/track/10GRRCR5fctuOF4GFmATJI.html,https://open.spotify.com/track/10GRRCR5fctuOF4GFmATJI
-Taylor Swift,Sparks Fly (Taylorâs Version),True,3MytWN8L7shNYzGl4tAKRp,https://kworb.net/spotify/track/3MytWN8L7shNYzGl4tAKRp.html,https://open.spotify.com/track/3MytWN8L7shNYzGl4tAKRp
-Taylor Swift,*Renegade,False,73W5aXorr5vxrySFcoZqIN,https://kworb.net/spotify/track/73W5aXorr5vxrySFcoZqIN.html,https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN
-Taylor Swift,I Know Places,False,3jBMHD19RZdAqG9iFQh7xc,https://kworb.net/spotify/track/3jBMHD19RZdAqG9iFQh7xc.html,https://open.spotify.com/track/3jBMHD19RZdAqG9iFQh7xc
-Taylor Swift,Welcome To New York (Taylor's Version),True,1hR8BSuEqPCCZfv93zzzz9,https://kworb.net/spotify/track/1hR8BSuEqPCCZfv93zzzz9.html,https://open.spotify.com/track/1hR8BSuEqPCCZfv93zzzz9
-Taylor Swift,Babe (Taylor's Version) (From The Vault),True,0v4z1tuZvn6LGknom9Qx7d,https://kworb.net/spotify/track/0v4z1tuZvn6LGknom9Qx7d.html,https://open.spotify.com/track/0v4z1tuZvn6LGknom9Qx7d
-Taylor Swift,State Of Grace (Taylor's Version),True,6lzc0Al0zfZOIFsFvBS1ki,https://kworb.net/spotify/track/6lzc0Al0zfZOIFsFvBS1ki.html,https://open.spotify.com/track/6lzc0Al0zfZOIFsFvBS1ki
-Taylor Swift,Glitch,False,7C0w28EsX0Um2FrZs9gso2,https://kworb.net/spotify/track/7C0w28EsX0Um2FrZs9gso2.html,https://open.spotify.com/track/7C0w28EsX0Um2FrZs9gso2
-Taylor Swift,closure,False,35rdVq36LMHQX0Suw9a6tK,https://kworb.net/spotify/track/35rdVq36LMHQX0Suw9a6tK.html,https://open.spotify.com/track/35rdVq36LMHQX0Suw9a6tK
-Taylor Swift,Should've Said No,False,16MVSD0mGI4RMQT83Qzm69,https://kworb.net/spotify/track/16MVSD0mGI4RMQT83Qzm69.html,https://open.spotify.com/track/16MVSD0mGI4RMQT83Qzm69
-Taylor Swift,Begin Again,False,4uoyvFGK43Of4v9tj0moxC,https://kworb.net/spotify/track/4uoyvFGK43Of4v9tj0moxC.html,https://open.spotify.com/track/4uoyvFGK43Of4v9tj0moxC
-Taylor Swift,The Black Dog,True,62E2nR0od0M5HYxuYLaDz7,https://kworb.net/spotify/track/62E2nR0od0M5HYxuYLaDz7.html,https://open.spotify.com/track/62E2nR0od0M5HYxuYLaDz7
-Taylor Swift,I Can Fix Him (No Really I Can),False,5chnRTB9qMK3W1M41SnU9s,https://kworb.net/spotify/track/5chnRTB9qMK3W1M41SnU9s.html,https://open.spotify.com/track/5chnRTB9qMK3W1M41SnU9s
-Taylor Swift,Only The Young - Featured in Miss Americana,True,2slqvGLwzZZYsT4K4Y1GBC,https://kworb.net/spotify/track/2slqvGLwzZZYsT4K4Y1GBC.html,https://open.spotify.com/track/2slqvGLwzZZYsT4K4Y1GBC
-Taylor Swift,How Did It End?,True,5Bedn0svl0ZD7RGmJkmKKw,https://kworb.net/spotify/track/5Bedn0svl0ZD7RGmJkmKKw.html,https://open.spotify.com/track/5Bedn0svl0ZD7RGmJkmKKw
-Taylor Swift,Fearless,False,6Eu31gddWw0gOGO506pJYA,https://kworb.net/spotify/track/6Eu31gddWw0gOGO506pJYA.html,https://open.spotify.com/track/6Eu31gddWw0gOGO506pJYA
-Taylor Swift,Last Kiss,False,4h0EXpatqJImv4VRgvX6po,https://kworb.net/spotify/track/4h0EXpatqJImv4VRgvX6po.html,https://open.spotify.com/track/4h0EXpatqJImv4VRgvX6po
-Taylor Swift,The Last Time (feat. Gary Lightbody of Snow Patrol) (Taylorâs Version),True,0y6kdSRCVQhSsHSpWvTUm7,https://kworb.net/spotify/track/0y6kdSRCVQhSsHSpWvTUm7.html,https://open.spotify.com/track/0y6kdSRCVQhSsHSpWvTUm7
-Taylor Swift,Come Back...Be Here (Taylor's Version),True,4pNApnaUWAL2J4KO2eqokq,https://kworb.net/spotify/track/4pNApnaUWAL2J4KO2eqokq.html,https://open.spotify.com/track/4pNApnaUWAL2J4KO2eqokq
-Taylor Swift,Suburban Legends (Taylor's Version) (From The Vault),True,6T0sEnqjmHISIKwFETeeiP,https://kworb.net/spotify/track/6T0sEnqjmHISIKwFETeeiP.html,https://open.spotify.com/track/6T0sEnqjmHISIKwFETeeiP
-Taylor Swift,Forever & Always (Taylorâs Version),True,1msEuwSBneBKpVCZQcFTsU,https://kworb.net/spotify/track/1msEuwSBneBKpVCZQcFTsU.html,https://open.spotify.com/track/1msEuwSBneBKpVCZQcFTsU
-Taylor Swift,Clara Bow,False,4d9PtIEVij9jW5OaLinH66,https://kworb.net/spotify/track/4d9PtIEVij9jW5OaLinH66.html,https://open.spotify.com/track/4d9PtIEVij9jW5OaLinH66
-Taylor Swift,itâs time to go - bonus track,True,1kdWw77ZpYOkhxeuhzU1j6,https://kworb.net/spotify/track/1kdWw77ZpYOkhxeuhzU1j6.html,https://open.spotify.com/track/1kdWw77ZpYOkhxeuhzU1j6
-Taylor Swift,Fifteen,True,4t0OI7XrODjSkAu3bTPmWj,https://kworb.net/spotify/track/4t0OI7XrODjSkAu3bTPmWj.html,https://open.spotify.com/track/4t0OI7XrODjSkAu3bTPmWj
-Taylor Swift,Crazier,True,5vyxXfD5gLlyPxGZMEjtmd,https://kworb.net/spotify/track/5vyxXfD5gLlyPxGZMEjtmd.html,https://open.spotify.com/track/5vyxXfD5gLlyPxGZMEjtmd
-Taylor Swift,Treacherous (Taylor's Version),True,3S7HNKPakdwNEBFIVTL6dZ,https://kworb.net/spotify/track/3S7HNKPakdwNEBFIVTL6dZ.html,https://open.spotify.com/track/3S7HNKPakdwNEBFIVTL6dZ
-Taylor Swift,Dear John (Taylor's Version),True,1zU8j1x3yi9xalMF96pzKp,https://kworb.net/spotify/track/1zU8j1x3yi9xalMF96pzKp.html,https://open.spotify.com/track/1zU8j1x3yi9xalMF96pzKp
-Taylor Swift,Clean (Taylor's Version),True,2ByBBvpR9b7IynvRmnG7kG,https://kworb.net/spotify/track/2ByBBvpR9b7IynvRmnG7kG.html,https://open.spotify.com/track/2ByBBvpR9b7IynvRmnG7kG
-Taylor Swift,You All Over Me (feat. Maren Morris) (Taylorâs Version) (From The Vault),False,4CHpVfAhuxNJ3ibExe6kxO,https://kworb.net/spotify/track/4CHpVfAhuxNJ3ibExe6kxO.html,https://open.spotify.com/track/4CHpVfAhuxNJ3ibExe6kxO
-Taylor Swift,Speak Now (Taylor's Version),True,5xXqyjLicvEpch72qEryFT,https://kworb.net/spotify/track/5xXqyjLicvEpch72qEryFT.html,https://open.spotify.com/track/5xXqyjLicvEpch72qEryFT
-Taylor Swift,All You Had To Do Was Stay (Taylor's Version),True,6GXgd1BPD9bUpqw5AntGV5,https://kworb.net/spotify/track/6GXgd1BPD9bUpqw5AntGV5.html,https://open.spotify.com/track/6GXgd1BPD9bUpqw5AntGV5
-Taylor Swift,Begin Again (Taylor's Version),True,05GsNucq8Bngd9fnd4fRa0,https://kworb.net/spotify/track/05GsNucq8Bngd9fnd4fRa0.html,https://open.spotify.com/track/05GsNucq8Bngd9fnd4fRa0
-Taylor Swift,*Babe,False,40PXEOFLJc7UIpLMrhSfW1,https://kworb.net/spotify/track/40PXEOFLJc7UIpLMrhSfW1.html,https://open.spotify.com/track/40PXEOFLJc7UIpLMrhSfW1
-Taylor Swift,White Horse,False,6wn61Fzx9XMxQmieLpoIhW,https://kworb.net/spotify/track/6wn61Fzx9XMxQmieLpoIhW.html,https://open.spotify.com/track/6wn61Fzx9XMxQmieLpoIhW
-Taylor Swift,Mean (Taylor's Version),True,30Y4CV7A6YqtQtTTo7Ue4j,https://kworb.net/spotify/track/30Y4CV7A6YqtQtTTo7Ue4j.html,https://open.spotify.com/track/30Y4CV7A6YqtQtTTo7Ue4j
-Taylor Swift,Fifteen (Taylorâs Version),True,2nqio0SfWg6gh2eCtfuMa5,https://kworb.net/spotify/track/2nqio0SfWg6gh2eCtfuMa5.html,https://open.spotify.com/track/2nqio0SfWg6gh2eCtfuMa5
-Taylor Swift,White Horse (Taylorâs Version),True,5YL553x8sHderRBDlm3NM3,https://kworb.net/spotify/track/5YL553x8sHderRBDlm3NM3.html,https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3
-Taylor Swift,The Story Of Us (Taylor's Version),True,6dTA6y0C2ReQklntzZl8l3,https://kworb.net/spotify/track/6dTA6y0C2ReQklntzZl8l3.html,https://open.spotify.com/track/6dTA6y0C2ReQklntzZl8l3
-Taylor Swift,This Love,False,3oKMl2tJv4fdidkXUYMI5x,https://kworb.net/spotify/track/3oKMl2tJv4fdidkXUYMI5x.html,https://open.spotify.com/track/3oKMl2tJv4fdidkXUYMI5x
-Taylor Swift,*us. (feat. Taylor Swift),True,0hhzNPE68LWLfgZwdpxVdR,https://kworb.net/spotify/track/0hhzNPE68LWLfgZwdpxVdR.html,https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR
-Taylor Swift,Bad Blood (Taylor's Version),True,64FzgoLZ3oXu2SriZblHic,https://kworb.net/spotify/track/64FzgoLZ3oXu2SriZblHic.html,https://open.spotify.com/track/64FzgoLZ3oXu2SriZblHic
-Taylor Swift,Sad Beautiful Tragic (Taylor's Version),True,73qMN9bXy7MSPwwGfH3wQr,https://kworb.net/spotify/track/73qMN9bXy7MSPwwGfH3wQr.html,https://open.spotify.com/track/73qMN9bXy7MSPwwGfH3wQr
-Taylor Swift,Haunted,False,28M2gifMU282QBM3fKajIS,https://kworb.net/spotify/track/28M2gifMU282QBM3fKajIS.html,https://open.spotify.com/track/28M2gifMU282QBM3fKajIS
-Taylor Swift,I Hate It Here,True,3hlGuz3loYoLfI3bpwieWq,https://kworb.net/spotify/track/3hlGuz3loYoLfI3bpwieWq.html,https://open.spotify.com/track/3hlGuz3loYoLfI3bpwieWq
-Taylor Swift,Foolish One (Taylorâs Version) (From The Vault),True,4s8BIKx4Zh6ryAEz8RTlaU,https://kworb.net/spotify/track/4s8BIKx4Zh6ryAEz8RTlaU.html,https://open.spotify.com/track/4s8BIKx4Zh6ryAEz8RTlaU
-Taylor Swift,Long Live,False,6XDBA3QWX51lDJ0oZbaJJN,https://kworb.net/spotify/track/6XDBA3QWX51lDJ0oZbaJJN.html,https://open.spotify.com/track/6XDBA3QWX51lDJ0oZbaJJN
-Taylor Swift,Forever Winter (Taylor's Version) (From The Vault),True,3oGVx9RBmiYGv5ZCecWLkx,https://kworb.net/spotify/track/3oGVx9RBmiYGv5ZCecWLkx.html,https://open.spotify.com/track/3oGVx9RBmiYGv5ZCecWLkx
-Taylor Swift,I Wish You Would (Taylor's Version),True,43y1WpBdnEy5TR9aZoSQL9,https://kworb.net/spotify/track/43y1WpBdnEy5TR9aZoSQL9.html,https://open.spotify.com/track/43y1WpBdnEy5TR9aZoSQL9
-Taylor Swift,I Almost Do (Taylor's Version),True,2r9CbjYgFhtAmcFv1cSquB,https://kworb.net/spotify/track/2r9CbjYgFhtAmcFv1cSquB.html,https://open.spotify.com/track/2r9CbjYgFhtAmcFv1cSquB
-Taylor Swift,Chloe or Sam or Sophia or Marcus,True,1rmEsOezwf2lmIZTMAO5Ag,https://kworb.net/spotify/track/1rmEsOezwf2lmIZTMAO5Ag.html,https://open.spotify.com/track/1rmEsOezwf2lmIZTMAO5Ag
-Taylor Swift,Peter,True,3zMDGj4D8ogaYgAIZPeU7S,https://kworb.net/spotify/track/3zMDGj4D8ogaYgAIZPeU7S.html,https://open.spotify.com/track/3zMDGj4D8ogaYgAIZPeU7S
-Taylor Swift,Hey Stephen (Taylorâs Version),True,550erGcdD9n6PnwxrvYqZT,https://kworb.net/spotify/track/550erGcdD9n6PnwxrvYqZT.html,https://open.spotify.com/track/550erGcdD9n6PnwxrvYqZT
-Taylor Swift,The Albatross,True,4EF6IyONolQy0bIQXm2EmX,https://kworb.net/spotify/track/4EF6IyONolQy0bIQXm2EmX.html,https://open.spotify.com/track/4EF6IyONolQy0bIQXm2EmX
-Taylor Swift,Karma (feat. Ice Spice),True,4i6cwNY6oIUU2XZxPIw82Y,https://kworb.net/spotify/track/4i6cwNY6oIUU2XZxPIw82Y.html,https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y
-Taylor Swift,Timeless (Taylorâs Version) (From The Vault),True,1HCdems7PQZRj42QDWLA0A,https://kworb.net/spotify/track/1HCdems7PQZRj42QDWLA0A.html,https://open.spotify.com/track/1HCdems7PQZRj42QDWLA0A
-Taylor Swift,You Are In Love (Taylor's Version),True,4UwqOWDpdeIDVQDuKT6iza,https://kworb.net/spotify/track/4UwqOWDpdeIDVQDuKT6iza.html,https://open.spotify.com/track/4UwqOWDpdeIDVQDuKT6iza
-Taylor Swift,Stay Stay Stay (Taylor's Version),True,7eQj6r5PIdYKEIZjucBMcq,https://kworb.net/spotify/track/7eQj6r5PIdYKEIZjucBMcq.html,https://open.spotify.com/track/7eQj6r5PIdYKEIZjucBMcq
-Taylor Swift,Electric Touch (feat. Fall Out Boy) (Taylorâs Version) (From The Vault),True,4e3ZNTAV6PCrdYMUrUlMpQ,https://kworb.net/spotify/track/4e3ZNTAV6PCrdYMUrUlMpQ.html,https://open.spotify.com/track/4e3ZNTAV6PCrdYMUrUlMpQ
-Taylor Swift,thanK you aIMee,True,7ogK4lJDVDMU6A6vYR5rvD,https://kworb.net/spotify/track/7ogK4lJDVDMU6A6vYR5rvD.html,https://open.spotify.com/track/7ogK4lJDVDMU6A6vYR5rvD
-Taylor Swift,Holy Ground (Taylor's Version),True,7J4b3LVCIGO4CMBDFLPoP6,https://kworb.net/spotify/track/7J4b3LVCIGO4CMBDFLPoP6.html,https://open.spotify.com/track/7J4b3LVCIGO4CMBDFLPoP6
-Taylor Swift,The Bolter,True,2913xXOVAIDAqxzV2g4VcU,https://kworb.net/spotify/track/2913xXOVAIDAqxzV2g4VcU.html,https://open.spotify.com/track/2913xXOVAIDAqxzV2g4VcU
-Taylor Swift,Castles Crumbling (feat. Hayley Williams) (Taylorâs Version) (From The Vault),True,4ABYxlb92WBIjHu7TIKmml,https://kworb.net/spotify/track/4ABYxlb92WBIjHu7TIKmml.html,https://open.spotify.com/track/4ABYxlb92WBIjHu7TIKmml
-Taylor Swift,Last Kiss (Taylor's Version),True,59KOoHFcw5XfICnO57holu,https://kworb.net/spotify/track/59KOoHFcw5XfICnO57holu.html,https://open.spotify.com/track/59KOoHFcw5XfICnO57holu
-Taylor Swift,Haunted (Taylor's Version),True,4tMzIAFTFdqGBQLdfbPces,https://kworb.net/spotify/track/4tMzIAFTFdqGBQLdfbPces.html,https://open.spotify.com/track/4tMzIAFTFdqGBQLdfbPces
-Taylor Swift,When Emma Falls in Love (Taylorâs Version) (From The Vault),True,0zo975x58DlXbZllWvfYhg,https://kworb.net/spotify/track/0zo975x58DlXbZllWvfYhg.html,https://open.spotify.com/track/0zo975x58DlXbZllWvfYhg
-Taylor Swift,Never Grow Up,False,1wJL1A0QUHJPf2cm7tsrdw,https://kworb.net/spotify/track/1wJL1A0QUHJPf2cm7tsrdw.html,https://open.spotify.com/track/1wJL1A0QUHJPf2cm7tsrdw
-Taylor Swift,Wonderland (Taylor's Version),True,2ve0kuaWUCt4Zx8x4bf1MR,https://kworb.net/spotify/track/2ve0kuaWUCt4Zx8x4bf1MR.html,https://open.spotify.com/track/2ve0kuaWUCt4Zx8x4bf1MR
-Taylor Swift,I Know Places (Taylor's Version),True,2f0GI2ZLUtbGqFx8t2Gk6A,https://kworb.net/spotify/track/2f0GI2ZLUtbGqFx8t2Gk6A.html,https://open.spotify.com/track/2f0GI2ZLUtbGqFx8t2Gk6A
-Taylor Swift,How You Get The Girl (Taylor's Version),True,75W3SngKzTuoQ94uLf3y82,https://kworb.net/spotify/track/75W3SngKzTuoQ94uLf3y82.html,https://open.spotify.com/track/75W3SngKzTuoQ94uLf3y82
-Taylor Swift,I Look in People's Windows,True,1Zai5UJ2di3qEuR2HeT2s8,https://kworb.net/spotify/track/1Zai5UJ2di3qEuR2HeT2s8.html,https://open.spotify.com/track/1Zai5UJ2di3qEuR2HeT2s8
-Taylor Swift,Thatâs When (feat. Keith Urban) (Taylorâs Version) (From The Vault),True,7eResoqEJJAVTkQYSqvO3P,https://kworb.net/spotify/track/7eResoqEJJAVTkQYSqvO3P.html,https://open.spotify.com/track/7eResoqEJJAVTkQYSqvO3P
-Taylor Swift,The Lucky One (Taylor's Version),True,4e5ayHsOLJNLTGfjau2mEw,https://kworb.net/spotify/track/4e5ayHsOLJNLTGfjau2mEw.html,https://open.spotify.com/track/4e5ayHsOLJNLTGfjau2mEw
-Taylor Swift,Cassandra,True,0g4fMVo4JjwnIpTfFfLdxS,https://kworb.net/spotify/track/0g4fMVo4JjwnIpTfFfLdxS.html,https://open.spotify.com/track/0g4fMVo4JjwnIpTfFfLdxS
-Taylor Swift,Youâre Not Sorry (Taylorâs Version),True,6iiAfo4wTA2CVC3Uwx9uh8,https://kworb.net/spotify/track/6iiAfo4wTA2CVC3Uwx9uh8.html,https://open.spotify.com/track/6iiAfo4wTA2CVC3Uwx9uh8
-Taylor Swift,The Other Side Of The Door (Taylorâs Version),True,1cSFlSBdpT4F5vb1frQ231,https://kworb.net/spotify/track/1cSFlSBdpT4F5vb1frQ231.html,https://open.spotify.com/track/1cSFlSBdpT4F5vb1frQ231
-Taylor Swift,The Moment I Knew (Taylor's Version),True,0NRHj8hDwwmSPaA41o379r,https://kworb.net/spotify/track/0NRHj8hDwwmSPaA41o379r.html,https://open.spotify.com/track/0NRHj8hDwwmSPaA41o379r
-Taylor Swift,*Both of Us (feat. Taylor Swift),False,3r9bgSJlJz2zlevcBRYXko,https://kworb.net/spotify/track/3r9bgSJlJz2zlevcBRYXko.html,https://open.spotify.com/track/3r9bgSJlJz2zlevcBRYXko
-Taylor Swift,Starlight (Taylor's Version),True,7A2cNLRT0YJc1yjxHlKihs,https://kworb.net/spotify/track/7A2cNLRT0YJc1yjxHlKihs.html,https://open.spotify.com/track/7A2cNLRT0YJc1yjxHlKihs
-Taylor Swift,Donât You (Taylorâs Version) (From The Vault),True,4uuEGH5SVuzkkSFjo2DEiY,https://kworb.net/spotify/track/4uuEGH5SVuzkkSFjo2DEiY.html,https://open.spotify.com/track/4uuEGH5SVuzkkSFjo2DEiY
-Taylor Swift,Back To December - Acoustic,False,6IH2Z54gYPLqgJtxZjX80i,https://kworb.net/spotify/track/6IH2Z54gYPLqgJtxZjX80i.html,https://open.spotify.com/track/6IH2Z54gYPLqgJtxZjX80i
-Taylor Swift,Carolina - From The Motion Picture âWhere The Crawdads Singâ,True,4axSuOg3BqsowKjRpj59RU,https://kworb.net/spotify/track/4axSuOg3BqsowKjRpj59RU.html,https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU
-Taylor Swift,If This Was A Movie (Taylorâs Version),False,0q6vsjvnCIWrtwRckCV7y0,https://kworb.net/spotify/track/0q6vsjvnCIWrtwRckCV7y0.html,https://open.spotify.com/track/0q6vsjvnCIWrtwRckCV7y0
-Taylor Swift,Ours,False,0V3SNHDka1JSCP71HAzpxw,https://kworb.net/spotify/track/0V3SNHDka1JSCP71HAzpxw.html,https://open.spotify.com/track/0V3SNHDka1JSCP71HAzpxw
-Taylor Swift,Breathe (feat. Colbie Caillat) (Taylorâs Version),True,7HC7R2D8WjXVcUHJyEGjRs,https://kworb.net/spotify/track/7HC7R2D8WjXVcUHJyEGjRs.html,https://open.spotify.com/track/7HC7R2D8WjXVcUHJyEGjRs
-Taylor Swift,The Way I Loved You,False,5P4wWhUYWM0IaVYLuZxdar,https://kworb.net/spotify/track/5P4wWhUYWM0IaVYLuZxdar.html,https://open.spotify.com/track/5P4wWhUYWM0IaVYLuZxdar
-Taylor Swift,Cornelia Street - Live From Paris,True,3fGnrtrtL1IHSX9t4DKOYf,https://kworb.net/spotify/track/3fGnrtrtL1IHSX9t4DKOYf.html,https://open.spotify.com/track/3fGnrtrtL1IHSX9t4DKOYf
-Taylor Swift,September - Recorded at The Tracking Room Nashville,True,5eGX87IiKsGuzS3iw4CfCX,https://kworb.net/spotify/track/5eGX87IiKsGuzS3iw4CfCX.html,https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX
-Taylor Swift,Breathe,False,49mWEy5MgtNujgT7xU3emT,https://kworb.net/spotify/track/49mWEy5MgtNujgT7xU3emT.html,https://open.spotify.com/track/49mWEy5MgtNujgT7xU3emT
-Taylor Swift,The Last Time,False,4L9QDCVNWIFhf2yr8iMvzA,https://kworb.net/spotify/track/4L9QDCVNWIFhf2yr8iMvzA.html,https://open.spotify.com/track/4L9QDCVNWIFhf2yr8iMvzA
-Taylor Swift,*The Alcott (feat. Taylor Swift),True,6INztpNwOTlfSKTuPo0HOP,https://kworb.net/spotify/track/6INztpNwOTlfSKTuPo0HOP.html,https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP
-Taylor Swift,The Manuscript,True,1DTRUYVd8rYpla9hhVVwjo,https://kworb.net/spotify/track/1DTRUYVd8rYpla9hhVVwjo.html,https://open.spotify.com/track/1DTRUYVd8rYpla9hhVVwjo
-Taylor Swift,Never Grow Up (Taylor's Version),True,2EFZ9emtKWEglWUQGEQ3P9,https://kworb.net/spotify/track/2EFZ9emtKWEglWUQGEQ3P9.html,https://open.spotify.com/track/2EFZ9emtKWEglWUQGEQ3P9
-Taylor Swift,We Were Happy (Taylorâs Version) (From The Vault),True,34V9RiEPe8MNdU32qJsJa1,https://kworb.net/spotify/track/34V9RiEPe8MNdU32qJsJa1.html,https://open.spotify.com/track/34V9RiEPe8MNdU32qJsJa1
-Taylor Swift,*Gasoline (feat. Taylor Swift),False,645Exr2lJIO45Guht3qyIa,https://kworb.net/spotify/track/645Exr2lJIO45Guht3qyIa.html,https://open.spotify.com/track/645Exr2lJIO45Guht3qyIa
-Taylor Swift,Girl At Home (Taylor's Version),True,0DMVrlMUn01M0IcpDbwgu7,https://kworb.net/spotify/track/0DMVrlMUn01M0IcpDbwgu7.html,https://open.spotify.com/track/0DMVrlMUn01M0IcpDbwgu7
-Taylor Swift,Untouchable (Taylorâs Version),True,0tQ9vBYpldCuikPsbgOVKA,https://kworb.net/spotify/track/0tQ9vBYpldCuikPsbgOVKA.html,https://open.spotify.com/track/0tQ9vBYpldCuikPsbgOVKA
-Taylor Swift,Safe & Sound (feat. Joy Williams and John Paul White) (Taylorâs Version),False,6Q237Ts37YGYRIi5Vy5lVX,https://kworb.net/spotify/track/6Q237Ts37YGYRIi5Vy5lVX.html,https://open.spotify.com/track/6Q237Ts37YGYRIi5Vy5lVX
-Taylor Swift,I Almost Do,False,4Ar3jciiuPXAMGjQpMWo34,https://kworb.net/spotify/track/4Ar3jciiuPXAMGjQpMWo34.html,https://open.spotify.com/track/4Ar3jciiuPXAMGjQpMWo34
-Taylor Swift,Ours (Taylorâs Version),True,3yNJkriPzWjkkDAWHIAVUq,https://kworb.net/spotify/track/3yNJkriPzWjkkDAWHIAVUq.html,https://open.spotify.com/track/3yNJkriPzWjkkDAWHIAVUq
-Taylor Swift,Tell Me Why (Taylorâs Version),True,0k0vFacOHNuArLWMiH60p7,https://kworb.net/spotify/track/0k0vFacOHNuArLWMiH60p7.html,https://open.spotify.com/track/0k0vFacOHNuArLWMiH60p7
-Taylor Swift,State Of Grace,False,5gl2F1AWDQlUFzXwA4uY72,https://kworb.net/spotify/track/5gl2F1AWDQlUFzXwA4uY72.html,https://open.spotify.com/track/5gl2F1AWDQlUFzXwA4uY72
-Taylor Swift,Jump Then Fall (Taylorâs Version),True,2m3ObD945KvpE5y9A1eUWm,https://kworb.net/spotify/track/2m3ObD945KvpE5y9A1eUWm.html,https://open.spotify.com/track/2m3ObD945KvpE5y9A1eUWm
-Taylor Swift,Robin,True,2CnjDMdpRjlWv04Xk3s6MW,https://kworb.net/spotify/track/2CnjDMdpRjlWv04Xk3s6MW.html,https://open.spotify.com/track/2CnjDMdpRjlWv04Xk3s6MW
-Taylor Swift,Bye Bye Baby (Taylorâs Version) (From The Vault),True,4qUijfYU8EoIWiY6oSyrgT,https://kworb.net/spotify/track/4qUijfYU8EoIWiY6oSyrgT.html,https://open.spotify.com/track/4qUijfYU8EoIWiY6oSyrgT
-Taylor Swift,Today Was A Fairytale (Taylorâs Version),True,2JoJrsEV15OzbijS47lids,https://kworb.net/spotify/track/2JoJrsEV15OzbijS47lids.html,https://open.spotify.com/track/2JoJrsEV15OzbijS47lids
-Taylor Swift,Stay Stay Stay,False,5A4PQqcpYb0vD1zx5DlObS,https://kworb.net/spotify/track/5A4PQqcpYb0vD1zx5DlObS.html,https://open.spotify.com/track/5A4PQqcpYb0vD1zx5DlObS
-Taylor Swift,State Of Grace (Acoustic Version) (Taylor's Version),True,5jAIouBES8LWMiriuNq170,https://kworb.net/spotify/track/5jAIouBES8LWMiriuNq170.html,https://open.spotify.com/track/5jAIouBES8LWMiriuNq170
-Taylor Swift,The Best Day (Taylorâs Version),True,6ON9UuIq49xXY9GPmHIYRp,https://kworb.net/spotify/track/6ON9UuIq49xXY9GPmHIYRp.html,https://open.spotify.com/track/6ON9UuIq49xXY9GPmHIYRp
-Taylor Swift,Forever & Always (Piano Version) (Taylorâs Version),True,01QdEx6kFr78ZejhQtWR5m,https://kworb.net/spotify/track/01QdEx6kFr78ZejhQtWR5m.html,https://open.spotify.com/track/01QdEx6kFr78ZejhQtWR5m
-Taylor Swift,Treacherous,False,6xlCHgsZanRIBaS3yokshA,https://kworb.net/spotify/track/6xlCHgsZanRIBaS3yokshA.html,https://open.spotify.com/track/6xlCHgsZanRIBaS3yokshA
-Taylor Swift,I'm Only Me When I'm With You,False,0JIdBrXGSJXS72zjF9ss9u,https://kworb.net/spotify/track/0JIdBrXGSJXS72zjF9ss9u.html,https://open.spotify.com/track/0JIdBrXGSJXS72zjF9ss9u
-Taylor Swift,Holy Ground,False,5iZzl5YlcJaEZjFCcv9j2h,https://kworb.net/spotify/track/5iZzl5YlcJaEZjFCcv9j2h.html,https://open.spotify.com/track/5iZzl5YlcJaEZjFCcv9j2h
-Taylor Swift,All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios,True,1n3b9Eekoy3S9ZSZ5DmTW1,https://kworb.net/spotify/track/1n3b9Eekoy3S9ZSZ5DmTW1.html,https://open.spotify.com/track/1n3b9Eekoy3S9ZSZ5DmTW1
-Taylor Swift,Forever & Always,False,47HtKpfzpAt8rQjjXWotFj,https://kworb.net/spotify/track/47HtKpfzpAt8rQjjXWotFj.html,https://open.spotify.com/track/47HtKpfzpAt8rQjjXWotFj
-Taylor Swift,Mine - POP Mix,False,0fAbfDiuQiUwV7FUcFfRGY,https://kworb.net/spotify/track/0fAbfDiuQiUwV7FUcFfRGY.html,https://open.spotify.com/track/0fAbfDiuQiUwV7FUcFfRGY
-Taylor Swift,Innocent,False,5GPwN5iZ9ZMSXAkppj4Uvv,https://kworb.net/spotify/track/5GPwN5iZ9ZMSXAkppj4Uvv.html,https://open.spotify.com/track/5GPwN5iZ9ZMSXAkppj4Uvv
-Taylor Swift,Innocent (Taylor's Version),True,12nBPF4Rh4XLFJV0YLN7uj,https://kworb.net/spotify/track/12nBPF4Rh4XLFJV0YLN7uj.html,https://open.spotify.com/track/12nBPF4Rh4XLFJV0YLN7uj
-Taylor Swift,exile (feat. Bon Iver) - the long pond studio sessions,False,7N015NTIWGjQDddHUdHPoO,https://kworb.net/spotify/track/7N015NTIWGjQDddHUdHPoO.html,https://open.spotify.com/track/7N015NTIWGjQDddHUdHPoO
-Taylor Swift,Mary's Song (Oh My My My),False,2QrQCMel6v2JiLxqrg4p2O,https://kworb.net/spotify/track/2QrQCMel6v2JiLxqrg4p2O.html,https://open.spotify.com/track/2QrQCMel6v2JiLxqrg4p2O
-Taylor Swift,Hey Stephen,False,4WXzzCof26KJLTK5kK53dS,https://kworb.net/spotify/track/4WXzzCof26KJLTK5kK53dS.html,https://open.spotify.com/track/4WXzzCof26KJLTK5kK53dS
-Taylor Swift,Eyes Open,True,7wjbSn8QHsxqKXU5M0jXGM,https://kworb.net/spotify/track/7wjbSn8QHsxqKXU5M0jXGM.html,https://open.spotify.com/track/7wjbSn8QHsxqKXU5M0jXGM
-Taylor Swift,Change (Taylorâs Version),True,3ExweHKZF9B752DPQByRVT,https://kworb.net/spotify/track/3ExweHKZF9B752DPQByRVT.html,https://open.spotify.com/track/3ExweHKZF9B752DPQByRVT
-Taylor Swift,Ronan (Taylor's Version),True,7nWui6jiMM2m9qFmET1Mtj,https://kworb.net/spotify/track/7nWui6jiMM2m9qFmET1Mtj.html,https://open.spotify.com/track/7nWui6jiMM2m9qFmET1Mtj
-Taylor Swift,the lakes - original version,False,0UAdDYrkCvVQftaKpL6q5f,https://kworb.net/spotify/track/0UAdDYrkCvVQftaKpL6q5f.html,https://open.spotify.com/track/0UAdDYrkCvVQftaKpL6q5f
-Taylor Swift,Cold As You,False,7an1exwMnfYRcdVQm0yDev,https://kworb.net/spotify/track/7an1exwMnfYRcdVQm0yDev.html,https://open.spotify.com/track/7an1exwMnfYRcdVQm0yDev
-Taylor Swift,You're Not Sorry,False,0HmCuN0Z3OX1Qrz43FLOPL,https://kworb.net/spotify/track/0HmCuN0Z3OX1Qrz43FLOPL.html,https://open.spotify.com/track/0HmCuN0Z3OX1Qrz43FLOPL
-Taylor Swift,The Story Of Us,True,7vBlnGdfOLzVEqiOQQxeU8,https://kworb.net/spotify/track/7vBlnGdfOLzVEqiOQQxeU8.html,https://open.spotify.com/track/7vBlnGdfOLzVEqiOQQxeU8
-Taylor Swift,A Place in this World,False,73OX8GdpOeGzKC6OvGSbsv,https://kworb.net/spotify/track/73OX8GdpOeGzKC6OvGSbsv.html,https://open.spotify.com/track/73OX8GdpOeGzKC6OvGSbsv
-Taylor Swift,Delicate - Seeb Remix,True,2Sy2oGjP5RYB4cLVoDU0Gz,https://kworb.net/spotify/track/2Sy2oGjP5RYB4cLVoDU0Gz.html,https://open.spotify.com/track/2Sy2oGjP5RYB4cLVoDU0Gz
-Taylor Swift,Superman (Taylorâs Version),True,4evLyY5Ue1Wesc61t2KXAU,https://kworb.net/spotify/track/4evLyY5Ue1Wesc61t2KXAU.html,https://open.spotify.com/track/4evLyY5Ue1Wesc61t2KXAU
-Taylor Swift,If This Was A Movie,False,0vvt4IZOMkRug195S4MUq0,https://kworb.net/spotify/track/0vvt4IZOMkRug195S4MUq0.html,https://open.spotify.com/track/0vvt4IZOMkRug195S4MUq0
-Taylor Swift,Come In With The Rain (Taylorâs Version),True,1n2wszmJyVkw6FHqyLnQsY,https://kworb.net/spotify/track/1n2wszmJyVkw6FHqyLnQsY.html,https://open.spotify.com/track/1n2wszmJyVkw6FHqyLnQsY
-Taylor Swift,The Lucky One,False,3m4mW6nG5V94FkGBE1YvRG,https://kworb.net/spotify/track/3m4mW6nG5V94FkGBE1YvRG.html,https://open.spotify.com/track/3m4mW6nG5V94FkGBE1YvRG
-Taylor Swift,Starlight,False,2D1BGzlocoxwNBBf2nMwMk,https://kworb.net/spotify/track/2D1BGzlocoxwNBBf2nMwMk.html,https://open.spotify.com/track/2D1BGzlocoxwNBBf2nMwMk
-Taylor Swift,Come Back...Be Here,False,5hiqtrACtMJkNpaNHj0n9Z,https://kworb.net/spotify/track/5hiqtrACtMJkNpaNHj0n9Z.html,https://open.spotify.com/track/5hiqtrACtMJkNpaNHj0n9Z
-Taylor Swift,Delicate - Recorded at The Tracking Room Nashville,True,1Fj0T1XKuhRu7EZzJ7NJIK,https://kworb.net/spotify/track/1Fj0T1XKuhRu7EZzJ7NJIK.html,https://open.spotify.com/track/1Fj0T1XKuhRu7EZzJ7NJIK
-Taylor Swift,cardigan - cabin in candlelight version,False,2hmafYGj1CXYKIYcMnX4lj,https://kworb.net/spotify/track/2hmafYGj1CXYKIYcMnX4lj.html,https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj
-Taylor Swift,Eyes Open (Taylor's Version),False,0gPmM1WtVRg3uENW3o8bfx,https://kworb.net/spotify/track/0gPmM1WtVRg3uENW3o8bfx.html,https://open.spotify.com/track/0gPmM1WtVRg3uENW3o8bfx
-Taylor Swift,The Best Day,False,3esA216TyLHEkNiBCeCmcg,https://kworb.net/spotify/track/3esA216TyLHEkNiBCeCmcg.html,https://open.spotify.com/track/3esA216TyLHEkNiBCeCmcg
-Taylor Swift,Sad Beautiful Tragic,False,5qD1xj5lXOaX1ZDpVKZeF3,https://kworb.net/spotify/track/5qD1xj5lXOaX1ZDpVKZeF3.html,https://open.spotify.com/track/5qD1xj5lXOaX1ZDpVKZeF3
-Taylor Swift,Death By A Thousand Cuts - Live From Paris,False,3oF7Or7T35yhQbGxbCGvRX,https://kworb.net/spotify/track/3oF7Or7T35yhQbGxbCGvRX.html,https://open.spotify.com/track/3oF7Or7T35yhQbGxbCGvRX
-Taylor Swift,Superstar (Taylorâs Version),True,51A8eKvvZz9uydvIZ7xRSV,https://kworb.net/spotify/track/51A8eKvvZz9uydvIZ7xRSV.html,https://open.spotify.com/track/51A8eKvvZz9uydvIZ7xRSV
-Taylor Swift,willow - dancing witch version (Elvira remix),False,2Ta5c5Z6DvM8GX0U1polSo,https://kworb.net/spotify/track/2Ta5c5Z6DvM8GX0U1polSo.html,https://open.spotify.com/track/2Ta5c5Z6DvM8GX0U1polSo
-Taylor Swift,Stay Beautiful,False,2ZoOmCSgj0ypVAmGd1ve4y,https://kworb.net/spotify/track/2ZoOmCSgj0ypVAmGd1ve4y.html,https://open.spotify.com/track/2ZoOmCSgj0ypVAmGd1ve4y
-Taylor Swift,Invisible,False,5OOd01o2YS1QFwdpVLds3r,https://kworb.net/spotify/track/5OOd01o2YS1QFwdpVLds3r.html,https://open.spotify.com/track/5OOd01o2YS1QFwdpVLds3r
-Taylor Swift,Teardrops on My Guitar - Pop Version,False,4pJi1rVt9GNegU9kywjg4z,https://kworb.net/spotify/track/4pJi1rVt9GNegU9kywjg4z.html,https://open.spotify.com/track/4pJi1rVt9GNegU9kywjg4z
-Taylor Swift,Tied Together with a Smile,False,6K0CJLVXqbGMeJSmJ4ENKK,https://kworb.net/spotify/track/6K0CJLVXqbGMeJSmJ4ENKK.html,https://open.spotify.com/track/6K0CJLVXqbGMeJSmJ4ENKK
-Taylor Swift,Love Story (Taylor's Version) - Elvira Remix,False,5RaBeejGtdPEszYEKYECs2,https://kworb.net/spotify/track/5RaBeejGtdPEszYEKYECs2.html,https://open.spotify.com/track/5RaBeejGtdPEszYEKYECs2
-Taylor Swift,The Outside,False,2QA3IixpRcKyOdG7XDzRgv,https://kworb.net/spotify/track/2QA3IixpRcKyOdG7XDzRgv.html,https://open.spotify.com/track/2QA3IixpRcKyOdG7XDzRgv
-Taylor Swift,Today Was A Fairytale - US Version,False,1P5QpwOgXJuoVTm3CWbnLY,https://kworb.net/spotify/track/1P5QpwOgXJuoVTm3CWbnLY.html,https://open.spotify.com/track/1P5QpwOgXJuoVTm3CWbnLY
-Taylor Swift,The Moment I Knew,False,5AsmAjBSSQjRPWgAYIp8tm,https://kworb.net/spotify/track/5AsmAjBSSQjRPWgAYIp8tm.html,https://open.spotify.com/track/5AsmAjBSSQjRPWgAYIp8tm
-Taylor Swift,Tell Me Why,False,3rnI1UCyGJvUTVvT97VQr5,https://kworb.net/spotify/track/3rnI1UCyGJvUTVvT97VQr5.html,https://open.spotify.com/track/3rnI1UCyGJvUTVvT97VQr5
-Taylor Swift,Anti-Hero - Acoustic Version,False,2d3d9xZutJjmUpntiyHt3F,https://kworb.net/spotify/track/2d3d9xZutJjmUpntiyHt3F.html,https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F
-Taylor Swift,Last Christmas,True,2IprIjGNRlj3TfqUWCAo0C,https://kworb.net/spotify/track/2IprIjGNRlj3TfqUWCAo0C.html,https://open.spotify.com/track/2IprIjGNRlj3TfqUWCAo0C
-Taylor Swift,Anti-Hero - Kungs Remix,False,2oWpe2L8ypC080BxpDVuTY,https://kworb.net/spotify/track/2oWpe2L8ypC080BxpDVuTY.html,https://open.spotify.com/track/2oWpe2L8ypC080BxpDVuTY
-Taylor Swift,A Perfectly Good Heart,False,1spLfUJxtyVyiKKTegQ2r4,https://kworb.net/spotify/track/1spLfUJxtyVyiKKTegQ2r4.html,https://open.spotify.com/track/1spLfUJxtyVyiKKTegQ2r4
-Taylor Swift,Cruel Summer - Live from TS | The Eras Tour,True,6ClYMObS7f3Nn4AiZHYQt3,https://kworb.net/spotify/track/6ClYMObS7f3Nn4AiZHYQt3.html,https://open.spotify.com/track/6ClYMObS7f3Nn4AiZHYQt3
-Taylor Swift,Forever & Always - Piano Version,False,46HGgtwmmuEB8mvDCyjyAc,https://kworb.net/spotify/track/46HGgtwmmuEB8mvDCyjyAc.html,https://open.spotify.com/track/46HGgtwmmuEB8mvDCyjyAc
-Taylor Swift,Change,False,1yACRKAwlXWhXXFUSkvzhD,https://kworb.net/spotify/track/1yACRKAwlXWhXXFUSkvzhD.html,https://open.spotify.com/track/1yACRKAwlXWhXXFUSkvzhD
-Taylor Swift,Lavender Haze - Acoustic Version,False,05kJkr80XEaZeN8kxyQoFp,https://kworb.net/spotify/track/05kJkr80XEaZeN8kxyQoFp.html,https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp
-Taylor Swift,Daylight - Live From Paris,False,7ryS0xBZNYjQqql34GCkDp,https://kworb.net/spotify/track/7ryS0xBZNYjQqql34GCkDp.html,https://open.spotify.com/track/7ryS0xBZNYjQqql34GCkDp
-Taylor Swift,Cruel Summer - LP Giobbi Remix,True,0pjBqAz8GlxGlpaU4W0DxS,https://kworb.net/spotify/track/0pjBqAz8GlxGlpaU4W0DxS.html,https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS
-Taylor Swift,...Ready For It? - BloodPopÂ® Remix,False,1Ygm9KdH3wbzDekO8JgxcW,https://kworb.net/spotify/track/1Ygm9KdH3wbzDekO8JgxcW.html,https://open.spotify.com/track/1Ygm9KdH3wbzDekO8JgxcW
-Taylor Swift,Superman,False,2R7C9dDqv1UPycvepBFziA,https://kworb.net/spotify/track/2R7C9dDqv1UPycvepBFziA.html,https://open.spotify.com/track/2R7C9dDqv1UPycvepBFziA
-Taylor Swift,Jump Then Fall,False,5zytSTR2g0I9psX2Z12ex6,https://kworb.net/spotify/track/5zytSTR2g0I9psX2Z12ex6.html,https://open.spotify.com/track/5zytSTR2g0I9psX2Z12ex6
-Taylor Swift,Lavender Haze - Felix Jaehn Remix,False,5KxZfCXXmVvKhPo8hQz2pS,https://kworb.net/spotify/track/5KxZfCXXmVvKhPo8hQz2pS.html,https://open.spotify.com/track/5KxZfCXXmVvKhPo8hQz2pS
-Taylor Swift,Lover - First Dance Remix,False,2msvOEbkK50foYf9BMXr2X,https://kworb.net/spotify/track/2msvOEbkK50foYf9BMXr2X.html,https://open.spotify.com/track/2msvOEbkK50foYf9BMXr2X
-Taylor Swift,cardigan - the long pond studio sessions,False,3EPgWM1zfTSzEc0z4AwWTM,https://kworb.net/spotify/track/3EPgWM1zfTSzEc0z4AwWTM.html,https://open.spotify.com/track/3EPgWM1zfTSzEc0z4AwWTM
-Taylor Swift,Haunted - Acoustic Version,False,62rlxI6g2PNaWsHoiRryto,https://kworb.net/spotify/track/62rlxI6g2PNaWsHoiRryto.html,https://open.spotify.com/track/62rlxI6g2PNaWsHoiRryto
-Taylor Swift,my tears ricochet - the long pond studio sessions,False,5mdNyCS7ttVcAyVYOIFEjs,https://kworb.net/spotify/track/5mdNyCS7ttVcAyVYOIFEjs.html,https://open.spotify.com/track/5mdNyCS7ttVcAyVYOIFEjs
-Taylor Swift,State Of Grace - Acoustic,False,5G9AVKld9q7DCrmoY42raf,https://kworb.net/spotify/track/5G9AVKld9q7DCrmoY42raf.html,https://open.spotify.com/track/5G9AVKld9q7DCrmoY42raf
-Taylor Swift,Untouchable,False,2IZ00ed83ygPIiacYScWUE,https://kworb.net/spotify/track/2IZ00ed83ygPIiacYScWUE.html,https://open.spotify.com/track/2IZ00ed83ygPIiacYScWUE
-Taylor Swift,Girl At Home,False,6cf6rLb8qcklvJv90W6HCW,https://kworb.net/spotify/track/6cf6rLb8qcklvJv90W6HCW.html,https://open.spotify.com/track/6cf6rLb8qcklvJv90W6HCW
-Taylor Swift,august - the long pond studio sessions,False,4MGexoZc12lqE0hYkq9YYx,https://kworb.net/spotify/track/4MGexoZc12lqE0hYkq9YYx.html,https://open.spotify.com/track/4MGexoZc12lqE0hYkq9YYx
-Taylor Swift,Anti-Hero (feat. Bleachers),False,16M9Rxid0nXhVmme7lzVwN,https://kworb.net/spotify/track/16M9Rxid0nXhVmme7lzVwN.html,https://open.spotify.com/track/16M9Rxid0nXhVmme7lzVwN
-Taylor Swift,Fortnight (feat. Post Malone) - BLOND:ISH Remix,True,1gejz5ROvJBUb6WJzkMAcc,https://kworb.net/spotify/track/1gejz5ROvJBUb6WJzkMAcc.html,https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc
-Taylor Swift,this is me trying - the long pond studio sessions,False,1gaLZjPrDnHQWJds2Jg4KT,https://kworb.net/spotify/track/1gaLZjPrDnHQWJds2Jg4KT.html,https://open.spotify.com/track/1gaLZjPrDnHQWJds2Jg4KT
-Taylor Swift,The Man - Live From Paris,False,7FKbTRXXIWVFQmPH8zGfU0,https://kworb.net/spotify/track/7FKbTRXXIWVFQmPH8zGfU0.html,https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0
-Taylor Swift,Message In A Bottle (Fat Max G Remix) (Taylorâs Version),False,3tGq7hWDCtrnL83y5OGual,https://kworb.net/spotify/track/3tGq7hWDCtrnL83y5OGual.html,https://open.spotify.com/track/3tGq7hWDCtrnL83y5OGual
-Taylor Swift,"Sweeter Than Fiction - From ""One Chance"" Soundtrack",False,0RFCHlNuTeUHIB36VuVbOL,https://kworb.net/spotify/track/0RFCHlNuTeUHIB36VuVbOL.html,https://open.spotify.com/track/0RFCHlNuTeUHIB36VuVbOL
-Taylor Swift,the 1 - the long pond studio sessions,False,08J4bMHbILkwSIhbtrcvjN,https://kworb.net/spotify/track/08J4bMHbILkwSIhbtrcvjN.html,https://open.spotify.com/track/08J4bMHbILkwSIhbtrcvjN
-Taylor Swift,mirrorball - the long pond studio sessions,False,2yceD2hx5HhOLgkm1CITCi,https://kworb.net/spotify/track/2yceD2hx5HhOLgkm1CITCi.html,https://open.spotify.com/track/2yceD2hx5HhOLgkm1CITCi
-Taylor Swift,"Beautiful Ghosts - From The Motion Picture Soundtrack ""Cats""",False,2evEoQAhIMaa9PfjTT5skG,https://kworb.net/spotify/track/2evEoQAhIMaa9PfjTT5skG.html,https://open.spotify.com/track/2evEoQAhIMaa9PfjTT5skG
-Taylor Swift,Red - Original Demo Recording,False,4mqgn90sCeVSYqcoftTQTd,https://kworb.net/spotify/track/4mqgn90sCeVSYqcoftTQTd.html,https://open.spotify.com/track/4mqgn90sCeVSYqcoftTQTd
-Taylor Swift,Anti-Hero - ILLENIUM Remix,False,6C0H8ts9M6deezz0yYR6LK,https://kworb.net/spotify/track/6C0H8ts9M6deezz0yYR6LK.html,https://open.spotify.com/track/6C0H8ts9M6deezz0yYR6LK
-Taylor Swift,Come In With The Rain,False,4pl5zcqCv4vc3cB7M4MZ6f,https://kworb.net/spotify/track/4pl5zcqCv4vc3cB7M4MZ6f.html,https://open.spotify.com/track/4pl5zcqCv4vc3cB7M4MZ6f
-Taylor Swift,illicit affairs - the long pond studio sessions,False,560uQyz3p5G9WdnMX39xc6,https://kworb.net/spotify/track/560uQyz3p5G9WdnMX39xc6.html,https://open.spotify.com/track/560uQyz3p5G9WdnMX39xc6
-Taylor Swift,Treacherous - Original Demo Recording,False,7BT9K9BDqq6HI2oWH5UMZQ,https://kworb.net/spotify/track/7BT9K9BDqq6HI2oWH5UMZQ.html,https://open.spotify.com/track/7BT9K9BDqq6HI2oWH5UMZQ
-Taylor Swift,You Need To Calm Down - Clean Bandit Remix,False,7Bjf96uNizpvXLvNyOJpst,https://kworb.net/spotify/track/7Bjf96uNizpvXLvNyOJpst.html,https://open.spotify.com/track/7Bjf96uNizpvXLvNyOJpst
-Taylor Swift,the lakes - the long pond studio sessions,False,6mqyTq948oap5AkyTsd6XF,https://kworb.net/spotify/track/6mqyTq948oap5AkyTsd6XF.html,https://open.spotify.com/track/6mqyTq948oap5AkyTsd6XF
-Taylor Swift,willow - lonely witch version,False,77d7q9TNbsIDmRTDPkPv3L,https://kworb.net/spotify/track/77d7q9TNbsIDmRTDPkPv3L.html,https://open.spotify.com/track/77d7q9TNbsIDmRTDPkPv3L
-Taylor Swift,The Other Side Of The Door,False,0xvsgzM8AtBtRHZm5rav8A,https://kworb.net/spotify/track/0xvsgzM8AtBtRHZm5rav8A.html,https://open.spotify.com/track/0xvsgzM8AtBtRHZm5rav8A
-Taylor Swift,the last great american dynasty - the long pond studio sessions,False,28tIMaewZuGR8urkvFhQyA,https://kworb.net/spotify/track/28tIMaewZuGR8urkvFhQyA.html,https://open.spotify.com/track/28tIMaewZuGR8urkvFhQyA
-Taylor Swift,*Birch,False,7wo2UNeQBowm28hfAJsEMz,https://kworb.net/spotify/track/7wo2UNeQBowm28hfAJsEMz.html,https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz
-Taylor Swift,seven - the long pond studio sessions,False,4cOWq0cVsKjxaQpRMbDoH1,https://kworb.net/spotify/track/4cOWq0cVsKjxaQpRMbDoH1.html,https://open.spotify.com/track/4cOWq0cVsKjxaQpRMbDoH1
-Taylor Swift,willow - 90's trend remix,True,77p4fRpoeiZMtUy3P9kN21,https://kworb.net/spotify/track/77p4fRpoeiZMtUy3P9kN21.html,https://open.spotify.com/track/77p4fRpoeiZMtUy3P9kN21
-Taylor Swift,Lavender Haze - Snakehips Remix,False,6F67FNdOBNMFzxdj1CQ5pL,https://kworb.net/spotify/track/6F67FNdOBNMFzxdj1CQ5pL.html,https://open.spotify.com/track/6F67FNdOBNMFzxdj1CQ5pL
-Taylor Swift,*Renegade - Pop Version,False,06zIBqLC9ZRm5i0iMf0kHI,https://kworb.net/spotify/track/06zIBqLC9ZRm5i0iMf0kHI.html,https://open.spotify.com/track/06zIBqLC9ZRm5i0iMf0kHI
-Taylor Swift,All Too Well (10 Minute Version) (The Short Film),False,1u4HUiREUR6vX1W1RYG2Tm,https://kworb.net/spotify/track/1u4HUiREUR6vX1W1RYG2Tm.html,https://open.spotify.com/track/1u4HUiREUR6vX1W1RYG2Tm
-Taylor Swift,SuperStar,False,14Bljc3pOOG0xQX3wqhLN9,https://kworb.net/spotify/track/14Bljc3pOOG0xQX3wqhLN9.html,https://open.spotify.com/track/14Bljc3pOOG0xQX3wqhLN9
-Taylor Swift,invisible string - the long pond studio sessions,False,5KByGq0JijSSDcy0qzuINs,https://kworb.net/spotify/track/5KByGq0JijSSDcy0qzuINs.html,https://open.spotify.com/track/5KByGq0JijSSDcy0qzuINs
-Taylor Swift,Teardrops On My Guitar - International Mix,False,2RM02ladxD5mgdrlAwh3h9,https://kworb.net/spotify/track/2RM02ladxD5mgdrlAwh3h9.html,https://open.spotify.com/track/2RM02ladxD5mgdrlAwh3h9
-Taylor Swift,betty - the long pond studio sessions,False,1mh5dObNoOvCfHmXnhvDEK,https://kworb.net/spotify/track/1mh5dObNoOvCfHmXnhvDEK.html,https://open.spotify.com/track/1mh5dObNoOvCfHmXnhvDEK
-Taylor Swift,hoax - the long pond studio sessions,False,0QTBsdoJhamY3Aid3fOsOd,https://kworb.net/spotify/track/0QTBsdoJhamY3Aid3fOsOd.html,https://open.spotify.com/track/0QTBsdoJhamY3Aid3fOsOd
-Taylor Swift,Back To December/Apologize/You're Not Sorry - Live/2011/Medley,False,1IsquhJFJ0qcFZI7FeAEuN,https://kworb.net/spotify/track/1IsquhJFJ0qcFZI7FeAEuN.html,https://open.spotify.com/track/1IsquhJFJ0qcFZI7FeAEuN
-Taylor Swift,Drops Of Jupiter - Live/2011,False,0BSmbCIY36iw04azzJ3S0S,https://kworb.net/spotify/track/0BSmbCIY36iw04azzJ3S0S.html,https://open.spotify.com/track/0BSmbCIY36iw04azzJ3S0S
-Taylor Swift,Wildest Dreams - R3hab Remix,False,5VDHMi7own9vDZjiwDES1e,https://kworb.net/spotify/track/5VDHMi7own9vDZjiwDES1e.html,https://open.spotify.com/track/5VDHMi7own9vDZjiwDES1e
-Taylor Swift,*Should've Said No - The 3D Concert Experience,False,06FXaDDdg0BzXl15cthMS5,https://kworb.net/spotify/track/06FXaDDdg0BzXl15cthMS5.html,https://open.spotify.com/track/06FXaDDdg0BzXl15cthMS5
-Taylor Swift,The Archer - Live From Paris,False,2fgiBCtbWo8pijF6M7pN1i,https://kworb.net/spotify/track/2fgiBCtbWo8pijF6M7pN1i.html,https://open.spotify.com/track/2fgiBCtbWo8pijF6M7pN1i
-Taylor Swift,Santa Baby,False,71IScwIe7bcIlpnlkbKVQw,https://kworb.net/spotify/track/71IScwIe7bcIlpnlkbKVQw.html,https://open.spotify.com/track/71IScwIe7bcIlpnlkbKVQw
-Taylor Swift,peace - the long pond studio sessions,False,4YHHz3VIXgNDGdoL9xC1tx,https://kworb.net/spotify/track/4YHHz3VIXgNDGdoL9xC1tx.html,https://open.spotify.com/track/4YHHz3VIXgNDGdoL9xC1tx
-Taylor Swift,mad woman - the long pond studio sessions,False,04xrhDrQ2WOW8GLwu7kbc0,https://kworb.net/spotify/track/04xrhDrQ2WOW8GLwu7kbc0.html,https://open.spotify.com/track/04xrhDrQ2WOW8GLwu7kbc0
-Taylor Swift,Lover - Live From Paris,False,4lD3RXyvHpJsM3BhIEC4aA,https://kworb.net/spotify/track/4lD3RXyvHpJsM3BhIEC4aA.html,https://open.spotify.com/track/4lD3RXyvHpJsM3BhIEC4aA
-Taylor Swift,epiphany - the long pond studio sessions,False,4yyKppX85ZkmlGOC2toBZA,https://kworb.net/spotify/track/4yyKppX85ZkmlGOC2toBZA.html,https://open.spotify.com/track/4yyKppX85ZkmlGOC2toBZA
-Taylor Swift,Fortnight (feat. Post Malone) - Acoustic Version,False,2BUTSRKPGRsyc9FnsC5Udd,https://kworb.net/spotify/track/2BUTSRKPGRsyc9FnsC5Udd.html,https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd
-Taylor Swift,Love Story - Digital Dog Remix,False,3RNDw7yywLNyawDKV99hTx,https://kworb.net/spotify/track/3RNDw7yywLNyawDKV99hTx.html,https://open.spotify.com/track/3RNDw7yywLNyawDKV99hTx
-Taylor Swift,"Carolina - ""Where The Crawdads Sing"" - Video Edition",True,12xIjI9A9UlB6zEc7kyZ06,https://kworb.net/spotify/track/12xIjI9A9UlB6zEc7kyZ06.html,https://open.spotify.com/track/12xIjI9A9UlB6zEc7kyZ06
-Taylor Swift,betty - Live from the 2020 Academy of Country Music Awards,False,1hm4V38egkiHOgxTUpu0zg,https://kworb.net/spotify/track/1hm4V38egkiHOgxTUpu0zg.html,https://open.spotify.com/track/1hm4V38egkiHOgxTUpu0zg
-Taylor Swift,Christmas Tree Farm - Old Timey Version,True,7r7j12XctfJqZWXsy1Zq9L,https://kworb.net/spotify/track/7r7j12XctfJqZWXsy1Zq9L.html,https://open.spotify.com/track/7r7j12XctfJqZWXsy1Zq9L
-Taylor Swift,Sparks Fly - Live/2011,False,1aBJNc2thaKyh5THWzIqHX,https://kworb.net/spotify/track/1aBJNc2thaKyh5THWzIqHX.html,https://open.spotify.com/track/1aBJNc2thaKyh5THWzIqHX
-Taylor Swift,willow - moonlit witch version,False,5F7hpFKLmWgMHGxQuwssuv,https://kworb.net/spotify/track/5F7hpFKLmWgMHGxQuwssuv.html,https://open.spotify.com/track/5F7hpFKLmWgMHGxQuwssuv
-Taylor Swift,Bette Davis Eyes - Live/2011,False,6KF9xd2hBLuexrmBX4vUWD,https://kworb.net/spotify/track/6KF9xd2hBLuexrmBX4vUWD.html,https://open.spotify.com/track/6KF9xd2hBLuexrmBX4vUWD
-Taylor Swift,Enchanted - Live/2011,False,3lm4L3pPL32PFy74dR17OR,https://kworb.net/spotify/track/3lm4L3pPL32PFy74dR17OR.html,https://open.spotify.com/track/3lm4L3pPL32PFy74dR17OR
-Taylor Swift,Christmases When You Were Mine,False,1g09DZjQ7yBommCT6POY2n,https://kworb.net/spotify/track/1g09DZjQ7yBommCT6POY2n.html,https://open.spotify.com/track/1g09DZjQ7yBommCT6POY2n
-Taylor Swift,Anti-Hero - Jayda G Remix,False,4YrpqEBNuz7IMsZtUP6bNQ,https://kworb.net/spotify/track/4YrpqEBNuz7IMsZtUP6bNQ.html,https://open.spotify.com/track/4YrpqEBNuz7IMsZtUP6bNQ
-Taylor Swift,You Need To Calm Down - Live From Paris,False,36a08nLG1xazGaaVKK0vv7,https://kworb.net/spotify/track/36a08nLG1xazGaaVKK0vv7.html,https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7
-Taylor Swift,ME! - Live From Paris,False,5fOV54t6mMYv3H9CsnvU81,https://kworb.net/spotify/track/5fOV54t6mMYv3H9CsnvU81.html,https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81
-Taylor Swift,Delicate - Sawyr And Ryan Tedder Mix,False,6SYwJcqaltK2WFRmD1unUV,https://kworb.net/spotify/track/6SYwJcqaltK2WFRmD1unUV.html,https://open.spotify.com/track/6SYwJcqaltK2WFRmD1unUV
-Taylor Swift,The Story Of Us - Live,False,72GIZuUXo14oyrS0si3Rgc,https://kworb.net/spotify/track/72GIZuUXo14oyrS0si3Rgc.html,https://open.spotify.com/track/72GIZuUXo14oyrS0si3Rgc
-Taylor Swift,Mine - Live/2011,False,7yndkPYP6YQQLBpPsizDfh,https://kworb.net/spotify/track/7yndkPYP6YQQLBpPsizDfh.html,https://open.spotify.com/track/7yndkPYP6YQQLBpPsizDfh
-Taylor Swift,Mean - Live/2011,False,7mFiEij8AXPUZB7aKLbUlQ,https://kworb.net/spotify/track/7mFiEij8AXPUZB7aKLbUlQ.html,https://open.spotify.com/track/7mFiEij8AXPUZB7aKLbUlQ
-Taylor Swift,I Want You Back - Live/2011,False,4KB3zBArZ1rHRExilzycaV,https://kworb.net/spotify/track/4KB3zBArZ1rHRExilzycaV.html,https://open.spotify.com/track/4KB3zBArZ1rHRExilzycaV
-Taylor Swift,Christmas Must Be Something More,False,31JVjy3XWnh6C2zf4kLCXN,https://kworb.net/spotify/track/31JVjy3XWnh6C2zf4kLCXN.html,https://open.spotify.com/track/31JVjy3XWnh6C2zf4kLCXN
-Taylor Swift,Ronan,False,0Nw8hv79MLJa1yjtsEgz08,https://kworb.net/spotify/track/0Nw8hv79MLJa1yjtsEgz08.html,https://open.spotify.com/track/0Nw8hv79MLJa1yjtsEgz08
-Taylor Swift,Better Than Revenge - Live/2011,False,6505MLhnqTDDg4tjoUz2Wp,https://kworb.net/spotify/track/6505MLhnqTDDg4tjoUz2Wp.html,https://open.spotify.com/track/6505MLhnqTDDg4tjoUz2Wp
-Taylor Swift,Dear John - Live/2011,False,4DbI1rr4IQ2bc8nejy9ttd,https://kworb.net/spotify/track/4DbI1rr4IQ2bc8nejy9ttd.html,https://open.spotify.com/track/4DbI1rr4IQ2bc8nejy9ttd
-Taylor Swift,Ours - Live/2011,False,68QyrSzpnoU04AAhE5z8lj,https://kworb.net/spotify/track/68QyrSzpnoU04AAhE5z8lj.html,https://open.spotify.com/track/68QyrSzpnoU04AAhE5z8lj
-Taylor Swift,Long Live - Live/2011,False,5QkzyLUb4ggojNDp8G2OxX,https://kworb.net/spotify/track/5QkzyLUb4ggojNDp8G2OxX.html,https://open.spotify.com/track/5QkzyLUb4ggojNDp8G2OxX
-Taylor Swift,Speak Now - Live/2011,False,3QFB14MOUf3imlyISNmrbT,https://kworb.net/spotify/track/3QFB14MOUf3imlyISNmrbT.html,https://open.spotify.com/track/3QFB14MOUf3imlyISNmrbT
-Taylor Swift,Last Kiss - Live/2011,False,6hH37tyeRdyan1mAppmVor,https://kworb.net/spotify/track/6hH37tyeRdyan1mAppmVor.html,https://open.spotify.com/track/6hH37tyeRdyan1mAppmVor
-Taylor Swift,White Christmas,False,7GZ3KDorsc1yWndEtzGTjf,https://kworb.net/spotify/track/7GZ3KDorsc1yWndEtzGTjf.html,https://open.spotify.com/track/7GZ3KDorsc1yWndEtzGTjf
-Taylor Swift,Haunted - Live/2011,False,6znB7YZhMJT2B83zfbiyLq,https://kworb.net/spotify/track/6znB7YZhMJT2B83zfbiyLq.html,https://open.spotify.com/track/6znB7YZhMJT2B83zfbiyLq
-Taylor Swift,I Know Places - Voice Memo,False,4JQm7ebhsrt10wmrP6AfXL,https://kworb.net/spotify/track/4JQm7ebhsrt10wmrP6AfXL.html,https://open.spotify.com/track/4JQm7ebhsrt10wmrP6AfXL
-Taylor Swift,Silent Night,False,1cJkUN5LAotktryx2nPCr7,https://kworb.net/spotify/track/1cJkUN5LAotktryx2nPCr7.html,https://open.spotify.com/track/1cJkUN5LAotktryx2nPCr7
-Taylor Swift,Our Song - International Mix,False,5Ct2PYPUSogyWvbV40k9Bf,https://kworb.net/spotify/track/5Ct2PYPUSogyWvbV40k9Bf.html,https://open.spotify.com/track/5Ct2PYPUSogyWvbV40k9Bf
-Taylor Swift,*Big Star (with Taylor Swift) - Live,False,7JKwboSAWRHJI5U1XGTqS3,https://kworb.net/spotify/track/7JKwboSAWRHJI5U1XGTqS3.html,https://open.spotify.com/track/7JKwboSAWRHJI5U1XGTqS3
-Taylor Swift,Blank Space - Voice Memo,False,0yisH8r0f3Mkq34kjzUlCV,https://kworb.net/spotify/track/0yisH8r0f3Mkq34kjzUlCV.html,https://open.spotify.com/track/0yisH8r0f3Mkq34kjzUlCV
-Taylor Swift,I Wish You Would - Voice Memo,False,4TtyvyI42C0KFnbDZvNC8Y,https://kworb.net/spotify/track/4TtyvyI42C0KFnbDZvNC8Y.html,https://open.spotify.com/track/4TtyvyI42C0KFnbDZvNC8Y
-Taylor Swift,Love Story - Pop Mix,False,5lA0yK8S5tP3xoaRMCp4Ug,https://kworb.net/spotify/track/5lA0yK8S5tP3xoaRMCp4Ug.html,https://open.spotify.com/track/5lA0yK8S5tP3xoaRMCp4Ug
-Taylor Swift,"Macavity - From The Motion Picture Soundtrack ""Cats""",False,5zOKuItOTZhRCGtPrDYmlj,https://kworb.net/spotify/track/5zOKuItOTZhRCGtPrDYmlj.html,https://open.spotify.com/track/5zOKuItOTZhRCGtPrDYmlj
-Taylor Swift,Anti-Hero - Roosevelt Remix,False,4XiypEn8iKbeP1TbTqdfk5,https://kworb.net/spotify/track/4XiypEn8iKbeP1TbTqdfk5.html,https://open.spotify.com/track/4XiypEn8iKbeP1TbTqdfk5
-Taylor Swift,Lavender Haze - Tensnake Remix,False,7kjSmkSo15pHlkb0mOQtfj,https://kworb.net/spotify/track/7kjSmkSo15pHlkb0mOQtfj.html,https://open.spotify.com/track/7kjSmkSo15pHlkb0mOQtfj
-Taylor Swift,Lavender Haze - Jungle Remix,False,0ThxqUZ9PwS6n0UT5i1XH6,https://kworb.net/spotify/track/0ThxqUZ9PwS6n0UT5i1XH6.html,https://open.spotify.com/track/0ThxqUZ9PwS6n0UT5i1XH6
-Taylor Swift,Love Story - Live From Clear Channel Stripped 2008,False,4RBKAqJ3qyvvriDG0s9IJ3,https://kworb.net/spotify/track/4RBKAqJ3qyvvriDG0s9IJ3.html,https://open.spotify.com/track/4RBKAqJ3qyvvriDG0s9IJ3
-Taylor Swift,You're Not Sorry - CSI Remix,False,4VbErhGDMTnvPAnt5z70DL,https://kworb.net/spotify/track/4VbErhGDMTnvPAnt5z70DL.html,https://open.spotify.com/track/4VbErhGDMTnvPAnt5z70DL
-Taylor Swift,Christmas Tree Farm - Recorded Live at the 2019 iHeartRadio Jingle Ball,False,2ziekbazMdLS2Gtdo78RID,https://kworb.net/spotify/track/2ziekbazMdLS2Gtdo78RID.html,https://open.spotify.com/track/2ziekbazMdLS2Gtdo78RID
-Taylor Swift,Beautiful Eyes - Live From Clear Channel Stripped 2008,False,4aBW31cmkA7BLColUsMEeZ,https://kworb.net/spotify/track/4aBW31cmkA7BLColUsMEeZ.html,https://open.spotify.com/track/4aBW31cmkA7BLColUsMEeZ
-Taylor Swift,Fortnight (feat. Post Malone) - Cults Remix,False,7pM01Cfj8vt7z3qI2TveNT,https://kworb.net/spotify/track/7pM01Cfj8vt7z3qI2TveNT.html,https://open.spotify.com/track/7pM01Cfj8vt7z3qI2TveNT
-Taylor Swift,Love Story - J Stax Radio Mix,False,4i0M7glXqIIRKPwbLtpExi,https://kworb.net/spotify/track/4i0M7glXqIIRKPwbLtpExi.html,https://open.spotify.com/track/4i0M7glXqIIRKPwbLtpExi
-Taylor Swift,Fearless - Live From Clear Channel Stripped 2008,False,5g7RMU3cV7zXWH244BLe7G,https://kworb.net/spotify/track/5g7RMU3cV7zXWH244BLe7G.html,https://open.spotify.com/track/5g7RMU3cV7zXWH244BLe7G
-Taylor Swift,Should've Said No - Live From Clear Channel Stripped 2008,False,5a9hUL6ZuiagZhazwrtwHF,https://kworb.net/spotify/track/5a9hUL6ZuiagZhazwrtwHF.html,https://open.spotify.com/track/5a9hUL6ZuiagZhazwrtwHF
-Taylor Swift,Teardrops On My Guitar - Live From Clear Channel Stripped 2008,False,4DjevQhsPWULcondN4mRh5,https://kworb.net/spotify/track/4DjevQhsPWULcondN4mRh5.html,https://open.spotify.com/track/4DjevQhsPWULcondN4mRh5
-Taylor Swift,Untouchable - Live From Clear Channel Stripped 2008,False,4MbHDiHQjhmoVAV75G04Ql,https://kworb.net/spotify/track/4MbHDiHQjhmoVAV75G04Ql.html,https://open.spotify.com/track/4MbHDiHQjhmoVAV75G04Ql
-Taylor Swift,Picture To Burn - Live From Clear Channel Stripped 2008,False,7EvU9pRoJ9Xs7anx0P7tEc,https://kworb.net/spotify/track/7EvU9pRoJ9Xs7anx0P7tEc.html,https://open.spotify.com/track/7EvU9pRoJ9Xs7anx0P7tEc
-Taylor Swift,Cruel Summer - LP Giobbi Remix - Extended Version,False,0ISHfeb30gj4CSWUZYuesj,https://kworb.net/spotify/track/0ISHfeb30gj4CSWUZYuesj.html,https://open.spotify.com/track/0ISHfeb30gj4CSWUZYuesj
-Taylor Swift,Blank Space - Karaoke Version,False,6N6V2v89hS4N9ossON5f9R,https://kworb.net/spotify/track/6N6V2v89hS4N9ossON5f9R.html,https://open.spotify.com/track/6N6V2v89hS4N9ossON5f9R
-Taylor Swift,Don't Blame Me - Karaoke Version,False,5JtXBqKLdfzwedmlUjjqAm,https://kworb.net/spotify/track/5JtXBqKLdfzwedmlUjjqAm.html,https://open.spotify.com/track/5JtXBqKLdfzwedmlUjjqAm
-Taylor Swift,...Ready For It? - Karaoke Version,False,4twNUyTpLMPWokYmCdFDCH,https://kworb.net/spotify/track/4twNUyTpLMPWokYmCdFDCH.html,https://open.spotify.com/track/4twNUyTpLMPWokYmCdFDCH
-Taylor Swift,Style - Karaoke Version,False,1Qicm51crXMvUuH4SMjobT,https://kworb.net/spotify/track/1Qicm51crXMvUuH4SMjobT.html,https://open.spotify.com/track/1Qicm51crXMvUuH4SMjobT
-Taylor Swift,Look What You Made Me Do - Karaoke Version,False,1zz0XSmHCFd57ne04UAp38,https://kworb.net/spotify/track/1zz0XSmHCFd57ne04UAp38.html,https://open.spotify.com/track/1zz0XSmHCFd57ne04UAp38
-Taylor Swift,Change - Live From Clear Channel Stripped 2008,False,69o9kr9UexjzeZDE8yD8dQ,https://kworb.net/spotify/track/69o9kr9UexjzeZDE8yD8dQ.html,https://open.spotify.com/track/69o9kr9UexjzeZDE8yD8dQ
-Taylor Swift,Hey Stephen - Commentary,False,7Ae2hYOcJmLbGCYIA3M1VM,https://kworb.net/spotify/track/7Ae2hYOcJmLbGCYIA3M1VM.html,https://open.spotify.com/track/7Ae2hYOcJmLbGCYIA3M1VM
-Taylor Swift,All Too Well - Commentary,False,1yVVoBDzSkFkZRWtq9x3u1,https://kworb.net/spotify/track/1yVVoBDzSkFkZRWtq9x3u1.html,https://open.spotify.com/track/1yVVoBDzSkFkZRWtq9x3u1
-Taylor Swift,Delicate - Karaoke Version,False,5Iadj8IBPrt634WW0yGPRI,https://kworb.net/spotify/track/5Iadj8IBPrt634WW0yGPRI.html,https://open.spotify.com/track/5Iadj8IBPrt634WW0yGPRI
-Taylor Swift,Shake It Off - Karaoke Version,False,4omftH10jc82Sj8VJ395C7,https://kworb.net/spotify/track/4omftH10jc82Sj8VJ395C7.html,https://open.spotify.com/track/4omftH10jc82Sj8VJ395C7
-Taylor Swift,Love Story - Instrumental with BGV,False,2GZNZLMvT3gjCEPd6NNvvQ,https://kworb.net/spotify/track/2GZNZLMvT3gjCEPd6NNvvQ.html,https://open.spotify.com/track/2GZNZLMvT3gjCEPd6NNvvQ
-Taylor Swift,The Last Time - Karaoke Version,False,2mz69DJOIt4b1xxfxiJbBy,https://kworb.net/spotify/track/2mz69DJOIt4b1xxfxiJbBy.html,https://open.spotify.com/track/2mz69DJOIt4b1xxfxiJbBy
-Taylor Swift,Getaway Car - Karaoke Version,False,7bdyzcQ0onk60hfsxDCd2X,https://kworb.net/spotify/track/7bdyzcQ0onk60hfsxDCd2X.html,https://open.spotify.com/track/7bdyzcQ0onk60hfsxDCd2X
-Taylor Swift,I Did Something Bad - Karaoke Version,False,2hecdut2HWM5JMHqLTWThq,https://kworb.net/spotify/track/2hecdut2HWM5JMHqLTWThq.html,https://open.spotify.com/track/2hecdut2HWM5JMHqLTWThq
-Taylor Swift,We Are Never Ever Getting Back Together - Commentary,False,0kfTOGpi5eZCBxcRF5LFIh,https://kworb.net/spotify/track/0kfTOGpi5eZCBxcRF5LFIh.html,https://open.spotify.com/track/0kfTOGpi5eZCBxcRF5LFIh
-Taylor Swift,I Knew You Were Trouble. - Commentary,False,2vTjAIZbfW7W8NGBOZ5rK5,https://kworb.net/spotify/track/2vTjAIZbfW7W8NGBOZ5rK5.html,https://open.spotify.com/track/2vTjAIZbfW7W8NGBOZ5rK5
-Taylor Swift,I Almost Do - Commentary,False,2rLYkfJSgTPtOTLjYEdozL,https://kworb.net/spotify/track/2rLYkfJSgTPtOTLjYEdozL.html,https://open.spotify.com/track/2rLYkfJSgTPtOTLjYEdozL
-Taylor Swift,State Of Grace - Commentary,False,7HbZuazpPbDDMkb8Tmvxq0,https://kworb.net/spotify/track/7HbZuazpPbDDMkb8Tmvxq0.html,https://open.spotify.com/track/7HbZuazpPbDDMkb8Tmvxq0
-Taylor Swift,Breathe - Commentary,False,3cAHqw3B2deaHRXV9WrYAA,https://kworb.net/spotify/track/3cAHqw3B2deaHRXV9WrYAA.html,https://open.spotify.com/track/3cAHqw3B2deaHRXV9WrYAA
-Taylor Swift,Stay Stay Stay - Commentary,False,4sFwzqXqNcNV3cTyTybq0M,https://kworb.net/spotify/track/4sFwzqXqNcNV3cTyTybq0M.html,https://open.spotify.com/track/4sFwzqXqNcNV3cTyTybq0M
-Taylor Swift,Wildest Dreams - Karaoke Version,False,1BXM0X5BxyUUOLEf9Rv6uZ,https://kworb.net/spotify/track/1BXM0X5BxyUUOLEf9Rv6uZ.html,https://open.spotify.com/track/1BXM0X5BxyUUOLEf9Rv6uZ
-Taylor Swift,22 - Commentary,False,1wePVBS4L6xhCvVUItPAZQ,https://kworb.net/spotify/track/1wePVBS4L6xhCvVUItPAZQ.html,https://open.spotify.com/track/1wePVBS4L6xhCvVUItPAZQ
-Taylor Swift,Treacherous - Commentary,False,3lD0QBGaxvoc9WBDnGHFUi,https://kworb.net/spotify/track/3lD0QBGaxvoc9WBDnGHFUi.html,https://open.spotify.com/track/3lD0QBGaxvoc9WBDnGHFUi
-Taylor Swift,Call It What You Want - Karaoke Version,False,1VPHQriwOsy5aGHLwwZyho,https://kworb.net/spotify/track/1VPHQriwOsy5aGHLwwZyho.html,https://open.spotify.com/track/1VPHQriwOsy5aGHLwwZyho
-Taylor Swift,Red - Commentary,False,1VW4AEDihVs3BQB6KnTYIY,https://kworb.net/spotify/track/1VW4AEDihVs3BQB6KnTYIY.html,https://open.spotify.com/track/1VW4AEDihVs3BQB6KnTYIY
-Taylor Swift,Welcome To New York - Karaoke Version,False,64FIHbthA4RhBv6fL6DGBO,https://kworb.net/spotify/track/64FIHbthA4RhBv6fL6DGBO.html,https://open.spotify.com/track/64FIHbthA4RhBv6fL6DGBO
-Taylor Swift,You Belong With Me - Commentary,False,2BDqAaVKzQDnoVPZbdp68D,https://kworb.net/spotify/track/2BDqAaVKzQDnoVPZbdp68D.html,https://open.spotify.com/track/2BDqAaVKzQDnoVPZbdp68D
-Taylor Swift,Out Of The Woods - Karaoke Version,False,4WrJR6LJ8MtIxouKHUkTEM,https://kworb.net/spotify/track/4WrJR6LJ8MtIxouKHUkTEM.html,https://open.spotify.com/track/4WrJR6LJ8MtIxouKHUkTEM
-Taylor Swift,End Game - Karaoke Version,False,4cag67C3v9ToeFivUwDUsE,https://kworb.net/spotify/track/4cag67C3v9ToeFivUwDUsE.html,https://open.spotify.com/track/4cag67C3v9ToeFivUwDUsE
-Taylor Swift,Style - Commentary,False,4CyL8bBbVRYB0ogadF4aUS,https://kworb.net/spotify/track/4CyL8bBbVRYB0ogadF4aUS.html,https://open.spotify.com/track/4CyL8bBbVRYB0ogadF4aUS
-Taylor Swift,Gorgeous - Karaoke Version,False,3ZHTwJzCNDFvjLpVQiqpH6,https://kworb.net/spotify/track/3ZHTwJzCNDFvjLpVQiqpH6.html,https://open.spotify.com/track/3ZHTwJzCNDFvjLpVQiqpH6
-Taylor Swift,The Last Time - Commentary,False,22Zg9JjEgM0JV5HvLXNJAh,https://kworb.net/spotify/track/22Zg9JjEgM0JV5HvLXNJAh.html,https://open.spotify.com/track/22Zg9JjEgM0JV5HvLXNJAh
-Taylor Swift,Love Story - Commentary,False,7D4bd801muwRfuo5F3KkGk,https://kworb.net/spotify/track/7D4bd801muwRfuo5F3KkGk.html,https://open.spotify.com/track/7D4bd801muwRfuo5F3KkGk
-Taylor Swift,Enchanted - Instrumental With Background Vocals,False,0ruvufCIGCWaf67Tb8R64O,https://kworb.net/spotify/track/0ruvufCIGCWaf67Tb8R64O.html,https://open.spotify.com/track/0ruvufCIGCWaf67Tb8R64O
-Taylor Swift,White Horse - Commentary,False,7F67ujlSkp8PT7uaDPuOjP,https://kworb.net/spotify/track/7F67ujlSkp8PT7uaDPuOjP.html,https://open.spotify.com/track/7F67ujlSkp8PT7uaDPuOjP
-Taylor Swift,Tell Me Why - Commentary,False,1SARZTSJ1YeXgImYzpSxef,https://kworb.net/spotify/track/1SARZTSJ1YeXgImYzpSxef.html,https://open.spotify.com/track/1SARZTSJ1YeXgImYzpSxef
-Taylor Swift,Starlight - Commentary,False,2ag2oLCwlFIA88hQrLMHzv,https://kworb.net/spotify/track/2ag2oLCwlFIA88hQrLMHzv.html,https://open.spotify.com/track/2ag2oLCwlFIA88hQrLMHzv
-Taylor Swift,Dancing With Our Hands Tied - Karaoke Version,False,3ZfvKQxJp4zZshiJsRPoD1,https://kworb.net/spotify/track/3ZfvKQxJp4zZshiJsRPoD1.html,https://open.spotify.com/track/3ZfvKQxJp4zZshiJsRPoD1
-Taylor Swift,You Belong With Me - Instrumental with BGV,False,02DtaJ6ADr4uQJbKEdpxxj,https://kworb.net/spotify/track/02DtaJ6ADr4uQJbKEdpxxj.html,https://open.spotify.com/track/02DtaJ6ADr4uQJbKEdpxxj
-Taylor Swift,Begin Again - Commentary,False,3JayaISg308IVZhUY0XUXe,https://kworb.net/spotify/track/3JayaISg308IVZhUY0XUXe.html,https://open.spotify.com/track/3JayaISg308IVZhUY0XUXe
-Taylor Swift,Out Of The Woods - Commentary,False,5ckUacHVEsmgJI7akKHadD,https://kworb.net/spotify/track/5ckUacHVEsmgJI7akKHadD.html,https://open.spotify.com/track/5ckUacHVEsmgJI7akKHadD
-Taylor Swift,Holy Ground - Commentary,False,0HTZpLa2SjBmuJ6zJ7OqMm,https://kworb.net/spotify/track/0HTZpLa2SjBmuJ6zJ7OqMm.html,https://open.spotify.com/track/0HTZpLa2SjBmuJ6zJ7OqMm
-Taylor Swift,Everything Has Changed - Commentary,False,633FwmKmrHWn6sLTL3db72,https://kworb.net/spotify/track/633FwmKmrHWn6sLTL3db72.html,https://open.spotify.com/track/633FwmKmrHWn6sLTL3db72
-Taylor Swift,Fearless - Instrumental with BGV,False,5Gz9GFSwHObbmjSRHgTphe,https://kworb.net/spotify/track/5Gz9GFSwHObbmjSRHgTphe.html,https://open.spotify.com/track/5Gz9GFSwHObbmjSRHgTphe
-Taylor Swift,Sad Beautiful Tragic - Commentary,False,3rMskQgCc54bAQUfE0U4Fw,https://kworb.net/spotify/track/3rMskQgCc54bAQUfE0U4Fw.html,https://open.spotify.com/track/3rMskQgCc54bAQUfE0U4Fw
-Taylor Swift,Welcome to New York - Commentary,False,4YugJd2i96PHwaflBauhXi,https://kworb.net/spotify/track/4YugJd2i96PHwaflBauhXi.html,https://open.spotify.com/track/4YugJd2i96PHwaflBauhXi
-Taylor Swift,Blank Space - Commentary,False,4fiLVxZ0UAsWAzUwGqkZA9,https://kworb.net/spotify/track/4fiLVxZ0UAsWAzUwGqkZA9.html,https://open.spotify.com/track/4fiLVxZ0UAsWAzUwGqkZA9
-Taylor Swift,New Year's Day - Karaoke Version,False,13tYZVTtzLUJTlM7m1ivbi,https://kworb.net/spotify/track/13tYZVTtzLUJTlM7m1ivbi.html,https://open.spotify.com/track/13tYZVTtzLUJTlM7m1ivbi
-Taylor Swift,The Lucky One - Commentary,False,1J22bFnVC6Rmjxby941PDf,https://kworb.net/spotify/track/1J22bFnVC6Rmjxby941PDf.html,https://open.spotify.com/track/1J22bFnVC6Rmjxby941PDf
-Taylor Swift,All Too Well - Karaoke Version,False,3To1MBLD7WqFoWEeiLDBzq,https://kworb.net/spotify/track/3To1MBLD7WqFoWEeiLDBzq.html,https://open.spotify.com/track/3To1MBLD7WqFoWEeiLDBzq
-Taylor Swift,Shake It Off - Commentary,False,4CWLOxjskk6fjixCboD4vJ,https://kworb.net/spotify/track/4CWLOxjskk6fjixCboD4vJ.html,https://open.spotify.com/track/4CWLOxjskk6fjixCboD4vJ
-Taylor Swift,King Of My Heart - Karaoke Version,False,5EsfyTD26nlVQ0DtYo16uJ,https://kworb.net/spotify/track/5EsfyTD26nlVQ0DtYo16uJ.html,https://open.spotify.com/track/5EsfyTD26nlVQ0DtYo16uJ
-Taylor Swift,Bad Blood - Karaoke Version,False,6bzWVosI1yQkHUrN22cMWE,https://kworb.net/spotify/track/6bzWVosI1yQkHUrN22cMWE.html,https://open.spotify.com/track/6bzWVosI1yQkHUrN22cMWE
+Artist,Song,ID,ArtistID,ValidLink,KworbLink,Spotify Link
+Taylor Swift,Cruel Summer,1BxfuPKGuaTgP7aM0Bbdwr,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1BxfuPKGuaTgP7aM0Bbdwr.html,https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr
+Taylor Swift,Blank Space,1p80LdxRV74UKvL8gnD7ky,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1p80LdxRV74UKvL8gnD7ky.html,https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky
+Taylor Swift,*I Donât Wanna Live Forever (Fifty Shades Darker),55n9yjI6qqXh5F2mYvUc2y,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/55n9yjI6qqXh5F2mYvUc2y.html,https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y
+Taylor Swift,Anti-Hero,0V3wPSX9ygBnCm8psDIegu,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/0V3wPSX9ygBnCm8psDIegu.html,https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu
+Taylor Swift,Lover,1dGr1c8CrMLDpV6mPbImSI,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1dGr1c8CrMLDpV6mPbImSI.html,https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI
+Taylor Swift,Shake It Off,5xTtaWoae3wi06K5WfVUUH,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5xTtaWoae3wi06K5WfVUUH.html,https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH
+Taylor Swift,cardigan,4R2kfaDFhslZEMJqAFNpdd,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4R2kfaDFhslZEMJqAFNpdd.html,https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd
+Taylor Swift,Style,4lIxdJw6W3Fg4vUIYCB0S5,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4lIxdJw6W3Fg4vUIYCB0S5.html,https://open.spotify.com/track/4lIxdJw6W3Fg4vUIYCB0S5
+Taylor Swift,august,3hUxzQpSfdDqwM3ZTFQY0K,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/3hUxzQpSfdDqwM3ZTFQY0K.html,https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K
+Taylor Swift,Donât Blame Me,1R0a2iXumgCiFb7HEZ7gUE,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1R0a2iXumgCiFb7HEZ7gUE.html,https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE
+Taylor Swift,Look What You Made Me Do,1P17dC1amhFzptugyAO7Il,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1P17dC1amhFzptugyAO7Il.html,https://open.spotify.com/track/1P17dC1amhFzptugyAO7Il
+Taylor Swift,Delicate,6NFyWDv5CjfwuzoCkw47Xf,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/6NFyWDv5CjfwuzoCkw47Xf.html,https://open.spotify.com/track/6NFyWDv5CjfwuzoCkw47Xf
+Taylor Swift,Wildest Dreams,59HjlYCeBsxdI0fcm3zglw,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/59HjlYCeBsxdI0fcm3zglw.html,https://open.spotify.com/track/59HjlYCeBsxdI0fcm3zglw
+Taylor Swift,You Need To Calm Down,6RRNNciQGZEXnqk8SQ9yv5,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/6RRNNciQGZEXnqk8SQ9yv5.html,https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5
+Taylor Swift,Love Story,1vrd6UOGamcKNGnSHJQlSt,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1vrd6UOGamcKNGnSHJQlSt.html,https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt
+Taylor Swift,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),5enxwA8aAbwZbf5qCHORXi,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/5enxwA8aAbwZbf5qCHORXi.html,https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi
+Taylor Swift,willow,0lx2cLdOt3piJbcaXIV74f,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0lx2cLdOt3piJbcaXIV74f.html,https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f
+Taylor Swift,I Knew You Were Trouble.,6FB3v4YcR57y4tXFcdxI1E,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/6FB3v4YcR57y4tXFcdxI1E.html,https://open.spotify.com/track/6FB3v4YcR57y4tXFcdxI1E
+Taylor Swift,ME! (feat. Brendon Urie of Panic! At The Disco),2Rk4JlNc2TPmZe2af99d45,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2Rk4JlNc2TPmZe2af99d45.html,https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45
+Taylor Swift,Love Story (Taylorâs Version),6YvqWjhGD8mB5QXcbcUKtx,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/6YvqWjhGD8mB5QXcbcUKtx.html,https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx
+Taylor Swift,Enchanted,10eBRyImhfqVvkiVEGf0N0,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/10eBRyImhfqVvkiVEGf0N0.html,https://open.spotify.com/track/10eBRyImhfqVvkiVEGf0N0
+Taylor Swift,Karma,7KokYm8cMIXCsGVmUvKtqf,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/7KokYm8cMIXCsGVmUvKtqf.html,https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf
+Taylor Swift,The Man,3RauEVgRgj1IuWdJ9fDs70,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/3RauEVgRgj1IuWdJ9fDs70.html,https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70
+Taylor Swift,exile (feat. Bon Iver),4pvb0WLRcMtbPGmtejJJ6y,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4pvb0WLRcMtbPGmtejJJ6y.html,https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y
+Taylor Swift,...Ready For It?,2yLa0QULdQr0qAIvVwN6B5,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2yLa0QULdQr0qAIvVwN6B5.html,https://open.spotify.com/track/2yLa0QULdQr0qAIvVwN6B5
+Taylor Swift,Wildest Dreams (Taylor's Version),1K39ty6o1sHwwlZwO6a7wK,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1K39ty6o1sHwwlZwO6a7wK.html,https://open.spotify.com/track/1K39ty6o1sHwwlZwO6a7wK
+Taylor Swift,You Belong With Me (Taylorâs Version),1qrpoAMXodY6895hGKoUpA,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1qrpoAMXodY6895hGKoUpA.html,https://open.spotify.com/track/1qrpoAMXodY6895hGKoUpA
+Taylor Swift,Lavender Haze,5jQI2r1RdgtuT8S3iG8zFC,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/5jQI2r1RdgtuT8S3iG8zFC.html,https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC
+Taylor Swift,Getaway Car,0VE4kBnHJUgtMf0dy6DRmW,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/0VE4kBnHJUgtMf0dy6DRmW.html,https://open.spotify.com/track/0VE4kBnHJUgtMf0dy6DRmW
+Taylor Swift,Fortnight (feat. Post Malone),6dODwocEuGzHAavXqTbwHv,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6dODwocEuGzHAavXqTbwHv.html,https://open.spotify.com/track/6dODwocEuGzHAavXqTbwHv
+Taylor Swift,Midnight Rain,3rWDp9tBPQR9z6U5YyRSK4,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/3rWDp9tBPQR9z6U5YyRSK4.html,https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4
+Taylor Swift,We Are Never Ever Getting Back Together,0VwNdo84DaVYLIkbVO86ND,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/0VwNdo84DaVYLIkbVO86ND.html,https://open.spotify.com/track/0VwNdo84DaVYLIkbVO86ND
+Taylor Swift,Paper Rings,4y5bvROuBDPr5fuwXbIBZR,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4y5bvROuBDPr5fuwXbIBZR.html,https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR
+Taylor Swift,You Belong With Me,3GCL1PydwsLodcpv0Ll1ch,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/3GCL1PydwsLodcpv0Ll1ch.html,https://open.spotify.com/track/3GCL1PydwsLodcpv0Ll1ch
+Taylor Swift,champagne problems,0sY6ZUTh4yoctD8VIXz339,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/0sY6ZUTh4yoctD8VIXz339.html,https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339
+Taylor Swift,"You're On Your Own, Kid",4D7BCuvgdJlYvlX5WlN54t,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4D7BCuvgdJlYvlX5WlN54t.html,https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t
+Taylor Swift,Gorgeous,1ZY1PqizIl78geGM4xWlEA,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1ZY1PqizIl78geGM4xWlEA.html,https://open.spotify.com/track/1ZY1PqizIl78geGM4xWlEA
+Taylor Swift,Bad Blood,273dCMFseLcVsoSWx59IoE,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/273dCMFseLcVsoSWx59IoE.html,https://open.spotify.com/track/273dCMFseLcVsoSWx59IoE
+Taylor Swift,the 1,0Jlcvv8IykzHaSmj49uNW8,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/0Jlcvv8IykzHaSmj49uNW8.html,https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8
+Taylor Swift,Bejeweled,3qoftcUZaUOncvIYjFSPdE,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/3qoftcUZaUOncvIYjFSPdE.html,https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE
+Taylor Swift,my tears ricochet,1MgV7FIyNxIG7WzMRJV5HC,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1MgV7FIyNxIG7WzMRJV5HC.html,https://open.spotify.com/track/1MgV7FIyNxIG7WzMRJV5HC
+Taylor Swift,End Game,2x0WlnmfG39ZuDmstl9xfX,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/2x0WlnmfG39ZuDmstl9xfX.html,https://open.spotify.com/track/2x0WlnmfG39ZuDmstl9xfX
+Taylor Swift,I Can Do It With a Broken Heart,2fPvQfGQEZOKtJ9qXeL4x8,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2fPvQfGQEZOKtJ9qXeL4x8.html,https://open.spotify.com/track/2fPvQfGQEZOKtJ9qXeL4x8
+Taylor Swift,Maroon,3eX0NZfLtGzoLUxPNvRfqm,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/3eX0NZfLtGzoLUxPNvRfqm.html,https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm
+Taylor Swift,I Did Something Bad,4svZDCRz4cJoneBpjpx8DJ,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4svZDCRz4cJoneBpjpx8DJ.html,https://open.spotify.com/track/4svZDCRz4cJoneBpjpx8DJ
+Taylor Swift,illicit affairs,2NmsngXHeC1GQ9wWrzhOMf,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/2NmsngXHeC1GQ9wWrzhOMf.html,https://open.spotify.com/track/2NmsngXHeC1GQ9wWrzhOMf
+Taylor Swift,Is It Over Now? (Taylor's Version) (From The Vault),1Iq8oo9XkmmvCQiGOfORiz,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1Iq8oo9XkmmvCQiGOfORiz.html,https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz
+Taylor Swift,mirrorball,0ZNU020wNYvgW84iljPkPP,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/0ZNU020wNYvgW84iljPkPP.html,https://open.spotify.com/track/0ZNU020wNYvgW84iljPkPP
+Taylor Swift,Daylight,1fzAuUVbzlhZ1lJAx9PtY6,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1fzAuUVbzlhZ1lJAx9PtY6.html,https://open.spotify.com/track/1fzAuUVbzlhZ1lJAx9PtY6
+Taylor Swift,Snow On The Beach (feat. Lana Del Rey),1wtOxkiel43cVs0Yux5Q4h,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1wtOxkiel43cVs0Yux5Q4h.html,https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h
+Taylor Swift,The Way I Loved You (Taylorâs Version),22bPsP2jCgbLUvh82U0Z3M,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/22bPsP2jCgbLUvh82U0Z3M.html,https://open.spotify.com/track/22bPsP2jCgbLUvh82U0Z3M
+Taylor Swift,The Archer,3pHkh7d0lzM2AldUtz2x37,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3pHkh7d0lzM2AldUtz2x37.html,https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37
+Taylor Swift,Call It What You Want,1GwMQaZz6Au3QLDbjbMdme,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1GwMQaZz6Au3QLDbjbMdme.html,https://open.spotify.com/track/1GwMQaZz6Au3QLDbjbMdme
+Taylor Swift,this is me trying,7kt9e9LFSpN1zQtYEl19o1,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/7kt9e9LFSpN1zQtYEl19o1.html,https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1
+Taylor Swift,Vigilante Shit,1xwAWUI6Dj0WGC3KiUPN0O,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1xwAWUI6Dj0WGC3KiUPN0O.html,https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O
+Taylor Swift,Miss Americana & The Heartbreak Prince,214nt20w5wOxJnY462klLw,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/214nt20w5wOxJnY462klLw.html,https://open.spotify.com/track/214nt20w5wOxJnY462klLw
+Taylor Swift,Afterglow,1SymEzIT3H8UZfibCs3TYi,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1SymEzIT3H8UZfibCs3TYi.html,https://open.spotify.com/track/1SymEzIT3H8UZfibCs3TYi
+Taylor Swift,Back To December,3DrjZArsPsoqbLzUZZV1Id,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/3DrjZArsPsoqbLzUZZV1Id.html,https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id
+Taylor Swift,22,6ce41JVa6KFaryfmC2bu2W,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6ce41JVa6KFaryfmC2bu2W.html,https://open.spotify.com/track/6ce41JVa6KFaryfmC2bu2W
+Taylor Swift,I Knew You Were Trouble (Taylor's Version),6AtZLIzUINvExIUy4QhdjP,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/6AtZLIzUINvExIUy4QhdjP.html,https://open.spotify.com/track/6AtZLIzUINvExIUy4QhdjP
+Taylor Swift,invisible string,6VsvKPJ4xjVNKpI8VVZ3SV,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/6VsvKPJ4xjVNKpI8VVZ3SV.html,https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV
+Taylor Swift,Mr. Perfectly Fine (Taylorâs Version) (From The Vault),2CYVETnhM9aytqrazYYwrK,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/2CYVETnhM9aytqrazYYwrK.html,https://open.spotify.com/track/2CYVETnhM9aytqrazYYwrK
+Taylor Swift,All Of The Girls You Loved Before,17yraMKqmZIKAv3iaGcoLX,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/17yraMKqmZIKAv3iaGcoLX.html,https://open.spotify.com/track/17yraMKqmZIKAv3iaGcoLX
+Taylor Swift,the last great american dynasty,2Eeur20xVqfUoM3Q7EFPFt,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/2Eeur20xVqfUoM3Q7EFPFt.html,https://open.spotify.com/track/2Eeur20xVqfUoM3Q7EFPFt
+Taylor Swift,betty,5kI4eCXXzyuIUXjQra0Cxi,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/5kI4eCXXzyuIUXjQra0Cxi.html,https://open.spotify.com/track/5kI4eCXXzyuIUXjQra0Cxi
+Taylor Swift,We Are Never Ever Getting Back Together (Taylor's Version),5YqltLsjdqFtvqE7Nrysvs,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/5YqltLsjdqFtvqE7Nrysvs.html,https://open.spotify.com/track/5YqltLsjdqFtvqE7Nrysvs
+Taylor Swift,Mastermind,7FmYn9e7KHMXcxqGSj9LjH,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/7FmYn9e7KHMXcxqGSj9LjH.html,https://open.spotify.com/track/7FmYn9e7KHMXcxqGSj9LjH
+Taylor Swift,Our Song,15DeqWWQB4dcEWzJg15VrN,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/15DeqWWQB4dcEWzJg15VrN.html,https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN
+Taylor Swift,Dress,6oVxXO5oQ4pTpO8RSnkzvv,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/6oVxXO5oQ4pTpO8RSnkzvv.html,https://open.spotify.com/track/6oVxXO5oQ4pTpO8RSnkzvv
+Taylor Swift,right where you left me - bonus track,3zwMVvkBe2qIKDObWgXw4N,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/3zwMVvkBe2qIKDObWgXw4N.html,https://open.spotify.com/track/3zwMVvkBe2qIKDObWgXw4N
+Taylor Swift,Cornelia Street,12M5uqx0ZuwkpLp5rJim1a,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/12M5uqx0ZuwkpLp5rJim1a.html,https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a
+Taylor Swift,London Boy,1LLXZFeAHK9R4xUramtUKw,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1LLXZFeAHK9R4xUramtUKw.html,https://open.spotify.com/track/1LLXZFeAHK9R4xUramtUKw
+Taylor Swift,I Forgot That You Existed,43rA71bccXFGD4C8GOpIlN,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/43rA71bccXFGD4C8GOpIlN.html,https://open.spotify.com/track/43rA71bccXFGD4C8GOpIlN
+Taylor Swift,Enchanted (Taylor's Version),3sW3oSbzsfecv9XoUdGs7h,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/3sW3oSbzsfecv9XoUdGs7h.html,https://open.spotify.com/track/3sW3oSbzsfecv9XoUdGs7h
+Taylor Swift,tolerate it,0PurA4JVJ8YQgSVopY8fn6,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/0PurA4JVJ8YQgSVopY8fn6.html,https://open.spotify.com/track/0PurA4JVJ8YQgSVopY8fn6
+Taylor Swift,Fearless (Taylorâs Version),77sMIMlNaSURUAXq5coCxE,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/77sMIMlNaSURUAXq5coCxE.html,https://open.spotify.com/track/77sMIMlNaSURUAXq5coCxE
+Taylor Swift,Down Bad,1kbEbBdEgQdQeLXCJh28pJ,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1kbEbBdEgQdQeLXCJh28pJ.html,https://open.spotify.com/track/1kbEbBdEgQdQeLXCJh28pJ
+Taylor Swift,seven,6KJqZcs9XDgVck7Lg9QOTC,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/6KJqZcs9XDgVck7Lg9QOTC.html,https://open.spotify.com/track/6KJqZcs9XDgVck7Lg9QOTC
+Taylor Swift,Out Of The Woods,5OndtwLGA9O6XHFcGm2H7r,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5OndtwLGA9O6XHFcGm2H7r.html,https://open.spotify.com/track/5OndtwLGA9O6XHFcGm2H7r
+Taylor Swift,22 (Taylor's Version),3yII7UwgLF6K5zW3xad3MP,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/3yII7UwgLF6K5zW3xad3MP.html,https://open.spotify.com/track/3yII7UwgLF6K5zW3xad3MP
+Taylor Swift,Now That We Don't Talk (Taylor's Version) (From The Vault),5KD6AEm19QnMbfWpfoOHMl,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/5KD6AEm19QnMbfWpfoOHMl.html,https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl
+Taylor Swift,"""Slut!"" (Taylor's Version) (From The Vault)",71BqAINEnezjQfxE4VuJfq,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/71BqAINEnezjQfxE4VuJfq.html,https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq
+Taylor Swift,Red (Taylor's Version),4OAuvHryIVv4kMDNSLuPt6,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4OAuvHryIVv4kMDNSLuPt6.html,https://open.spotify.com/track/4OAuvHryIVv4kMDNSLuPt6
+Taylor Swift,Question...?,0heeNYlwOGuUSe7TgUD27B,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/0heeNYlwOGuUSe7TgUD27B.html,https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B
+Taylor Swift,Guilty as Sin?,799KrpEbhZp0MHeiA8YK9P,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/799KrpEbhZp0MHeiA8YK9P.html,https://open.spotify.com/track/799KrpEbhZp0MHeiA8YK9P
+Taylor Swift,Death By A Thousand Cuts,2dgFqt3w9xIQRjhPtwNk3D,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/2dgFqt3w9xIQRjhPtwNk3D.html,https://open.spotify.com/track/2dgFqt3w9xIQRjhPtwNk3D
+Taylor Swift,gold rush,5BK0uqwY9DNfZ630STAEaq,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/5BK0uqwY9DNfZ630STAEaq.html,https://open.spotify.com/track/5BK0uqwY9DNfZ630STAEaq
+Taylor Swift,The Great War,2VuqMjgoKaOHNM8HpxtXKx,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2VuqMjgoKaOHNM8HpxtXKx.html,https://open.spotify.com/track/2VuqMjgoKaOHNM8HpxtXKx
+Taylor Swift,Labyrinth,0A1JLUlkZkp2EFrosoNQi0,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/0A1JLUlkZkp2EFrosoNQi0.html,https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0
+Taylor Swift,Lover (Remix) [feat. Shawn Mendes],3i9UVldZOE0aD0JnyfAZZ0,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/3i9UVldZOE0aD0JnyfAZZ0.html,https://open.spotify.com/track/3i9UVldZOE0aD0JnyfAZZ0
+Taylor Swift,Sweet Nothing,0wavGRldH0AWyu2zvTz8zb,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/0wavGRldH0AWyu2zvTz8zb.html,https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb
+Taylor Swift,I Think He Knows,2YWtcWi3a83pdEg3Gif4Pd,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/2YWtcWi3a83pdEg3Gif4Pd.html,https://open.spotify.com/track/2YWtcWi3a83pdEg3Gif4Pd
+Taylor Swift,"no body, no crime (feat. HAIM)",3RaT22zZsxVYxxKR7TAaYF,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3RaT22zZsxVYxxKR7TAaYF.html,https://open.spotify.com/track/3RaT22zZsxVYxxKR7TAaYF
+Taylor Swift,King Of My Heart,7HuBDWi18s4aJM8UFnNheH,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/7HuBDWi18s4aJM8UFnNheH.html,https://open.spotify.com/track/7HuBDWi18s4aJM8UFnNheH
+Taylor Swift,"Would've, Could've, Should've",4txojlesMFQZGWxwz2EeqB,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4txojlesMFQZGWxwz2EeqB.html,https://open.spotify.com/track/4txojlesMFQZGWxwz2EeqB
+Taylor Swift,New Romantics,6rZVy6FIG7lSJQMFXHo12z,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6rZVy6FIG7lSJQMFXHo12z.html,https://open.spotify.com/track/6rZVy6FIG7lSJQMFXHo12z
+Taylor Swift,All Too Well (Taylor's Version),3nsfB1vus2qaloUdcBZvDu,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/3nsfB1vus2qaloUdcBZvDu.html,https://open.spotify.com/track/3nsfB1vus2qaloUdcBZvDu
+Taylor Swift,âtis the damn season,7dW84mWkdWE5a6lFWxJCBG,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7dW84mWkdWE5a6lFWxJCBG.html,https://open.spotify.com/track/7dW84mWkdWE5a6lFWxJCBG
+Taylor Swift,Everything Has Changed,3Z1kZKYfRC8iRXnYeC5sCJ,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3Z1kZKYfRC8iRXnYeC5sCJ.html,https://open.spotify.com/track/3Z1kZKYfRC8iRXnYeC5sCJ
+Taylor Swift,Whoâs Afraid of Little Old Me?,2d8UxVNhJinc8uat9PoM9y,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2d8UxVNhJinc8uat9PoM9y.html,https://open.spotify.com/track/2d8UxVNhJinc8uat9PoM9y
+Taylor Swift,I Can See You (Taylorâs Version) (From The Vault),5kHMfzgLZP95O9NBy0ku4v,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/5kHMfzgLZP95O9NBy0ku4v.html,https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v
+Taylor Swift,This Love (Taylorâs Version),5QVVjX0ZItqlVpEuVCM9Yg,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/5QVVjX0ZItqlVpEuVCM9Yg.html,https://open.spotify.com/track/5QVVjX0ZItqlVpEuVCM9Yg
+Taylor Swift,Style (Taylor's Version),1hjRhYpWyqDpPahmSlUTlc,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1hjRhYpWyqDpPahmSlUTlc.html,https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc
+Taylor Swift,"So Long, London",7wAkQFShJ27V8362MqevQr,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7wAkQFShJ27V8362MqevQr.html,https://open.spotify.com/track/7wAkQFShJ27V8362MqevQr
+Taylor Swift,Dancing With Our Hands Tied,7I7JbDv63ZJJsSi24DyJrz,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/7I7JbDv63ZJJsSi24DyJrz.html,https://open.spotify.com/track/7I7JbDv63ZJJsSi24DyJrz
+Taylor Swift,Red,4yBEU0askBZzE2XEVdEwmx,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4yBEU0askBZzE2XEVdEwmx.html,https://open.spotify.com/track/4yBEU0askBZzE2XEVdEwmx
+Taylor Swift,False God,5hQSXkFgbxjZo9uCwd11so,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/5hQSXkFgbxjZo9uCwd11so.html,https://open.spotify.com/track/5hQSXkFgbxjZo9uCwd11so
+Taylor Swift,Youâre Losing Me (From The Vault),3CWq0pAKKTWb0K4yiglDc4,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/3CWq0pAKKTWb0K4yiglDc4.html,https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4
+Taylor Swift,My Boy Only Breaks His Favorite Toys,7uGYWMwRy24dm7RUDDhUlD,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7uGYWMwRy24dm7RUDDhUlD.html,https://open.spotify.com/track/7uGYWMwRy24dm7RUDDhUlD
+Taylor Swift,Welcome To New York,6qnM0XXPZOINWA778uNqQ9,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6qnM0XXPZOINWA778uNqQ9.html,https://open.spotify.com/track/6qnM0XXPZOINWA778uNqQ9
+Taylor Swift,All Too Well,7HH8rEmkK5JENnv869MDCz,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7HH8rEmkK5JENnv869MDCz.html,https://open.spotify.com/track/7HH8rEmkK5JENnv869MDCz
+Taylor Swift,But Daddy I Love Him,4QMgEffJQuKtjCNvqfRZ0m,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4QMgEffJQuKtjCNvqfRZ0m.html,https://open.spotify.com/track/4QMgEffJQuKtjCNvqfRZ0m
+Taylor Swift,*Highway Don't Care,4wFUdSCer8bdQsrp1M90sa,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4wFUdSCer8bdQsrp1M90sa.html,https://open.spotify.com/track/4wFUdSCer8bdQsrp1M90sa
+Taylor Swift,marjorie,12ntTeqEeTg7GAVpe8Mhpl,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/12ntTeqEeTg7GAVpe8Mhpl.html,https://open.spotify.com/track/12ntTeqEeTg7GAVpe8Mhpl
+Taylor Swift,Blank Space (Taylor's Version),45wMBGri1PORPjM9PwFfrS,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/45wMBGri1PORPjM9PwFfrS.html,https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS
+Taylor Swift,This Is Why We Can't Have Nice Things,07NxDD1iKCHbAldceD7QLP,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/07NxDD1iKCHbAldceD7QLP.html,https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP
+Taylor Swift,Nothing New (feat. Phoebe Bridgers) (Taylorâs Version) (From The Vault),01K4zKU104LyJ8gMb7227B,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/01K4zKU104LyJ8gMb7227B.html,https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B
+Taylor Swift,Safe & Sound - from The Hunger Games Soundtrack,0z9UVN8VBHJ9HdfYsOuuNf,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0z9UVN8VBHJ9HdfYsOuuNf.html,https://open.spotify.com/track/0z9UVN8VBHJ9HdfYsOuuNf
+Taylor Swift,Mean,5yEPktRqvIhko5QFF3aBhQ,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5yEPktRqvIhko5QFF3aBhQ.html,https://open.spotify.com/track/5yEPktRqvIhko5QFF3aBhQ
+Taylor Swift,ivy,19CSr8rwW05VJL2F91KFNK,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/19CSr8rwW05VJL2F91KFNK.html,https://open.spotify.com/track/19CSr8rwW05VJL2F91KFNK
+Taylor Swift,evermore (feat. Bon Iver),3O5osWf1rSoKMwe6E9ZaXP,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3O5osWf1rSoKMwe6E9ZaXP.html,https://open.spotify.com/track/3O5osWf1rSoKMwe6E9ZaXP
+Taylor Swift,I Bet You Think About Me (feat. Chris Stapleton) (Taylorâs Version) (From The Vault),4CkgMiMqZ5JzW9iYXSTMTL,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4CkgMiMqZ5JzW9iYXSTMTL.html,https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL
+Taylor Swift,Mine,0dBW6ZsW8skfvoRfgeerBF,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0dBW6ZsW8skfvoRfgeerBF.html,https://open.spotify.com/track/0dBW6ZsW8skfvoRfgeerBF
+Taylor Swift,mad woman,2QDyYdZyhlP2fp79KZX8Bi,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/2QDyYdZyhlP2fp79KZX8Bi.html,https://open.spotify.com/track/2QDyYdZyhlP2fp79KZX8Bi
+Taylor Swift,Teardrops On My Guitar - Radio Single Remix,7zMcNqs55Mxer82bvZFkpg,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7zMcNqs55Mxer82bvZFkpg.html,https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg
+Taylor Swift,peace,7MbT4I8qGntX4fMdqMQgke,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/7MbT4I8qGntX4fMdqMQgke.html,https://open.spotify.com/track/7MbT4I8qGntX4fMdqMQgke
+Taylor Swift,All You Had To Do Was Stay,0dAb8TY433dl3ZfXYCLE19,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0dAb8TY433dl3ZfXYCLE19.html,https://open.spotify.com/track/0dAb8TY433dl3ZfXYCLE19
+Taylor Swift,The Tortured Poets Department,4PdLaGZubp4lghChqp8erB,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4PdLaGZubp4lghChqp8erB.html,https://open.spotify.com/track/4PdLaGZubp4lghChqp8erB
+Taylor Swift,Back To December (Taylor's Version),79uDOz0zuuWS7HWxzMmTa2,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/79uDOz0zuuWS7HWxzMmTa2.html,https://open.spotify.com/track/79uDOz0zuuWS7HWxzMmTa2
+Taylor Swift,Florida!!! (feat. Florence + The Machine),5ExOm0dh4NyRyAdSAO9hyM,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5ExOm0dh4NyRyAdSAO9hyM.html,https://open.spotify.com/track/5ExOm0dh4NyRyAdSAO9hyM
+Taylor Swift,New Yearâs Day,7F5oktn5YOsR9eR5YsFtqb,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/7F5oktn5YOsR9eR5YsFtqb.html,https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb
+Taylor Swift,long story short,2o2sgVJIgFXk8GQjWTgI6U,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2o2sgVJIgFXk8GQjWTgI6U.html,https://open.spotify.com/track/2o2sgVJIgFXk8GQjWTgI6U
+Taylor Swift,Hits Different,3xYJScVfxByb61dYHTwiby,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/3xYJScVfxByb61dYHTwiby.html,https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby
+Taylor Swift,Picture To Burn,32mVHdy0bi1XKgr0ajsBlG,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/32mVHdy0bi1XKgr0ajsBlG.html,https://open.spotify.com/track/32mVHdy0bi1XKgr0ajsBlG
+Taylor Swift,Snow On The Beach (feat. More Lana Del Rey),4zmKGsrXjLmljb5fTaBTot,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4zmKGsrXjLmljb5fTaBTot.html,https://open.spotify.com/track/4zmKGsrXjLmljb5fTaBTot
+Taylor Swift,The Smallest Man Who Ever Lived,1xtw1krCR6Dw2KwkXw5z63,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1xtw1krCR6Dw2KwkXw5z63.html,https://open.spotify.com/track/1xtw1krCR6Dw2KwkXw5z63
+Taylor Swift,Message In A Bottle (Taylor's Version) (From The Vault),3z6XUommYDWPHeFhmhhT6j,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/3z6XUommYDWPHeFhmhhT6j.html,https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j
+Taylor Swift,Say Don't Go (Taylor's Version) (From The Vault),4NioO5R9sHEZh4cGzMHyNt,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4NioO5R9sHEZh4cGzMHyNt.html,https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt
+Taylor Swift,cowboy like me,1XjHRolIXL2M1EEOUsGGR4,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1XjHRolIXL2M1EEOUsGGR4.html,https://open.spotify.com/track/1XjHRolIXL2M1EEOUsGGR4
+Taylor Swift,Mine (Taylor's Version),7G0gBu6nLdhFDPRLc0HdDG,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/7G0gBu6nLdhFDPRLc0HdDG.html,https://open.spotify.com/track/7G0gBu6nLdhFDPRLc0HdDG
+Taylor Swift,hoax,6MWoRt97mnSTXZhu3ggi9C,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/6MWoRt97mnSTXZhu3ggi9C.html,https://open.spotify.com/track/6MWoRt97mnSTXZhu3ggi9C
+Taylor Swift,happiness,73YUReisjb3A9ActdLLjJQ,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/73YUReisjb3A9ActdLLjJQ.html,https://open.spotify.com/track/73YUReisjb3A9ActdLLjJQ
+Taylor Swift,Bigger Than The Whole Sky,71CBDRKmF2VeRKYMG1DFBh,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/71CBDRKmF2VeRKYMG1DFBh.html,https://open.spotify.com/track/71CBDRKmF2VeRKYMG1DFBh
+Taylor Swift,Better Than Revenge,2ythurkTtSiyfK7GprJoFW,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2ythurkTtSiyfK7GprJoFW.html,https://open.spotify.com/track/2ythurkTtSiyfK7GprJoFW
+Taylor Swift,Clean,06WgOCf0LV2h4keYXDRnuh,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/06WgOCf0LV2h4keYXDRnuh.html,https://open.spotify.com/track/06WgOCf0LV2h4keYXDRnuh
+Taylor Swift,Paris,5tWxKWq1DSP1s9WQ5PWuqu,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5tWxKWq1DSP1s9WQ5PWuqu.html,https://open.spotify.com/track/5tWxKWq1DSP1s9WQ5PWuqu
+Taylor Swift,So It Goes...,5PxFv9yJEg9dxvbZggykro,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/5PxFv9yJEg9dxvbZggykro.html,https://open.spotify.com/track/5PxFv9yJEg9dxvbZggykro
+Taylor Swift,epiphany,08fa9LFcFBTcilB3iq2e2A,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/08fa9LFcFBTcilB3iq2e2A.html,https://open.spotify.com/track/08fa9LFcFBTcilB3iq2e2A
+Taylor Swift,loml,3YkNIrAvbKNrrwwEd7NVLl,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3YkNIrAvbKNrrwwEd7NVLl.html,https://open.spotify.com/track/3YkNIrAvbKNrrwwEd7NVLl
+Taylor Swift,Bad Blood,6xsEAm6w9oMQYYg3jkEkMT,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6xsEAm6w9oMQYYg3jkEkMT.html,https://open.spotify.com/track/6xsEAm6w9oMQYYg3jkEkMT
+Taylor Swift,coney island (feat. The National),3k7ne7VmH43ZPWxPdvPUgR,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3k7ne7VmH43ZPWxPdvPUgR.html,https://open.spotify.com/track/3k7ne7VmH43ZPWxPdvPUgR
+Taylor Swift,*The Joker And The Queen (feat. Taylor Swift),6N1K5OVVCopBjGViHs2IvP,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/6N1K5OVVCopBjGViHs2IvP.html,https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP
+Taylor Swift,So High School,7Mts0OfPorF4iwOomvfqn1,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/7Mts0OfPorF4iwOomvfqn1.html,https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1
+Taylor Swift,Sparks Fly,6d9IiDcFxtFVIvt9pCqyGH,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6d9IiDcFxtFVIvt9pCqyGH.html,https://open.spotify.com/track/6d9IiDcFxtFVIvt9pCqyGH
+Taylor Swift,dorothea,670fUmXf4KQekzbEgaXyPA,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/670fUmXf4KQekzbEgaXyPA.html,https://open.spotify.com/track/670fUmXf4KQekzbEgaXyPA
+Taylor Swift,The Very First Night (Taylor's Version) (From The Vault),6pYNq0ZwpPVazKzsqpf0G8,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/6pYNq0ZwpPVazKzsqpf0G8.html,https://open.spotify.com/track/6pYNq0ZwpPVazKzsqpf0G8
+Taylor Swift,Christmas Tree Farm,2mvabkN1i2gLnGAPUVdwek,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/2mvabkN1i2gLnGAPUVdwek.html,https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek
+Taylor Swift,How You Get The Girl,4dYUOfmWna6DFccnz732n8,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4dYUOfmWna6DFccnz732n8.html,https://open.spotify.com/track/4dYUOfmWna6DFccnz732n8
+Taylor Swift,The Alchemy,1tuNqJOtRQVHvONR8Lg3MZ,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1tuNqJOtRQVHvONR8Lg3MZ.html,https://open.spotify.com/track/1tuNqJOtRQVHvONR8Lg3MZ
+Taylor Swift,the lakes - bonus track,0eFQWVz0qIxDOvhLpZ40P7,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0eFQWVz0qIxDOvhLpZ40P7.html,https://open.spotify.com/track/0eFQWVz0qIxDOvhLpZ40P7
+Taylor Swift,Everything Has Changed (feat. Ed Sheeran) (Taylorâs Version),7qEUFOVcxRI19tbT68JcYK,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/7qEUFOVcxRI19tbT68JcYK.html,https://open.spotify.com/track/7qEUFOVcxRI19tbT68JcYK
+Taylor Swift,High Infidelity,1SztNGCwEHJEVFx90E5g7D,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1SztNGCwEHJEVFx90E5g7D.html,https://open.spotify.com/track/1SztNGCwEHJEVFx90E5g7D
+Taylor Swift,Out Of The Woods (Taylor's Version),045ZeOHPIzhxxsm8bq5kyE,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/045ZeOHPIzhxxsm8bq5kyE.html,https://open.spotify.com/track/045ZeOHPIzhxxsm8bq5kyE
+Taylor Swift,Better Man (Taylor's Version) (From The Vault),4OmFmE0fzcMG6g0Y8p4eSD,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4OmFmE0fzcMG6g0Y8p4eSD.html,https://open.spotify.com/track/4OmFmE0fzcMG6g0Y8p4eSD
+Taylor Swift,Long Live (Taylor's Version),4hqJ4bSlYJOXb6Z4SRmzxs,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4hqJ4bSlYJOXb6Z4SRmzxs.html,https://open.spotify.com/track/4hqJ4bSlYJOXb6Z4SRmzxs
+Taylor Swift,Fresh Out The Slammer,7IWcDWOfiooH5hRs9XOVYz,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7IWcDWOfiooH5hRs9XOVYz.html,https://open.spotify.com/track/7IWcDWOfiooH5hRs9XOVYz
+Taylor Swift,The Story Of Us,3RBluWmSoG2pGA1OePzGJI,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3RBluWmSoG2pGA1OePzGJI.html,https://open.spotify.com/track/3RBluWmSoG2pGA1OePzGJI
+Taylor Swift,I Wish You Would,3wmN11qXGL0HyPojvEE1D9,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3wmN11qXGL0HyPojvEE1D9.html,https://open.spotify.com/track/3wmN11qXGL0HyPojvEE1D9
+Taylor Swift,Shake It Off (Taylor's Version),3pv7Q5v2dpdefwdWIvE7yH,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/3pv7Q5v2dpdefwdWIvE7yH.html,https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH
+Taylor Swift,Soon Youâll Get Better (feat. The Chicks),4AYtqFyFbX0Xkc2wtcygTr,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4AYtqFyFbX0Xkc2wtcygTr.html,https://open.spotify.com/track/4AYtqFyFbX0Xkc2wtcygTr
+Taylor Swift,Wonderland,6iWMI5oOhWrDbLbjmwTWFq,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6iWMI5oOhWrDbLbjmwTWFq.html,https://open.spotify.com/track/6iWMI5oOhWrDbLbjmwTWFq
+Taylor Swift,New Romantics (Taylor's Version),2vPMoMDXxu9uX1igWZmXSG,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/2vPMoMDXxu9uX1igWZmXSG.html,https://open.spotify.com/track/2vPMoMDXxu9uX1igWZmXSG
+Taylor Swift,imgonnagetyouback,1kcwpPDQnqEqmezzXdJTCP,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1kcwpPDQnqEqmezzXdJTCP.html,https://open.spotify.com/track/1kcwpPDQnqEqmezzXdJTCP
+Taylor Swift,Speak Now,24DefNCFiWTP8OjYWiXuYe,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/24DefNCFiWTP8OjYWiXuYe.html,https://open.spotify.com/track/24DefNCFiWTP8OjYWiXuYe
+Taylor Swift,Run (feat. Ed Sheeran) (Taylorâs Version) (From The Vault),4IQkfUsrwXol38VV3U7t7T,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4IQkfUsrwXol38VV3U7t7T.html,https://open.spotify.com/track/4IQkfUsrwXol38VV3U7t7T
+Taylor Swift,You Are In Love,4A2LfnduSTsE8u0ecYROxE,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4A2LfnduSTsE8u0ecYROxE.html,https://open.spotify.com/track/4A2LfnduSTsE8u0ecYROxE
+Taylor Swift,*Two Is Better Than One (feat. Taylor Swift),1MaqkdFNIKPdpQGDzme5ss,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1MaqkdFNIKPdpQGDzme5ss.html,https://open.spotify.com/track/1MaqkdFNIKPdpQGDzme5ss
+Taylor Swift,The Prophecy,18WFFUIsewmA8g31KAeo3e,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/18WFFUIsewmA8g31KAeo3e.html,https://open.spotify.com/track/18WFFUIsewmA8g31KAeo3e
+Taylor Swift,Dear John,7hZuICN5eaCuQyp443RCt6,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7hZuICN5eaCuQyp443RCt6.html,https://open.spotify.com/track/7hZuICN5eaCuQyp443RCt6
+Taylor Swift,Better Than Revenge (Taylor's Version),0NwGC0v03ysCYINtg6ns58,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/0NwGC0v03ysCYINtg6ns58.html,https://open.spotify.com/track/0NwGC0v03ysCYINtg6ns58
+Taylor Swift,Itâs Nice To Have A Friend,1SmiQ65iSAbPto6gPFlBYm,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1SmiQ65iSAbPto6gPFlBYm.html,https://open.spotify.com/track/1SmiQ65iSAbPto6gPFlBYm
+Taylor Swift,Tim McGraw,0Om9WAB5RS09L80DyOfTNa,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0Om9WAB5RS09L80DyOfTNa.html,https://open.spotify.com/track/0Om9WAB5RS09L80DyOfTNa
+Taylor Swift,Dear Reader,10GRRCR5fctuOF4GFmATJI,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/10GRRCR5fctuOF4GFmATJI.html,https://open.spotify.com/track/10GRRCR5fctuOF4GFmATJI
+Taylor Swift,Sparks Fly (Taylorâs Version),3MytWN8L7shNYzGl4tAKRp,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/3MytWN8L7shNYzGl4tAKRp.html,https://open.spotify.com/track/3MytWN8L7shNYzGl4tAKRp
+Taylor Swift,*Renegade,73W5aXorr5vxrySFcoZqIN,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/73W5aXorr5vxrySFcoZqIN.html,https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN
+Taylor Swift,I Know Places,3jBMHD19RZdAqG9iFQh7xc,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3jBMHD19RZdAqG9iFQh7xc.html,https://open.spotify.com/track/3jBMHD19RZdAqG9iFQh7xc
+Taylor Swift,Welcome To New York (Taylor's Version),1hR8BSuEqPCCZfv93zzzz9,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1hR8BSuEqPCCZfv93zzzz9.html,https://open.spotify.com/track/1hR8BSuEqPCCZfv93zzzz9
+Taylor Swift,Babe (Taylor's Version) (From The Vault),0v4z1tuZvn6LGknom9Qx7d,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/0v4z1tuZvn6LGknom9Qx7d.html,https://open.spotify.com/track/0v4z1tuZvn6LGknom9Qx7d
+Taylor Swift,State Of Grace (Taylor's Version),6lzc0Al0zfZOIFsFvBS1ki,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/6lzc0Al0zfZOIFsFvBS1ki.html,https://open.spotify.com/track/6lzc0Al0zfZOIFsFvBS1ki
+Taylor Swift,Glitch,7C0w28EsX0Um2FrZs9gso2,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7C0w28EsX0Um2FrZs9gso2.html,https://open.spotify.com/track/7C0w28EsX0Um2FrZs9gso2
+Taylor Swift,closure,35rdVq36LMHQX0Suw9a6tK,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/35rdVq36LMHQX0Suw9a6tK.html,https://open.spotify.com/track/35rdVq36LMHQX0Suw9a6tK
+Taylor Swift,Should've Said No,16MVSD0mGI4RMQT83Qzm69,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/16MVSD0mGI4RMQT83Qzm69.html,https://open.spotify.com/track/16MVSD0mGI4RMQT83Qzm69
+Taylor Swift,Begin Again,4uoyvFGK43Of4v9tj0moxC,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4uoyvFGK43Of4v9tj0moxC.html,https://open.spotify.com/track/4uoyvFGK43Of4v9tj0moxC
+Taylor Swift,The Black Dog,62E2nR0od0M5HYxuYLaDz7,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/62E2nR0od0M5HYxuYLaDz7.html,https://open.spotify.com/track/62E2nR0od0M5HYxuYLaDz7
+Taylor Swift,I Can Fix Him (No Really I Can),5chnRTB9qMK3W1M41SnU9s,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5chnRTB9qMK3W1M41SnU9s.html,https://open.spotify.com/track/5chnRTB9qMK3W1M41SnU9s
+Taylor Swift,How Did It End?,5Bedn0svl0ZD7RGmJkmKKw,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/5Bedn0svl0ZD7RGmJkmKKw.html,https://open.spotify.com/track/5Bedn0svl0ZD7RGmJkmKKw
+Taylor Swift,Only The Young - Featured in Miss Americana,2slqvGLwzZZYsT4K4Y1GBC,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/2slqvGLwzZZYsT4K4Y1GBC.html,https://open.spotify.com/track/2slqvGLwzZZYsT4K4Y1GBC
+Taylor Swift,Fearless,6Eu31gddWw0gOGO506pJYA,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6Eu31gddWw0gOGO506pJYA.html,https://open.spotify.com/track/6Eu31gddWw0gOGO506pJYA
+Taylor Swift,Last Kiss,4h0EXpatqJImv4VRgvX6po,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4h0EXpatqJImv4VRgvX6po.html,https://open.spotify.com/track/4h0EXpatqJImv4VRgvX6po
+Taylor Swift,The Last Time (feat. Gary Lightbody of Snow Patrol) (Taylorâs Version),0y6kdSRCVQhSsHSpWvTUm7,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/0y6kdSRCVQhSsHSpWvTUm7.html,https://open.spotify.com/track/0y6kdSRCVQhSsHSpWvTUm7
+Taylor Swift,Come Back...Be Here (Taylor's Version),4pNApnaUWAL2J4KO2eqokq,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4pNApnaUWAL2J4KO2eqokq.html,https://open.spotify.com/track/4pNApnaUWAL2J4KO2eqokq
+Taylor Swift,Suburban Legends (Taylor's Version) (From The Vault),6T0sEnqjmHISIKwFETeeiP,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/6T0sEnqjmHISIKwFETeeiP.html,https://open.spotify.com/track/6T0sEnqjmHISIKwFETeeiP
+Taylor Swift,Forever & Always (Taylorâs Version),1msEuwSBneBKpVCZQcFTsU,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1msEuwSBneBKpVCZQcFTsU.html,https://open.spotify.com/track/1msEuwSBneBKpVCZQcFTsU
+Taylor Swift,Clara Bow,4d9PtIEVij9jW5OaLinH66,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4d9PtIEVij9jW5OaLinH66.html,https://open.spotify.com/track/4d9PtIEVij9jW5OaLinH66
+Taylor Swift,itâs time to go - bonus track,1kdWw77ZpYOkhxeuhzU1j6,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1kdWw77ZpYOkhxeuhzU1j6.html,https://open.spotify.com/track/1kdWw77ZpYOkhxeuhzU1j6
+Taylor Swift,Fifteen,4t0OI7XrODjSkAu3bTPmWj,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4t0OI7XrODjSkAu3bTPmWj.html,https://open.spotify.com/track/4t0OI7XrODjSkAu3bTPmWj
+Taylor Swift,Crazier,5vyxXfD5gLlyPxGZMEjtmd,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/5vyxXfD5gLlyPxGZMEjtmd.html,https://open.spotify.com/track/5vyxXfD5gLlyPxGZMEjtmd
+Taylor Swift,Treacherous (Taylor's Version),3S7HNKPakdwNEBFIVTL6dZ,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/3S7HNKPakdwNEBFIVTL6dZ.html,https://open.spotify.com/track/3S7HNKPakdwNEBFIVTL6dZ
+Taylor Swift,Dear John (Taylor's Version),1zU8j1x3yi9xalMF96pzKp,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1zU8j1x3yi9xalMF96pzKp.html,https://open.spotify.com/track/1zU8j1x3yi9xalMF96pzKp
+Taylor Swift,Clean (Taylor's Version),2ByBBvpR9b7IynvRmnG7kG,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/2ByBBvpR9b7IynvRmnG7kG.html,https://open.spotify.com/track/2ByBBvpR9b7IynvRmnG7kG
+Taylor Swift,You All Over Me (feat. Maren Morris) (Taylorâs Version) (From The Vault),4CHpVfAhuxNJ3ibExe6kxO,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4CHpVfAhuxNJ3ibExe6kxO.html,https://open.spotify.com/track/4CHpVfAhuxNJ3ibExe6kxO
+Taylor Swift,Speak Now (Taylor's Version),5xXqyjLicvEpch72qEryFT,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/5xXqyjLicvEpch72qEryFT.html,https://open.spotify.com/track/5xXqyjLicvEpch72qEryFT
+Taylor Swift,All You Had To Do Was Stay (Taylor's Version),6GXgd1BPD9bUpqw5AntGV5,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/6GXgd1BPD9bUpqw5AntGV5.html,https://open.spotify.com/track/6GXgd1BPD9bUpqw5AntGV5
+Taylor Swift,Begin Again (Taylor's Version),05GsNucq8Bngd9fnd4fRa0,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/05GsNucq8Bngd9fnd4fRa0.html,https://open.spotify.com/track/05GsNucq8Bngd9fnd4fRa0
+Taylor Swift,*Babe,40PXEOFLJc7UIpLMrhSfW1,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/40PXEOFLJc7UIpLMrhSfW1.html,https://open.spotify.com/track/40PXEOFLJc7UIpLMrhSfW1
+Taylor Swift,White Horse,6wn61Fzx9XMxQmieLpoIhW,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6wn61Fzx9XMxQmieLpoIhW.html,https://open.spotify.com/track/6wn61Fzx9XMxQmieLpoIhW
+Taylor Swift,Mean (Taylor's Version),30Y4CV7A6YqtQtTTo7Ue4j,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/30Y4CV7A6YqtQtTTo7Ue4j.html,https://open.spotify.com/track/30Y4CV7A6YqtQtTTo7Ue4j
+Taylor Swift,Fifteen (Taylorâs Version),2nqio0SfWg6gh2eCtfuMa5,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/2nqio0SfWg6gh2eCtfuMa5.html,https://open.spotify.com/track/2nqio0SfWg6gh2eCtfuMa5
+Taylor Swift,White Horse (Taylorâs Version),5YL553x8sHderRBDlm3NM3,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/5YL553x8sHderRBDlm3NM3.html,https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3
+Taylor Swift,The Story Of Us (Taylor's Version),6dTA6y0C2ReQklntzZl8l3,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/6dTA6y0C2ReQklntzZl8l3.html,https://open.spotify.com/track/6dTA6y0C2ReQklntzZl8l3
+Taylor Swift,This Love,3oKMl2tJv4fdidkXUYMI5x,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3oKMl2tJv4fdidkXUYMI5x.html,https://open.spotify.com/track/3oKMl2tJv4fdidkXUYMI5x
+Taylor Swift,*us. (feat. Taylor Swift),0hhzNPE68LWLfgZwdpxVdR,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/0hhzNPE68LWLfgZwdpxVdR.html,https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR
+Taylor Swift,Bad Blood (Taylor's Version),64FzgoLZ3oXu2SriZblHic,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/64FzgoLZ3oXu2SriZblHic.html,https://open.spotify.com/track/64FzgoLZ3oXu2SriZblHic
+Taylor Swift,Sad Beautiful Tragic (Taylor's Version),73qMN9bXy7MSPwwGfH3wQr,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/73qMN9bXy7MSPwwGfH3wQr.html,https://open.spotify.com/track/73qMN9bXy7MSPwwGfH3wQr
+Taylor Swift,Haunted,28M2gifMU282QBM3fKajIS,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/28M2gifMU282QBM3fKajIS.html,https://open.spotify.com/track/28M2gifMU282QBM3fKajIS
+Taylor Swift,I Hate It Here,3hlGuz3loYoLfI3bpwieWq,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/3hlGuz3loYoLfI3bpwieWq.html,https://open.spotify.com/track/3hlGuz3loYoLfI3bpwieWq
+Taylor Swift,Foolish One (Taylorâs Version) (From The Vault),4s8BIKx4Zh6ryAEz8RTlaU,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4s8BIKx4Zh6ryAEz8RTlaU.html,https://open.spotify.com/track/4s8BIKx4Zh6ryAEz8RTlaU
+Taylor Swift,Long Live,6XDBA3QWX51lDJ0oZbaJJN,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6XDBA3QWX51lDJ0oZbaJJN.html,https://open.spotify.com/track/6XDBA3QWX51lDJ0oZbaJJN
+Taylor Swift,Forever Winter (Taylor's Version) (From The Vault),3oGVx9RBmiYGv5ZCecWLkx,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/3oGVx9RBmiYGv5ZCecWLkx.html,https://open.spotify.com/track/3oGVx9RBmiYGv5ZCecWLkx
+Taylor Swift,I Wish You Would (Taylor's Version),43y1WpBdnEy5TR9aZoSQL9,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/43y1WpBdnEy5TR9aZoSQL9.html,https://open.spotify.com/track/43y1WpBdnEy5TR9aZoSQL9
+Taylor Swift,I Almost Do (Taylor's Version),2r9CbjYgFhtAmcFv1cSquB,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/2r9CbjYgFhtAmcFv1cSquB.html,https://open.spotify.com/track/2r9CbjYgFhtAmcFv1cSquB
+Taylor Swift,Peter,3zMDGj4D8ogaYgAIZPeU7S,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/3zMDGj4D8ogaYgAIZPeU7S.html,https://open.spotify.com/track/3zMDGj4D8ogaYgAIZPeU7S
+Taylor Swift,Chloe or Sam or Sophia or Marcus,1rmEsOezwf2lmIZTMAO5Ag,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1rmEsOezwf2lmIZTMAO5Ag.html,https://open.spotify.com/track/1rmEsOezwf2lmIZTMAO5Ag
+Taylor Swift,Hey Stephen (Taylorâs Version),550erGcdD9n6PnwxrvYqZT,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/550erGcdD9n6PnwxrvYqZT.html,https://open.spotify.com/track/550erGcdD9n6PnwxrvYqZT
+Taylor Swift,The Albatross,4EF6IyONolQy0bIQXm2EmX,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4EF6IyONolQy0bIQXm2EmX.html,https://open.spotify.com/track/4EF6IyONolQy0bIQXm2EmX
+Taylor Swift,Karma (feat. Ice Spice),4i6cwNY6oIUU2XZxPIw82Y,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4i6cwNY6oIUU2XZxPIw82Y.html,https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y
+Taylor Swift,You Are In Love (Taylor's Version),4UwqOWDpdeIDVQDuKT6iza,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4UwqOWDpdeIDVQDuKT6iza.html,https://open.spotify.com/track/4UwqOWDpdeIDVQDuKT6iza
+Taylor Swift,Timeless (Taylorâs Version) (From The Vault),1HCdems7PQZRj42QDWLA0A,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1HCdems7PQZRj42QDWLA0A.html,https://open.spotify.com/track/1HCdems7PQZRj42QDWLA0A
+Taylor Swift,Stay Stay Stay (Taylor's Version),7eQj6r5PIdYKEIZjucBMcq,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/7eQj6r5PIdYKEIZjucBMcq.html,https://open.spotify.com/track/7eQj6r5PIdYKEIZjucBMcq
+Taylor Swift,Electric Touch (feat. Fall Out Boy) (Taylorâs Version) (From The Vault),4e3ZNTAV6PCrdYMUrUlMpQ,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4e3ZNTAV6PCrdYMUrUlMpQ.html,https://open.spotify.com/track/4e3ZNTAV6PCrdYMUrUlMpQ
+Taylor Swift,thanK you aIMee,7ogK4lJDVDMU6A6vYR5rvD,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/7ogK4lJDVDMU6A6vYR5rvD.html,https://open.spotify.com/track/7ogK4lJDVDMU6A6vYR5rvD
+Taylor Swift,Holy Ground (Taylor's Version),7J4b3LVCIGO4CMBDFLPoP6,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/7J4b3LVCIGO4CMBDFLPoP6.html,https://open.spotify.com/track/7J4b3LVCIGO4CMBDFLPoP6
+Taylor Swift,The Bolter,2913xXOVAIDAqxzV2g4VcU,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/2913xXOVAIDAqxzV2g4VcU.html,https://open.spotify.com/track/2913xXOVAIDAqxzV2g4VcU
+Taylor Swift,Castles Crumbling (feat. Hayley Williams) (Taylorâs Version) (From The Vault),4ABYxlb92WBIjHu7TIKmml,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4ABYxlb92WBIjHu7TIKmml.html,https://open.spotify.com/track/4ABYxlb92WBIjHu7TIKmml
+Taylor Swift,Last Kiss (Taylor's Version),59KOoHFcw5XfICnO57holu,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/59KOoHFcw5XfICnO57holu.html,https://open.spotify.com/track/59KOoHFcw5XfICnO57holu
+Taylor Swift,Haunted (Taylor's Version),4tMzIAFTFdqGBQLdfbPces,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4tMzIAFTFdqGBQLdfbPces.html,https://open.spotify.com/track/4tMzIAFTFdqGBQLdfbPces
+Taylor Swift,When Emma Falls in Love (Taylorâs Version) (From The Vault),0zo975x58DlXbZllWvfYhg,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/0zo975x58DlXbZllWvfYhg.html,https://open.spotify.com/track/0zo975x58DlXbZllWvfYhg
+Taylor Swift,Never Grow Up,1wJL1A0QUHJPf2cm7tsrdw,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1wJL1A0QUHJPf2cm7tsrdw.html,https://open.spotify.com/track/1wJL1A0QUHJPf2cm7tsrdw
+Taylor Swift,Wonderland (Taylor's Version),2ve0kuaWUCt4Zx8x4bf1MR,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/2ve0kuaWUCt4Zx8x4bf1MR.html,https://open.spotify.com/track/2ve0kuaWUCt4Zx8x4bf1MR
+Taylor Swift,I Know Places (Taylor's Version),2f0GI2ZLUtbGqFx8t2Gk6A,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/2f0GI2ZLUtbGqFx8t2Gk6A.html,https://open.spotify.com/track/2f0GI2ZLUtbGqFx8t2Gk6A
+Taylor Swift,How You Get The Girl (Taylor's Version),75W3SngKzTuoQ94uLf3y82,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/75W3SngKzTuoQ94uLf3y82.html,https://open.spotify.com/track/75W3SngKzTuoQ94uLf3y82
+Taylor Swift,I Look in People's Windows,1Zai5UJ2di3qEuR2HeT2s8,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1Zai5UJ2di3qEuR2HeT2s8.html,https://open.spotify.com/track/1Zai5UJ2di3qEuR2HeT2s8
+Taylor Swift,Thatâs When (feat. Keith Urban) (Taylorâs Version) (From The Vault),7eResoqEJJAVTkQYSqvO3P,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/7eResoqEJJAVTkQYSqvO3P.html,https://open.spotify.com/track/7eResoqEJJAVTkQYSqvO3P
+Taylor Swift,The Lucky One (Taylor's Version),4e5ayHsOLJNLTGfjau2mEw,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4e5ayHsOLJNLTGfjau2mEw.html,https://open.spotify.com/track/4e5ayHsOLJNLTGfjau2mEw
+Taylor Swift,Cassandra,0g4fMVo4JjwnIpTfFfLdxS,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/0g4fMVo4JjwnIpTfFfLdxS.html,https://open.spotify.com/track/0g4fMVo4JjwnIpTfFfLdxS
+Taylor Swift,Youâre Not Sorry (Taylorâs Version),6iiAfo4wTA2CVC3Uwx9uh8,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/6iiAfo4wTA2CVC3Uwx9uh8.html,https://open.spotify.com/track/6iiAfo4wTA2CVC3Uwx9uh8
+Taylor Swift,The Other Side Of The Door (Taylorâs Version),1cSFlSBdpT4F5vb1frQ231,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1cSFlSBdpT4F5vb1frQ231.html,https://open.spotify.com/track/1cSFlSBdpT4F5vb1frQ231
+Taylor Swift,The Moment I Knew (Taylor's Version),0NRHj8hDwwmSPaA41o379r,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/0NRHj8hDwwmSPaA41o379r.html,https://open.spotify.com/track/0NRHj8hDwwmSPaA41o379r
+Taylor Swift,*Both of Us (feat. Taylor Swift),3r9bgSJlJz2zlevcBRYXko,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3r9bgSJlJz2zlevcBRYXko.html,https://open.spotify.com/track/3r9bgSJlJz2zlevcBRYXko
+Taylor Swift,Starlight (Taylor's Version),7A2cNLRT0YJc1yjxHlKihs,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/7A2cNLRT0YJc1yjxHlKihs.html,https://open.spotify.com/track/7A2cNLRT0YJc1yjxHlKihs
+Taylor Swift,Donât You (Taylorâs Version) (From The Vault),4uuEGH5SVuzkkSFjo2DEiY,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4uuEGH5SVuzkkSFjo2DEiY.html,https://open.spotify.com/track/4uuEGH5SVuzkkSFjo2DEiY
+Taylor Swift,Carolina - From The Motion Picture âWhere The Crawdads Singâ,4axSuOg3BqsowKjRpj59RU,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4axSuOg3BqsowKjRpj59RU.html,https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU
+Taylor Swift,Back To December - Acoustic,6IH2Z54gYPLqgJtxZjX80i,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6IH2Z54gYPLqgJtxZjX80i.html,https://open.spotify.com/track/6IH2Z54gYPLqgJtxZjX80i
+Taylor Swift,If This Was A Movie (Taylorâs Version),0q6vsjvnCIWrtwRckCV7y0,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0q6vsjvnCIWrtwRckCV7y0.html,https://open.spotify.com/track/0q6vsjvnCIWrtwRckCV7y0
+Taylor Swift,Ours,0V3SNHDka1JSCP71HAzpxw,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0V3SNHDka1JSCP71HAzpxw.html,https://open.spotify.com/track/0V3SNHDka1JSCP71HAzpxw
+Taylor Swift,Breathe (feat. Colbie Caillat) (Taylorâs Version),7HC7R2D8WjXVcUHJyEGjRs,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/7HC7R2D8WjXVcUHJyEGjRs.html,https://open.spotify.com/track/7HC7R2D8WjXVcUHJyEGjRs
+Taylor Swift,The Way I Loved You,5P4wWhUYWM0IaVYLuZxdar,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5P4wWhUYWM0IaVYLuZxdar.html,https://open.spotify.com/track/5P4wWhUYWM0IaVYLuZxdar
+Taylor Swift,Cornelia Street - Live From Paris,3fGnrtrtL1IHSX9t4DKOYf,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/3fGnrtrtL1IHSX9t4DKOYf.html,https://open.spotify.com/track/3fGnrtrtL1IHSX9t4DKOYf
+Taylor Swift,September - Recorded at The Tracking Room Nashville,5eGX87IiKsGuzS3iw4CfCX,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/5eGX87IiKsGuzS3iw4CfCX.html,https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX
+Taylor Swift,Breathe,49mWEy5MgtNujgT7xU3emT,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/49mWEy5MgtNujgT7xU3emT.html,https://open.spotify.com/track/49mWEy5MgtNujgT7xU3emT
+Taylor Swift,The Last Time,4L9QDCVNWIFhf2yr8iMvzA,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4L9QDCVNWIFhf2yr8iMvzA.html,https://open.spotify.com/track/4L9QDCVNWIFhf2yr8iMvzA
+Taylor Swift,*The Alcott (feat. Taylor Swift),6INztpNwOTlfSKTuPo0HOP,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/6INztpNwOTlfSKTuPo0HOP.html,https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP
+Taylor Swift,The Manuscript,1DTRUYVd8rYpla9hhVVwjo,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1DTRUYVd8rYpla9hhVVwjo.html,https://open.spotify.com/track/1DTRUYVd8rYpla9hhVVwjo
+Taylor Swift,Never Grow Up (Taylor's Version),2EFZ9emtKWEglWUQGEQ3P9,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/2EFZ9emtKWEglWUQGEQ3P9.html,https://open.spotify.com/track/2EFZ9emtKWEglWUQGEQ3P9
+Taylor Swift,We Were Happy (Taylorâs Version) (From The Vault),34V9RiEPe8MNdU32qJsJa1,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/34V9RiEPe8MNdU32qJsJa1.html,https://open.spotify.com/track/34V9RiEPe8MNdU32qJsJa1
+Taylor Swift,*Gasoline (feat. Taylor Swift),645Exr2lJIO45Guht3qyIa,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/645Exr2lJIO45Guht3qyIa.html,https://open.spotify.com/track/645Exr2lJIO45Guht3qyIa
+Taylor Swift,Girl At Home (Taylor's Version),0DMVrlMUn01M0IcpDbwgu7,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/0DMVrlMUn01M0IcpDbwgu7.html,https://open.spotify.com/track/0DMVrlMUn01M0IcpDbwgu7
+Taylor Swift,Untouchable (Taylorâs Version),0tQ9vBYpldCuikPsbgOVKA,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/0tQ9vBYpldCuikPsbgOVKA.html,https://open.spotify.com/track/0tQ9vBYpldCuikPsbgOVKA
+Taylor Swift,Safe & Sound (feat. Joy Williams and John Paul White) (Taylorâs Version),6Q237Ts37YGYRIi5Vy5lVX,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6Q237Ts37YGYRIi5Vy5lVX.html,https://open.spotify.com/track/6Q237Ts37YGYRIi5Vy5lVX
+Taylor Swift,I Almost Do,4Ar3jciiuPXAMGjQpMWo34,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4Ar3jciiuPXAMGjQpMWo34.html,https://open.spotify.com/track/4Ar3jciiuPXAMGjQpMWo34
+Taylor Swift,Ours (Taylorâs Version),3yNJkriPzWjkkDAWHIAVUq,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/3yNJkriPzWjkkDAWHIAVUq.html,https://open.spotify.com/track/3yNJkriPzWjkkDAWHIAVUq
+Taylor Swift,Tell Me Why (Taylorâs Version),0k0vFacOHNuArLWMiH60p7,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/0k0vFacOHNuArLWMiH60p7.html,https://open.spotify.com/track/0k0vFacOHNuArLWMiH60p7
+Taylor Swift,State Of Grace,5gl2F1AWDQlUFzXwA4uY72,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5gl2F1AWDQlUFzXwA4uY72.html,https://open.spotify.com/track/5gl2F1AWDQlUFzXwA4uY72
+Taylor Swift,Jump Then Fall (Taylorâs Version),2m3ObD945KvpE5y9A1eUWm,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/2m3ObD945KvpE5y9A1eUWm.html,https://open.spotify.com/track/2m3ObD945KvpE5y9A1eUWm
+Taylor Swift,Robin,2CnjDMdpRjlWv04Xk3s6MW,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/2CnjDMdpRjlWv04Xk3s6MW.html,https://open.spotify.com/track/2CnjDMdpRjlWv04Xk3s6MW
+Taylor Swift,Bye Bye Baby (Taylorâs Version) (From The Vault),4qUijfYU8EoIWiY6oSyrgT,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4qUijfYU8EoIWiY6oSyrgT.html,https://open.spotify.com/track/4qUijfYU8EoIWiY6oSyrgT
+Taylor Swift,Today Was A Fairytale (Taylorâs Version),2JoJrsEV15OzbijS47lids,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/2JoJrsEV15OzbijS47lids.html,https://open.spotify.com/track/2JoJrsEV15OzbijS47lids
+Taylor Swift,Stay Stay Stay,5A4PQqcpYb0vD1zx5DlObS,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5A4PQqcpYb0vD1zx5DlObS.html,https://open.spotify.com/track/5A4PQqcpYb0vD1zx5DlObS
+Taylor Swift,State Of Grace (Acoustic Version) (Taylor's Version),5jAIouBES8LWMiriuNq170,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/5jAIouBES8LWMiriuNq170.html,https://open.spotify.com/track/5jAIouBES8LWMiriuNq170
+Taylor Swift,The Best Day (Taylorâs Version),6ON9UuIq49xXY9GPmHIYRp,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/6ON9UuIq49xXY9GPmHIYRp.html,https://open.spotify.com/track/6ON9UuIq49xXY9GPmHIYRp
+Taylor Swift,Forever & Always (Piano Version) (Taylorâs Version),01QdEx6kFr78ZejhQtWR5m,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/01QdEx6kFr78ZejhQtWR5m.html,https://open.spotify.com/track/01QdEx6kFr78ZejhQtWR5m
+Taylor Swift,Treacherous,6xlCHgsZanRIBaS3yokshA,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6xlCHgsZanRIBaS3yokshA.html,https://open.spotify.com/track/6xlCHgsZanRIBaS3yokshA
+Taylor Swift,I'm Only Me When I'm With You,0JIdBrXGSJXS72zjF9ss9u,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0JIdBrXGSJXS72zjF9ss9u.html,https://open.spotify.com/track/0JIdBrXGSJXS72zjF9ss9u
+Taylor Swift,Holy Ground,5iZzl5YlcJaEZjFCcv9j2h,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5iZzl5YlcJaEZjFCcv9j2h.html,https://open.spotify.com/track/5iZzl5YlcJaEZjFCcv9j2h
+Taylor Swift,All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios,1n3b9Eekoy3S9ZSZ5DmTW1,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1n3b9Eekoy3S9ZSZ5DmTW1.html,https://open.spotify.com/track/1n3b9Eekoy3S9ZSZ5DmTW1
+Taylor Swift,Forever & Always,47HtKpfzpAt8rQjjXWotFj,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/47HtKpfzpAt8rQjjXWotFj.html,https://open.spotify.com/track/47HtKpfzpAt8rQjjXWotFj
+Taylor Swift,Mine - POP Mix,0fAbfDiuQiUwV7FUcFfRGY,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0fAbfDiuQiUwV7FUcFfRGY.html,https://open.spotify.com/track/0fAbfDiuQiUwV7FUcFfRGY
+Taylor Swift,Innocent,5GPwN5iZ9ZMSXAkppj4Uvv,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5GPwN5iZ9ZMSXAkppj4Uvv.html,https://open.spotify.com/track/5GPwN5iZ9ZMSXAkppj4Uvv
+Taylor Swift,Innocent (Taylor's Version),12nBPF4Rh4XLFJV0YLN7uj,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/12nBPF4Rh4XLFJV0YLN7uj.html,https://open.spotify.com/track/12nBPF4Rh4XLFJV0YLN7uj
+Taylor Swift,exile (feat. Bon Iver) - the long pond studio sessions,7N015NTIWGjQDddHUdHPoO,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7N015NTIWGjQDddHUdHPoO.html,https://open.spotify.com/track/7N015NTIWGjQDddHUdHPoO
+Taylor Swift,Mary's Song (Oh My My My),2QrQCMel6v2JiLxqrg4p2O,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2QrQCMel6v2JiLxqrg4p2O.html,https://open.spotify.com/track/2QrQCMel6v2JiLxqrg4p2O
+Taylor Swift,Hey Stephen,4WXzzCof26KJLTK5kK53dS,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4WXzzCof26KJLTK5kK53dS.html,https://open.spotify.com/track/4WXzzCof26KJLTK5kK53dS
+Taylor Swift,Eyes Open,7wjbSn8QHsxqKXU5M0jXGM,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/7wjbSn8QHsxqKXU5M0jXGM.html,https://open.spotify.com/track/7wjbSn8QHsxqKXU5M0jXGM
+Taylor Swift,Change (Taylorâs Version),3ExweHKZF9B752DPQByRVT,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/3ExweHKZF9B752DPQByRVT.html,https://open.spotify.com/track/3ExweHKZF9B752DPQByRVT
+Taylor Swift,Ronan (Taylor's Version),7nWui6jiMM2m9qFmET1Mtj,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/7nWui6jiMM2m9qFmET1Mtj.html,https://open.spotify.com/track/7nWui6jiMM2m9qFmET1Mtj
+Taylor Swift,the lakes - original version,0UAdDYrkCvVQftaKpL6q5f,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0UAdDYrkCvVQftaKpL6q5f.html,https://open.spotify.com/track/0UAdDYrkCvVQftaKpL6q5f
+Taylor Swift,Cold As You,7an1exwMnfYRcdVQm0yDev,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7an1exwMnfYRcdVQm0yDev.html,https://open.spotify.com/track/7an1exwMnfYRcdVQm0yDev
+Taylor Swift,You're Not Sorry,0HmCuN0Z3OX1Qrz43FLOPL,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0HmCuN0Z3OX1Qrz43FLOPL.html,https://open.spotify.com/track/0HmCuN0Z3OX1Qrz43FLOPL
+Taylor Swift,The Story Of Us,7vBlnGdfOLzVEqiOQQxeU8,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/7vBlnGdfOLzVEqiOQQxeU8.html,https://open.spotify.com/track/7vBlnGdfOLzVEqiOQQxeU8
+Taylor Swift,A Place in this World,73OX8GdpOeGzKC6OvGSbsv,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/73OX8GdpOeGzKC6OvGSbsv.html,https://open.spotify.com/track/73OX8GdpOeGzKC6OvGSbsv
+Taylor Swift,Delicate - Seeb Remix,2Sy2oGjP5RYB4cLVoDU0Gz,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/2Sy2oGjP5RYB4cLVoDU0Gz.html,https://open.spotify.com/track/2Sy2oGjP5RYB4cLVoDU0Gz
+Taylor Swift,Superman (Taylorâs Version),4evLyY5Ue1Wesc61t2KXAU,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/4evLyY5Ue1Wesc61t2KXAU.html,https://open.spotify.com/track/4evLyY5Ue1Wesc61t2KXAU
+Taylor Swift,If This Was A Movie,0vvt4IZOMkRug195S4MUq0,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0vvt4IZOMkRug195S4MUq0.html,https://open.spotify.com/track/0vvt4IZOMkRug195S4MUq0
+Taylor Swift,Come In With The Rain (Taylorâs Version),1n2wszmJyVkw6FHqyLnQsY,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1n2wszmJyVkw6FHqyLnQsY.html,https://open.spotify.com/track/1n2wszmJyVkw6FHqyLnQsY
+Taylor Swift,The Lucky One,3m4mW6nG5V94FkGBE1YvRG,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3m4mW6nG5V94FkGBE1YvRG.html,https://open.spotify.com/track/3m4mW6nG5V94FkGBE1YvRG
+Taylor Swift,Starlight,2D1BGzlocoxwNBBf2nMwMk,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2D1BGzlocoxwNBBf2nMwMk.html,https://open.spotify.com/track/2D1BGzlocoxwNBBf2nMwMk
+Taylor Swift,Come Back...Be Here,5hiqtrACtMJkNpaNHj0n9Z,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5hiqtrACtMJkNpaNHj0n9Z.html,https://open.spotify.com/track/5hiqtrACtMJkNpaNHj0n9Z
+Taylor Swift,Delicate - Recorded at The Tracking Room Nashville,1Fj0T1XKuhRu7EZzJ7NJIK,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1Fj0T1XKuhRu7EZzJ7NJIK.html,https://open.spotify.com/track/1Fj0T1XKuhRu7EZzJ7NJIK
+Taylor Swift,cardigan - cabin in candlelight version,2hmafYGj1CXYKIYcMnX4lj,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2hmafYGj1CXYKIYcMnX4lj.html,https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj
+Taylor Swift,Eyes Open (Taylor's Version),0gPmM1WtVRg3uENW3o8bfx,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0gPmM1WtVRg3uENW3o8bfx.html,https://open.spotify.com/track/0gPmM1WtVRg3uENW3o8bfx
+Taylor Swift,The Best Day,3esA216TyLHEkNiBCeCmcg,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3esA216TyLHEkNiBCeCmcg.html,https://open.spotify.com/track/3esA216TyLHEkNiBCeCmcg
+Taylor Swift,Sad Beautiful Tragic,5qD1xj5lXOaX1ZDpVKZeF3,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5qD1xj5lXOaX1ZDpVKZeF3.html,https://open.spotify.com/track/5qD1xj5lXOaX1ZDpVKZeF3
+Taylor Swift,Death By A Thousand Cuts - Live From Paris,3oF7Or7T35yhQbGxbCGvRX,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3oF7Or7T35yhQbGxbCGvRX.html,https://open.spotify.com/track/3oF7Or7T35yhQbGxbCGvRX
+Taylor Swift,Superstar (Taylorâs Version),51A8eKvvZz9uydvIZ7xRSV,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/51A8eKvvZz9uydvIZ7xRSV.html,https://open.spotify.com/track/51A8eKvvZz9uydvIZ7xRSV
+Taylor Swift,willow - dancing witch version (Elvira remix),2Ta5c5Z6DvM8GX0U1polSo,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2Ta5c5Z6DvM8GX0U1polSo.html,https://open.spotify.com/track/2Ta5c5Z6DvM8GX0U1polSo
+Taylor Swift,Stay Beautiful,2ZoOmCSgj0ypVAmGd1ve4y,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2ZoOmCSgj0ypVAmGd1ve4y.html,https://open.spotify.com/track/2ZoOmCSgj0ypVAmGd1ve4y
+Taylor Swift,Invisible,5OOd01o2YS1QFwdpVLds3r,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5OOd01o2YS1QFwdpVLds3r.html,https://open.spotify.com/track/5OOd01o2YS1QFwdpVLds3r
+Taylor Swift,Teardrops on My Guitar - Pop Version,4pJi1rVt9GNegU9kywjg4z,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4pJi1rVt9GNegU9kywjg4z.html,https://open.spotify.com/track/4pJi1rVt9GNegU9kywjg4z
+Taylor Swift,Tied Together with a Smile,6K0CJLVXqbGMeJSmJ4ENKK,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6K0CJLVXqbGMeJSmJ4ENKK.html,https://open.spotify.com/track/6K0CJLVXqbGMeJSmJ4ENKK
+Taylor Swift,Love Story (Taylor's Version) - Elvira Remix,5RaBeejGtdPEszYEKYECs2,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5RaBeejGtdPEszYEKYECs2.html,https://open.spotify.com/track/5RaBeejGtdPEszYEKYECs2
+Taylor Swift,The Outside,2QA3IixpRcKyOdG7XDzRgv,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2QA3IixpRcKyOdG7XDzRgv.html,https://open.spotify.com/track/2QA3IixpRcKyOdG7XDzRgv
+Taylor Swift,Today Was A Fairytale - US Version,1P5QpwOgXJuoVTm3CWbnLY,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1P5QpwOgXJuoVTm3CWbnLY.html,https://open.spotify.com/track/1P5QpwOgXJuoVTm3CWbnLY
+Taylor Swift,The Moment I Knew,5AsmAjBSSQjRPWgAYIp8tm,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5AsmAjBSSQjRPWgAYIp8tm.html,https://open.spotify.com/track/5AsmAjBSSQjRPWgAYIp8tm
+Taylor Swift,Tell Me Why,3rnI1UCyGJvUTVvT97VQr5,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3rnI1UCyGJvUTVvT97VQr5.html,https://open.spotify.com/track/3rnI1UCyGJvUTVvT97VQr5
+Taylor Swift,Anti-Hero - Acoustic Version,2d3d9xZutJjmUpntiyHt3F,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2d3d9xZutJjmUpntiyHt3F.html,https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F
+Taylor Swift,Last Christmas,2IprIjGNRlj3TfqUWCAo0C,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/2IprIjGNRlj3TfqUWCAo0C.html,https://open.spotify.com/track/2IprIjGNRlj3TfqUWCAo0C
+Taylor Swift,Anti-Hero - Kungs Remix,2oWpe2L8ypC080BxpDVuTY,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2oWpe2L8ypC080BxpDVuTY.html,https://open.spotify.com/track/2oWpe2L8ypC080BxpDVuTY
+Taylor Swift,A Perfectly Good Heart,1spLfUJxtyVyiKKTegQ2r4,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1spLfUJxtyVyiKKTegQ2r4.html,https://open.spotify.com/track/1spLfUJxtyVyiKKTegQ2r4
+Taylor Swift,Cruel Summer - Live from TS | The Eras Tour,6ClYMObS7f3Nn4AiZHYQt3,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/6ClYMObS7f3Nn4AiZHYQt3.html,https://open.spotify.com/track/6ClYMObS7f3Nn4AiZHYQt3
+Taylor Swift,Forever & Always - Piano Version,46HGgtwmmuEB8mvDCyjyAc,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/46HGgtwmmuEB8mvDCyjyAc.html,https://open.spotify.com/track/46HGgtwmmuEB8mvDCyjyAc
+Taylor Swift,Change,1yACRKAwlXWhXXFUSkvzhD,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1yACRKAwlXWhXXFUSkvzhD.html,https://open.spotify.com/track/1yACRKAwlXWhXXFUSkvzhD
+Taylor Swift,Lavender Haze - Acoustic Version,05kJkr80XEaZeN8kxyQoFp,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/05kJkr80XEaZeN8kxyQoFp.html,https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp
+Taylor Swift,Daylight - Live From Paris,7ryS0xBZNYjQqql34GCkDp,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7ryS0xBZNYjQqql34GCkDp.html,https://open.spotify.com/track/7ryS0xBZNYjQqql34GCkDp
+Taylor Swift,Cruel Summer - LP Giobbi Remix,0pjBqAz8GlxGlpaU4W0DxS,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/0pjBqAz8GlxGlpaU4W0DxS.html,https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS
+Taylor Swift,...Ready For It? - BloodPopÂ® Remix,1Ygm9KdH3wbzDekO8JgxcW,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1Ygm9KdH3wbzDekO8JgxcW.html,https://open.spotify.com/track/1Ygm9KdH3wbzDekO8JgxcW
+Taylor Swift,Superman,2R7C9dDqv1UPycvepBFziA,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2R7C9dDqv1UPycvepBFziA.html,https://open.spotify.com/track/2R7C9dDqv1UPycvepBFziA
+Taylor Swift,Jump Then Fall,5zytSTR2g0I9psX2Z12ex6,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5zytSTR2g0I9psX2Z12ex6.html,https://open.spotify.com/track/5zytSTR2g0I9psX2Z12ex6
+Taylor Swift,Lavender Haze - Felix Jaehn Remix,5KxZfCXXmVvKhPo8hQz2pS,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5KxZfCXXmVvKhPo8hQz2pS.html,https://open.spotify.com/track/5KxZfCXXmVvKhPo8hQz2pS
+Taylor Swift,Lover - First Dance Remix,2msvOEbkK50foYf9BMXr2X,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2msvOEbkK50foYf9BMXr2X.html,https://open.spotify.com/track/2msvOEbkK50foYf9BMXr2X
+Taylor Swift,cardigan - the long pond studio sessions,3EPgWM1zfTSzEc0z4AwWTM,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3EPgWM1zfTSzEc0z4AwWTM.html,https://open.spotify.com/track/3EPgWM1zfTSzEc0z4AwWTM
+Taylor Swift,Haunted - Acoustic Version,62rlxI6g2PNaWsHoiRryto,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/62rlxI6g2PNaWsHoiRryto.html,https://open.spotify.com/track/62rlxI6g2PNaWsHoiRryto
+Taylor Swift,my tears ricochet - the long pond studio sessions,5mdNyCS7ttVcAyVYOIFEjs,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5mdNyCS7ttVcAyVYOIFEjs.html,https://open.spotify.com/track/5mdNyCS7ttVcAyVYOIFEjs
+Taylor Swift,State Of Grace - Acoustic,5G9AVKld9q7DCrmoY42raf,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5G9AVKld9q7DCrmoY42raf.html,https://open.spotify.com/track/5G9AVKld9q7DCrmoY42raf
+Taylor Swift,Untouchable,2IZ00ed83ygPIiacYScWUE,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2IZ00ed83ygPIiacYScWUE.html,https://open.spotify.com/track/2IZ00ed83ygPIiacYScWUE
+Taylor Swift,Girl At Home,6cf6rLb8qcklvJv90W6HCW,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6cf6rLb8qcklvJv90W6HCW.html,https://open.spotify.com/track/6cf6rLb8qcklvJv90W6HCW
+Taylor Swift,august - the long pond studio sessions,4MGexoZc12lqE0hYkq9YYx,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4MGexoZc12lqE0hYkq9YYx.html,https://open.spotify.com/track/4MGexoZc12lqE0hYkq9YYx
+Taylor Swift,Anti-Hero (feat. Bleachers),16M9Rxid0nXhVmme7lzVwN,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/16M9Rxid0nXhVmme7lzVwN.html,https://open.spotify.com/track/16M9Rxid0nXhVmme7lzVwN
+Taylor Swift,Fortnight (feat. Post Malone) - BLOND:ISH Remix,1gejz5ROvJBUb6WJzkMAcc,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/1gejz5ROvJBUb6WJzkMAcc.html,https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc
+Taylor Swift,this is me trying - the long pond studio sessions,1gaLZjPrDnHQWJds2Jg4KT,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1gaLZjPrDnHQWJds2Jg4KT.html,https://open.spotify.com/track/1gaLZjPrDnHQWJds2Jg4KT
+Taylor Swift,The Man - Live From Paris,7FKbTRXXIWVFQmPH8zGfU0,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7FKbTRXXIWVFQmPH8zGfU0.html,https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0
+Taylor Swift,Message In A Bottle (Fat Max G Remix) (Taylorâs Version),3tGq7hWDCtrnL83y5OGual,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3tGq7hWDCtrnL83y5OGual.html,https://open.spotify.com/track/3tGq7hWDCtrnL83y5OGual
+Taylor Swift,"Sweeter Than Fiction - From ""One Chance"" Soundtrack",0RFCHlNuTeUHIB36VuVbOL,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0RFCHlNuTeUHIB36VuVbOL.html,https://open.spotify.com/track/0RFCHlNuTeUHIB36VuVbOL
+Taylor Swift,the 1 - the long pond studio sessions,08J4bMHbILkwSIhbtrcvjN,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/08J4bMHbILkwSIhbtrcvjN.html,https://open.spotify.com/track/08J4bMHbILkwSIhbtrcvjN
+Taylor Swift,mirrorball - the long pond studio sessions,2yceD2hx5HhOLgkm1CITCi,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2yceD2hx5HhOLgkm1CITCi.html,https://open.spotify.com/track/2yceD2hx5HhOLgkm1CITCi
+Taylor Swift,"Beautiful Ghosts - From The Motion Picture Soundtrack ""Cats""",2evEoQAhIMaa9PfjTT5skG,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2evEoQAhIMaa9PfjTT5skG.html,https://open.spotify.com/track/2evEoQAhIMaa9PfjTT5skG
+Taylor Swift,Red - Original Demo Recording,4mqgn90sCeVSYqcoftTQTd,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4mqgn90sCeVSYqcoftTQTd.html,https://open.spotify.com/track/4mqgn90sCeVSYqcoftTQTd
+Taylor Swift,Anti-Hero - ILLENIUM Remix,6C0H8ts9M6deezz0yYR6LK,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6C0H8ts9M6deezz0yYR6LK.html,https://open.spotify.com/track/6C0H8ts9M6deezz0yYR6LK
+Taylor Swift,Come In With The Rain,4pl5zcqCv4vc3cB7M4MZ6f,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4pl5zcqCv4vc3cB7M4MZ6f.html,https://open.spotify.com/track/4pl5zcqCv4vc3cB7M4MZ6f
+Taylor Swift,illicit affairs - the long pond studio sessions,560uQyz3p5G9WdnMX39xc6,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/560uQyz3p5G9WdnMX39xc6.html,https://open.spotify.com/track/560uQyz3p5G9WdnMX39xc6
+Taylor Swift,Treacherous - Original Demo Recording,7BT9K9BDqq6HI2oWH5UMZQ,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7BT9K9BDqq6HI2oWH5UMZQ.html,https://open.spotify.com/track/7BT9K9BDqq6HI2oWH5UMZQ
+Taylor Swift,You Need To Calm Down - Clean Bandit Remix,7Bjf96uNizpvXLvNyOJpst,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7Bjf96uNizpvXLvNyOJpst.html,https://open.spotify.com/track/7Bjf96uNizpvXLvNyOJpst
+Taylor Swift,the lakes - the long pond studio sessions,6mqyTq948oap5AkyTsd6XF,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6mqyTq948oap5AkyTsd6XF.html,https://open.spotify.com/track/6mqyTq948oap5AkyTsd6XF
+Taylor Swift,willow - lonely witch version,77d7q9TNbsIDmRTDPkPv3L,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/77d7q9TNbsIDmRTDPkPv3L.html,https://open.spotify.com/track/77d7q9TNbsIDmRTDPkPv3L
+Taylor Swift,The Other Side Of The Door,0xvsgzM8AtBtRHZm5rav8A,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0xvsgzM8AtBtRHZm5rav8A.html,https://open.spotify.com/track/0xvsgzM8AtBtRHZm5rav8A
+Taylor Swift,the last great american dynasty - the long pond studio sessions,28tIMaewZuGR8urkvFhQyA,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/28tIMaewZuGR8urkvFhQyA.html,https://open.spotify.com/track/28tIMaewZuGR8urkvFhQyA
+Taylor Swift,*Birch,7wo2UNeQBowm28hfAJsEMz,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7wo2UNeQBowm28hfAJsEMz.html,https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz
+Taylor Swift,seven - the long pond studio sessions,4cOWq0cVsKjxaQpRMbDoH1,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4cOWq0cVsKjxaQpRMbDoH1.html,https://open.spotify.com/track/4cOWq0cVsKjxaQpRMbDoH1
+Taylor Swift,Lavender Haze - Snakehips Remix,6F67FNdOBNMFzxdj1CQ5pL,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6F67FNdOBNMFzxdj1CQ5pL.html,https://open.spotify.com/track/6F67FNdOBNMFzxdj1CQ5pL
+Taylor Swift,willow - 90's trend remix,77p4fRpoeiZMtUy3P9kN21,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/77p4fRpoeiZMtUy3P9kN21.html,https://open.spotify.com/track/77p4fRpoeiZMtUy3P9kN21
+Taylor Swift,*Renegade - Pop Version,06zIBqLC9ZRm5i0iMf0kHI,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/06zIBqLC9ZRm5i0iMf0kHI.html,https://open.spotify.com/track/06zIBqLC9ZRm5i0iMf0kHI
+Taylor Swift,All Too Well (10 Minute Version) (The Short Film),1u4HUiREUR6vX1W1RYG2Tm,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1u4HUiREUR6vX1W1RYG2Tm.html,https://open.spotify.com/track/1u4HUiREUR6vX1W1RYG2Tm
+Taylor Swift,SuperStar,14Bljc3pOOG0xQX3wqhLN9,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/14Bljc3pOOG0xQX3wqhLN9.html,https://open.spotify.com/track/14Bljc3pOOG0xQX3wqhLN9
+Taylor Swift,invisible string - the long pond studio sessions,5KByGq0JijSSDcy0qzuINs,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5KByGq0JijSSDcy0qzuINs.html,https://open.spotify.com/track/5KByGq0JijSSDcy0qzuINs
+Taylor Swift,Teardrops On My Guitar - International Mix,2RM02ladxD5mgdrlAwh3h9,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2RM02ladxD5mgdrlAwh3h9.html,https://open.spotify.com/track/2RM02ladxD5mgdrlAwh3h9
+Taylor Swift,betty - the long pond studio sessions,1mh5dObNoOvCfHmXnhvDEK,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1mh5dObNoOvCfHmXnhvDEK.html,https://open.spotify.com/track/1mh5dObNoOvCfHmXnhvDEK
+Taylor Swift,hoax - the long pond studio sessions,0QTBsdoJhamY3Aid3fOsOd,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0QTBsdoJhamY3Aid3fOsOd.html,https://open.spotify.com/track/0QTBsdoJhamY3Aid3fOsOd
+Taylor Swift,Back To December/Apologize/You're Not Sorry - Live/2011/Medley,1IsquhJFJ0qcFZI7FeAEuN,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1IsquhJFJ0qcFZI7FeAEuN.html,https://open.spotify.com/track/1IsquhJFJ0qcFZI7FeAEuN
+Taylor Swift,Drops Of Jupiter - Live/2011,0BSmbCIY36iw04azzJ3S0S,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0BSmbCIY36iw04azzJ3S0S.html,https://open.spotify.com/track/0BSmbCIY36iw04azzJ3S0S
+Taylor Swift,Wildest Dreams - R3hab Remix,5VDHMi7own9vDZjiwDES1e,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5VDHMi7own9vDZjiwDES1e.html,https://open.spotify.com/track/5VDHMi7own9vDZjiwDES1e
+Taylor Swift,*Should've Said No - The 3D Concert Experience,06FXaDDdg0BzXl15cthMS5,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/06FXaDDdg0BzXl15cthMS5.html,https://open.spotify.com/track/06FXaDDdg0BzXl15cthMS5
+Taylor Swift,The Archer - Live From Paris,2fgiBCtbWo8pijF6M7pN1i,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2fgiBCtbWo8pijF6M7pN1i.html,https://open.spotify.com/track/2fgiBCtbWo8pijF6M7pN1i
+Taylor Swift,Santa Baby,71IScwIe7bcIlpnlkbKVQw,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/71IScwIe7bcIlpnlkbKVQw.html,https://open.spotify.com/track/71IScwIe7bcIlpnlkbKVQw
+Taylor Swift,peace - the long pond studio sessions,4YHHz3VIXgNDGdoL9xC1tx,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4YHHz3VIXgNDGdoL9xC1tx.html,https://open.spotify.com/track/4YHHz3VIXgNDGdoL9xC1tx
+Taylor Swift,mad woman - the long pond studio sessions,04xrhDrQ2WOW8GLwu7kbc0,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/04xrhDrQ2WOW8GLwu7kbc0.html,https://open.spotify.com/track/04xrhDrQ2WOW8GLwu7kbc0
+Taylor Swift,Lover - Live From Paris,4lD3RXyvHpJsM3BhIEC4aA,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4lD3RXyvHpJsM3BhIEC4aA.html,https://open.spotify.com/track/4lD3RXyvHpJsM3BhIEC4aA
+Taylor Swift,epiphany - the long pond studio sessions,4yyKppX85ZkmlGOC2toBZA,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4yyKppX85ZkmlGOC2toBZA.html,https://open.spotify.com/track/4yyKppX85ZkmlGOC2toBZA
+Taylor Swift,Fortnight (feat. Post Malone) - Acoustic Version,2BUTSRKPGRsyc9FnsC5Udd,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2BUTSRKPGRsyc9FnsC5Udd.html,https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd
+Taylor Swift,Love Story - Digital Dog Remix,3RNDw7yywLNyawDKV99hTx,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3RNDw7yywLNyawDKV99hTx.html,https://open.spotify.com/track/3RNDw7yywLNyawDKV99hTx
+Taylor Swift,"Carolina - ""Where The Crawdads Sing"" - Video Edition",12xIjI9A9UlB6zEc7kyZ06,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/12xIjI9A9UlB6zEc7kyZ06.html,https://open.spotify.com/track/12xIjI9A9UlB6zEc7kyZ06
+Taylor Swift,betty - Live from the 2020 Academy of Country Music Awards,1hm4V38egkiHOgxTUpu0zg,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1hm4V38egkiHOgxTUpu0zg.html,https://open.spotify.com/track/1hm4V38egkiHOgxTUpu0zg
+Taylor Swift,Christmas Tree Farm - Old Timey Version,7r7j12XctfJqZWXsy1Zq9L,06HL4z0CvFAxyc27GXpf02,True,https://kworb.net/spotify/track/7r7j12XctfJqZWXsy1Zq9L.html,https://open.spotify.com/track/7r7j12XctfJqZWXsy1Zq9L
+Taylor Swift,Sparks Fly - Live/2011,1aBJNc2thaKyh5THWzIqHX,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1aBJNc2thaKyh5THWzIqHX.html,https://open.spotify.com/track/1aBJNc2thaKyh5THWzIqHX
+Taylor Swift,willow - moonlit witch version,5F7hpFKLmWgMHGxQuwssuv,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5F7hpFKLmWgMHGxQuwssuv.html,https://open.spotify.com/track/5F7hpFKLmWgMHGxQuwssuv
+Taylor Swift,Bette Davis Eyes - Live/2011,6KF9xd2hBLuexrmBX4vUWD,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6KF9xd2hBLuexrmBX4vUWD.html,https://open.spotify.com/track/6KF9xd2hBLuexrmBX4vUWD
+Taylor Swift,Enchanted - Live/2011,3lm4L3pPL32PFy74dR17OR,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3lm4L3pPL32PFy74dR17OR.html,https://open.spotify.com/track/3lm4L3pPL32PFy74dR17OR
+Taylor Swift,Christmases When You Were Mine,1g09DZjQ7yBommCT6POY2n,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1g09DZjQ7yBommCT6POY2n.html,https://open.spotify.com/track/1g09DZjQ7yBommCT6POY2n
+Taylor Swift,Anti-Hero - Jayda G Remix,4YrpqEBNuz7IMsZtUP6bNQ,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4YrpqEBNuz7IMsZtUP6bNQ.html,https://open.spotify.com/track/4YrpqEBNuz7IMsZtUP6bNQ
+Taylor Swift,You Need To Calm Down - Live From Paris,36a08nLG1xazGaaVKK0vv7,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/36a08nLG1xazGaaVKK0vv7.html,https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7
+Taylor Swift,ME! - Live From Paris,5fOV54t6mMYv3H9CsnvU81,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5fOV54t6mMYv3H9CsnvU81.html,https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81
+Taylor Swift,Delicate - Sawyr And Ryan Tedder Mix,6SYwJcqaltK2WFRmD1unUV,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6SYwJcqaltK2WFRmD1unUV.html,https://open.spotify.com/track/6SYwJcqaltK2WFRmD1unUV
+Taylor Swift,The Story Of Us - Live,72GIZuUXo14oyrS0si3Rgc,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/72GIZuUXo14oyrS0si3Rgc.html,https://open.spotify.com/track/72GIZuUXo14oyrS0si3Rgc
+Taylor Swift,Mine - Live/2011,7yndkPYP6YQQLBpPsizDfh,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7yndkPYP6YQQLBpPsizDfh.html,https://open.spotify.com/track/7yndkPYP6YQQLBpPsizDfh
+Taylor Swift,Mean - Live/2011,7mFiEij8AXPUZB7aKLbUlQ,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7mFiEij8AXPUZB7aKLbUlQ.html,https://open.spotify.com/track/7mFiEij8AXPUZB7aKLbUlQ
+Taylor Swift,I Want You Back - Live/2011,4KB3zBArZ1rHRExilzycaV,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4KB3zBArZ1rHRExilzycaV.html,https://open.spotify.com/track/4KB3zBArZ1rHRExilzycaV
+Taylor Swift,Christmas Must Be Something More,31JVjy3XWnh6C2zf4kLCXN,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/31JVjy3XWnh6C2zf4kLCXN.html,https://open.spotify.com/track/31JVjy3XWnh6C2zf4kLCXN
+Taylor Swift,Ronan,0Nw8hv79MLJa1yjtsEgz08,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0Nw8hv79MLJa1yjtsEgz08.html,https://open.spotify.com/track/0Nw8hv79MLJa1yjtsEgz08
+Taylor Swift,Better Than Revenge - Live/2011,6505MLhnqTDDg4tjoUz2Wp,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6505MLhnqTDDg4tjoUz2Wp.html,https://open.spotify.com/track/6505MLhnqTDDg4tjoUz2Wp
+Taylor Swift,Dear John - Live/2011,4DbI1rr4IQ2bc8nejy9ttd,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4DbI1rr4IQ2bc8nejy9ttd.html,https://open.spotify.com/track/4DbI1rr4IQ2bc8nejy9ttd
+Taylor Swift,Ours - Live/2011,68QyrSzpnoU04AAhE5z8lj,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/68QyrSzpnoU04AAhE5z8lj.html,https://open.spotify.com/track/68QyrSzpnoU04AAhE5z8lj
+Taylor Swift,Long Live - Live/2011,5QkzyLUb4ggojNDp8G2OxX,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5QkzyLUb4ggojNDp8G2OxX.html,https://open.spotify.com/track/5QkzyLUb4ggojNDp8G2OxX
+Taylor Swift,Speak Now - Live/2011,3QFB14MOUf3imlyISNmrbT,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3QFB14MOUf3imlyISNmrbT.html,https://open.spotify.com/track/3QFB14MOUf3imlyISNmrbT
+Taylor Swift,Last Kiss - Live/2011,6hH37tyeRdyan1mAppmVor,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6hH37tyeRdyan1mAppmVor.html,https://open.spotify.com/track/6hH37tyeRdyan1mAppmVor
+Taylor Swift,White Christmas,7GZ3KDorsc1yWndEtzGTjf,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7GZ3KDorsc1yWndEtzGTjf.html,https://open.spotify.com/track/7GZ3KDorsc1yWndEtzGTjf
+Taylor Swift,Haunted - Live/2011,6znB7YZhMJT2B83zfbiyLq,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6znB7YZhMJT2B83zfbiyLq.html,https://open.spotify.com/track/6znB7YZhMJT2B83zfbiyLq
+Taylor Swift,I Know Places - Voice Memo,4JQm7ebhsrt10wmrP6AfXL,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4JQm7ebhsrt10wmrP6AfXL.html,https://open.spotify.com/track/4JQm7ebhsrt10wmrP6AfXL
+Taylor Swift,Silent Night,1cJkUN5LAotktryx2nPCr7,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1cJkUN5LAotktryx2nPCr7.html,https://open.spotify.com/track/1cJkUN5LAotktryx2nPCr7
+Taylor Swift,Our Song - International Mix,5Ct2PYPUSogyWvbV40k9Bf,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5Ct2PYPUSogyWvbV40k9Bf.html,https://open.spotify.com/track/5Ct2PYPUSogyWvbV40k9Bf
+Taylor Swift,*Big Star (with Taylor Swift) - Live,7JKwboSAWRHJI5U1XGTqS3,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7JKwboSAWRHJI5U1XGTqS3.html,https://open.spotify.com/track/7JKwboSAWRHJI5U1XGTqS3
+Taylor Swift,Blank Space - Voice Memo,0yisH8r0f3Mkq34kjzUlCV,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0yisH8r0f3Mkq34kjzUlCV.html,https://open.spotify.com/track/0yisH8r0f3Mkq34kjzUlCV
+Taylor Swift,I Wish You Would - Voice Memo,4TtyvyI42C0KFnbDZvNC8Y,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4TtyvyI42C0KFnbDZvNC8Y.html,https://open.spotify.com/track/4TtyvyI42C0KFnbDZvNC8Y
+Taylor Swift,Love Story - Pop Mix,5lA0yK8S5tP3xoaRMCp4Ug,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5lA0yK8S5tP3xoaRMCp4Ug.html,https://open.spotify.com/track/5lA0yK8S5tP3xoaRMCp4Ug
+Taylor Swift,"Macavity - From The Motion Picture Soundtrack ""Cats""",5zOKuItOTZhRCGtPrDYmlj,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5zOKuItOTZhRCGtPrDYmlj.html,https://open.spotify.com/track/5zOKuItOTZhRCGtPrDYmlj
+Taylor Swift,Anti-Hero - Roosevelt Remix,4XiypEn8iKbeP1TbTqdfk5,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4XiypEn8iKbeP1TbTqdfk5.html,https://open.spotify.com/track/4XiypEn8iKbeP1TbTqdfk5
+Taylor Swift,Lavender Haze - Tensnake Remix,7kjSmkSo15pHlkb0mOQtfj,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7kjSmkSo15pHlkb0mOQtfj.html,https://open.spotify.com/track/7kjSmkSo15pHlkb0mOQtfj
+Taylor Swift,Lavender Haze - Jungle Remix,0ThxqUZ9PwS6n0UT5i1XH6,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0ThxqUZ9PwS6n0UT5i1XH6.html,https://open.spotify.com/track/0ThxqUZ9PwS6n0UT5i1XH6
+Taylor Swift,Love Story - Live From Clear Channel Stripped 2008,4RBKAqJ3qyvvriDG0s9IJ3,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4RBKAqJ3qyvvriDG0s9IJ3.html,https://open.spotify.com/track/4RBKAqJ3qyvvriDG0s9IJ3
+Taylor Swift,You're Not Sorry - CSI Remix,4VbErhGDMTnvPAnt5z70DL,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4VbErhGDMTnvPAnt5z70DL.html,https://open.spotify.com/track/4VbErhGDMTnvPAnt5z70DL
+Taylor Swift,Christmas Tree Farm - Recorded Live at the 2019 iHeartRadio Jingle Ball,2ziekbazMdLS2Gtdo78RID,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2ziekbazMdLS2Gtdo78RID.html,https://open.spotify.com/track/2ziekbazMdLS2Gtdo78RID
+Taylor Swift,Beautiful Eyes - Live From Clear Channel Stripped 2008,4aBW31cmkA7BLColUsMEeZ,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4aBW31cmkA7BLColUsMEeZ.html,https://open.spotify.com/track/4aBW31cmkA7BLColUsMEeZ
+Taylor Swift,Fortnight (feat. Post Malone) - Cults Remix,7pM01Cfj8vt7z3qI2TveNT,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7pM01Cfj8vt7z3qI2TveNT.html,https://open.spotify.com/track/7pM01Cfj8vt7z3qI2TveNT
+Taylor Swift,Love Story - J Stax Radio Mix,4i0M7glXqIIRKPwbLtpExi,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4i0M7glXqIIRKPwbLtpExi.html,https://open.spotify.com/track/4i0M7glXqIIRKPwbLtpExi
+Taylor Swift,Fearless - Live From Clear Channel Stripped 2008,5g7RMU3cV7zXWH244BLe7G,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5g7RMU3cV7zXWH244BLe7G.html,https://open.spotify.com/track/5g7RMU3cV7zXWH244BLe7G
+Taylor Swift,Should've Said No - Live From Clear Channel Stripped 2008,5a9hUL6ZuiagZhazwrtwHF,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5a9hUL6ZuiagZhazwrtwHF.html,https://open.spotify.com/track/5a9hUL6ZuiagZhazwrtwHF
+Taylor Swift,Teardrops On My Guitar - Live From Clear Channel Stripped 2008,4DjevQhsPWULcondN4mRh5,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4DjevQhsPWULcondN4mRh5.html,https://open.spotify.com/track/4DjevQhsPWULcondN4mRh5
+Taylor Swift,Untouchable - Live From Clear Channel Stripped 2008,4MbHDiHQjhmoVAV75G04Ql,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4MbHDiHQjhmoVAV75G04Ql.html,https://open.spotify.com/track/4MbHDiHQjhmoVAV75G04Ql
+Taylor Swift,Picture To Burn - Live From Clear Channel Stripped 2008,7EvU9pRoJ9Xs7anx0P7tEc,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7EvU9pRoJ9Xs7anx0P7tEc.html,https://open.spotify.com/track/7EvU9pRoJ9Xs7anx0P7tEc
+Taylor Swift,Cruel Summer - LP Giobbi Remix - Extended Version,0ISHfeb30gj4CSWUZYuesj,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0ISHfeb30gj4CSWUZYuesj.html,https://open.spotify.com/track/0ISHfeb30gj4CSWUZYuesj
+Taylor Swift,Blank Space - Karaoke Version,6N6V2v89hS4N9ossON5f9R,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6N6V2v89hS4N9ossON5f9R.html,https://open.spotify.com/track/6N6V2v89hS4N9ossON5f9R
+Taylor Swift,Don't Blame Me - Karaoke Version,5JtXBqKLdfzwedmlUjjqAm,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5JtXBqKLdfzwedmlUjjqAm.html,https://open.spotify.com/track/5JtXBqKLdfzwedmlUjjqAm
+Taylor Swift,...Ready For It? - Karaoke Version,4twNUyTpLMPWokYmCdFDCH,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4twNUyTpLMPWokYmCdFDCH.html,https://open.spotify.com/track/4twNUyTpLMPWokYmCdFDCH
+Taylor Swift,Style - Karaoke Version,1Qicm51crXMvUuH4SMjobT,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1Qicm51crXMvUuH4SMjobT.html,https://open.spotify.com/track/1Qicm51crXMvUuH4SMjobT
+Taylor Swift,Look What You Made Me Do - Karaoke Version,1zz0XSmHCFd57ne04UAp38,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1zz0XSmHCFd57ne04UAp38.html,https://open.spotify.com/track/1zz0XSmHCFd57ne04UAp38
+Taylor Swift,Change - Live From Clear Channel Stripped 2008,69o9kr9UexjzeZDE8yD8dQ,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/69o9kr9UexjzeZDE8yD8dQ.html,https://open.spotify.com/track/69o9kr9UexjzeZDE8yD8dQ
+Taylor Swift,Hey Stephen - Commentary,7Ae2hYOcJmLbGCYIA3M1VM,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7Ae2hYOcJmLbGCYIA3M1VM.html,https://open.spotify.com/track/7Ae2hYOcJmLbGCYIA3M1VM
+Taylor Swift,All Too Well - Commentary,1yVVoBDzSkFkZRWtq9x3u1,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1yVVoBDzSkFkZRWtq9x3u1.html,https://open.spotify.com/track/1yVVoBDzSkFkZRWtq9x3u1
+Taylor Swift,Delicate - Karaoke Version,5Iadj8IBPrt634WW0yGPRI,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5Iadj8IBPrt634WW0yGPRI.html,https://open.spotify.com/track/5Iadj8IBPrt634WW0yGPRI
+Taylor Swift,Shake It Off - Karaoke Version,4omftH10jc82Sj8VJ395C7,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4omftH10jc82Sj8VJ395C7.html,https://open.spotify.com/track/4omftH10jc82Sj8VJ395C7
+Taylor Swift,Love Story - Instrumental with BGV,2GZNZLMvT3gjCEPd6NNvvQ,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2GZNZLMvT3gjCEPd6NNvvQ.html,https://open.spotify.com/track/2GZNZLMvT3gjCEPd6NNvvQ
+Taylor Swift,The Last Time - Karaoke Version,2mz69DJOIt4b1xxfxiJbBy,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2mz69DJOIt4b1xxfxiJbBy.html,https://open.spotify.com/track/2mz69DJOIt4b1xxfxiJbBy
+Taylor Swift,Getaway Car - Karaoke Version,7bdyzcQ0onk60hfsxDCd2X,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7bdyzcQ0onk60hfsxDCd2X.html,https://open.spotify.com/track/7bdyzcQ0onk60hfsxDCd2X
+Taylor Swift,I Did Something Bad - Karaoke Version,2hecdut2HWM5JMHqLTWThq,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2hecdut2HWM5JMHqLTWThq.html,https://open.spotify.com/track/2hecdut2HWM5JMHqLTWThq
+Taylor Swift,We Are Never Ever Getting Back Together - Commentary,0kfTOGpi5eZCBxcRF5LFIh,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0kfTOGpi5eZCBxcRF5LFIh.html,https://open.spotify.com/track/0kfTOGpi5eZCBxcRF5LFIh
+Taylor Swift,I Knew You Were Trouble. - Commentary,2vTjAIZbfW7W8NGBOZ5rK5,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2vTjAIZbfW7W8NGBOZ5rK5.html,https://open.spotify.com/track/2vTjAIZbfW7W8NGBOZ5rK5
+Taylor Swift,I Almost Do - Commentary,2rLYkfJSgTPtOTLjYEdozL,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2rLYkfJSgTPtOTLjYEdozL.html,https://open.spotify.com/track/2rLYkfJSgTPtOTLjYEdozL
+Taylor Swift,State Of Grace - Commentary,7HbZuazpPbDDMkb8Tmvxq0,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7HbZuazpPbDDMkb8Tmvxq0.html,https://open.spotify.com/track/7HbZuazpPbDDMkb8Tmvxq0
+Taylor Swift,Breathe - Commentary,3cAHqw3B2deaHRXV9WrYAA,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3cAHqw3B2deaHRXV9WrYAA.html,https://open.spotify.com/track/3cAHqw3B2deaHRXV9WrYAA
+Taylor Swift,Stay Stay Stay - Commentary,4sFwzqXqNcNV3cTyTybq0M,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4sFwzqXqNcNV3cTyTybq0M.html,https://open.spotify.com/track/4sFwzqXqNcNV3cTyTybq0M
+Taylor Swift,Wildest Dreams - Karaoke Version,1BXM0X5BxyUUOLEf9Rv6uZ,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1BXM0X5BxyUUOLEf9Rv6uZ.html,https://open.spotify.com/track/1BXM0X5BxyUUOLEf9Rv6uZ
+Taylor Swift,22 - Commentary,1wePVBS4L6xhCvVUItPAZQ,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1wePVBS4L6xhCvVUItPAZQ.html,https://open.spotify.com/track/1wePVBS4L6xhCvVUItPAZQ
+Taylor Swift,Treacherous - Commentary,3lD0QBGaxvoc9WBDnGHFUi,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3lD0QBGaxvoc9WBDnGHFUi.html,https://open.spotify.com/track/3lD0QBGaxvoc9WBDnGHFUi
+Taylor Swift,Call It What You Want - Karaoke Version,1VPHQriwOsy5aGHLwwZyho,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1VPHQriwOsy5aGHLwwZyho.html,https://open.spotify.com/track/1VPHQriwOsy5aGHLwwZyho
+Taylor Swift,Red - Commentary,1VW4AEDihVs3BQB6KnTYIY,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1VW4AEDihVs3BQB6KnTYIY.html,https://open.spotify.com/track/1VW4AEDihVs3BQB6KnTYIY
+Taylor Swift,Welcome To New York - Karaoke Version,64FIHbthA4RhBv6fL6DGBO,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/64FIHbthA4RhBv6fL6DGBO.html,https://open.spotify.com/track/64FIHbthA4RhBv6fL6DGBO
+Taylor Swift,You Belong With Me - Commentary,2BDqAaVKzQDnoVPZbdp68D,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2BDqAaVKzQDnoVPZbdp68D.html,https://open.spotify.com/track/2BDqAaVKzQDnoVPZbdp68D
+Taylor Swift,Out Of The Woods - Karaoke Version,4WrJR6LJ8MtIxouKHUkTEM,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4WrJR6LJ8MtIxouKHUkTEM.html,https://open.spotify.com/track/4WrJR6LJ8MtIxouKHUkTEM
+Taylor Swift,End Game - Karaoke Version,4cag67C3v9ToeFivUwDUsE,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4cag67C3v9ToeFivUwDUsE.html,https://open.spotify.com/track/4cag67C3v9ToeFivUwDUsE
+Taylor Swift,Style - Commentary,4CyL8bBbVRYB0ogadF4aUS,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4CyL8bBbVRYB0ogadF4aUS.html,https://open.spotify.com/track/4CyL8bBbVRYB0ogadF4aUS
+Taylor Swift,Gorgeous - Karaoke Version,3ZHTwJzCNDFvjLpVQiqpH6,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3ZHTwJzCNDFvjLpVQiqpH6.html,https://open.spotify.com/track/3ZHTwJzCNDFvjLpVQiqpH6
+Taylor Swift,The Last Time - Commentary,22Zg9JjEgM0JV5HvLXNJAh,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/22Zg9JjEgM0JV5HvLXNJAh.html,https://open.spotify.com/track/22Zg9JjEgM0JV5HvLXNJAh
+Taylor Swift,Love Story - Commentary,7D4bd801muwRfuo5F3KkGk,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7D4bd801muwRfuo5F3KkGk.html,https://open.spotify.com/track/7D4bd801muwRfuo5F3KkGk
+Taylor Swift,Enchanted - Instrumental With Background Vocals,0ruvufCIGCWaf67Tb8R64O,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0ruvufCIGCWaf67Tb8R64O.html,https://open.spotify.com/track/0ruvufCIGCWaf67Tb8R64O
+Taylor Swift,White Horse - Commentary,7F67ujlSkp8PT7uaDPuOjP,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/7F67ujlSkp8PT7uaDPuOjP.html,https://open.spotify.com/track/7F67ujlSkp8PT7uaDPuOjP
+Taylor Swift,Tell Me Why - Commentary,1SARZTSJ1YeXgImYzpSxef,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1SARZTSJ1YeXgImYzpSxef.html,https://open.spotify.com/track/1SARZTSJ1YeXgImYzpSxef
+Taylor Swift,Starlight - Commentary,2ag2oLCwlFIA88hQrLMHzv,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/2ag2oLCwlFIA88hQrLMHzv.html,https://open.spotify.com/track/2ag2oLCwlFIA88hQrLMHzv
+Taylor Swift,Dancing With Our Hands Tied - Karaoke Version,3ZfvKQxJp4zZshiJsRPoD1,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3ZfvKQxJp4zZshiJsRPoD1.html,https://open.spotify.com/track/3ZfvKQxJp4zZshiJsRPoD1
+Taylor Swift,You Belong With Me - Instrumental with BGV,02DtaJ6ADr4uQJbKEdpxxj,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/02DtaJ6ADr4uQJbKEdpxxj.html,https://open.spotify.com/track/02DtaJ6ADr4uQJbKEdpxxj
+Taylor Swift,Begin Again - Commentary,3JayaISg308IVZhUY0XUXe,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3JayaISg308IVZhUY0XUXe.html,https://open.spotify.com/track/3JayaISg308IVZhUY0XUXe
+Taylor Swift,Out Of The Woods - Commentary,5ckUacHVEsmgJI7akKHadD,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5ckUacHVEsmgJI7akKHadD.html,https://open.spotify.com/track/5ckUacHVEsmgJI7akKHadD
+Taylor Swift,Holy Ground - Commentary,0HTZpLa2SjBmuJ6zJ7OqMm,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/0HTZpLa2SjBmuJ6zJ7OqMm.html,https://open.spotify.com/track/0HTZpLa2SjBmuJ6zJ7OqMm
+Taylor Swift,Everything Has Changed - Commentary,633FwmKmrHWn6sLTL3db72,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/633FwmKmrHWn6sLTL3db72.html,https://open.spotify.com/track/633FwmKmrHWn6sLTL3db72
+Taylor Swift,Fearless - Instrumental with BGV,5Gz9GFSwHObbmjSRHgTphe,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5Gz9GFSwHObbmjSRHgTphe.html,https://open.spotify.com/track/5Gz9GFSwHObbmjSRHgTphe
+Taylor Swift,Sad Beautiful Tragic - Commentary,3rMskQgCc54bAQUfE0U4Fw,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3rMskQgCc54bAQUfE0U4Fw.html,https://open.spotify.com/track/3rMskQgCc54bAQUfE0U4Fw
+Taylor Swift,Welcome to New York - Commentary,4YugJd2i96PHwaflBauhXi,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4YugJd2i96PHwaflBauhXi.html,https://open.spotify.com/track/4YugJd2i96PHwaflBauhXi
+Taylor Swift,Blank Space - Commentary,4fiLVxZ0UAsWAzUwGqkZA9,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4fiLVxZ0UAsWAzUwGqkZA9.html,https://open.spotify.com/track/4fiLVxZ0UAsWAzUwGqkZA9
+Taylor Swift,New Year's Day - Karaoke Version,13tYZVTtzLUJTlM7m1ivbi,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/13tYZVTtzLUJTlM7m1ivbi.html,https://open.spotify.com/track/13tYZVTtzLUJTlM7m1ivbi
+Taylor Swift,The Lucky One - Commentary,1J22bFnVC6Rmjxby941PDf,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/1J22bFnVC6Rmjxby941PDf.html,https://open.spotify.com/track/1J22bFnVC6Rmjxby941PDf
+Taylor Swift,All Too Well - Karaoke Version,3To1MBLD7WqFoWEeiLDBzq,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/3To1MBLD7WqFoWEeiLDBzq.html,https://open.spotify.com/track/3To1MBLD7WqFoWEeiLDBzq
+Taylor Swift,Shake It Off - Commentary,4CWLOxjskk6fjixCboD4vJ,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/4CWLOxjskk6fjixCboD4vJ.html,https://open.spotify.com/track/4CWLOxjskk6fjixCboD4vJ
+Taylor Swift,King Of My Heart - Karaoke Version,5EsfyTD26nlVQ0DtYo16uJ,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/5EsfyTD26nlVQ0DtYo16uJ.html,https://open.spotify.com/track/5EsfyTD26nlVQ0DtYo16uJ
+Taylor Swift,Bad Blood - Karaoke Version,6bzWVosI1yQkHUrN22cMWE,06HL4z0CvFAxyc27GXpf02,False,https://kworb.net/spotify/track/6bzWVosI1yQkHUrN22cMWE.html,https://open.spotify.com/track/6bzWVosI1yQkHUrN22cMWE

@@ -1,19 +1,19 @@
-Artist,Song,ValidLink,ID,KworbLink,Spotify Link
-Bonnie Raitt,*High On Life (feat. Bonn),True,4ut5G4rgB1ClpMTMfjoIuy,https://kworb.net/spotify/track/4ut5G4rgB1ClpMTMfjoIuy.html,https://open.spotify.com/track/4ut5G4rgB1ClpMTMfjoIuy
-Bonnie Raitt,*No Sleep (feat. Bonn),True,1ahVFh0ViDZr8LvkEVlq3B,https://kworb.net/spotify/track/1ahVFh0ViDZr8LvkEVlq3B.html,https://open.spotify.com/track/1ahVFh0ViDZr8LvkEVlq3B
-Bonnie Raitt,*The Feeling,True,6W9qtw3ddhkYznaOxB50p8,https://kworb.net/spotify/track/6W9qtw3ddhkYznaOxB50p8.html,https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8
-Bonnie Raitt,*Home (feat. Bonn),True,4aTtHoSBB0CuQGA6vXBNyp,https://kworb.net/spotify/track/4aTtHoSBB0CuQGA6vXBNyp.html,https://open.spotify.com/track/4aTtHoSBB0CuQGA6vXBNyp
-Bonnie Raitt,*Freak (feat. Bonn),True,6NVjujGb9fnl25fjzm5dTy,https://kworb.net/spotify/track/6NVjujGb9fnl25fjzm5dTy.html,https://open.spotify.com/track/6NVjujGb9fnl25fjzm5dTy
-Bonnie Raitt,*Ain't A Thing (feat. Bonn),True,3MhNgzZwFtUF6jSr6pRSkW,https://kworb.net/spotify/track/3MhNgzZwFtUF6jSr6pRSkW.html,https://open.spotify.com/track/3MhNgzZwFtUF6jSr6pRSkW
-Bonnie Raitt,*No Sleep (feat. Bonn) - DubVision Remix,True,0mV5JWhyUFANd9qpwLkM8d,https://kworb.net/spotify/track/0mV5JWhyUFANd9qpwLkM8d.html,https://open.spotify.com/track/0mV5JWhyUFANd9qpwLkM8d
-Bonnie Raitt,*The Feeling - Lost Frequencies & Andromedik Deluxe Mix,True,3rFHJDslBgt9rHu8p22aFN,https://kworb.net/spotify/track/3rFHJDslBgt9rHu8p22aFN.html,https://open.spotify.com/track/3rFHJDslBgt9rHu8p22aFN
-Bonnie Raitt,*Hurricane,True,5RfVafaeEEiqC0Z3LsBaZw,https://kworb.net/spotify/track/5RfVafaeEEiqC0Z3LsBaZw.html,https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw
-Bonnie Raitt,*Hollow (feat. Bonn),False,7EdPWyTm6EtO5httz2Dcoa,https://kworb.net/spotify/track/7EdPWyTm6EtO5httz2Dcoa.html,https://open.spotify.com/track/7EdPWyTm6EtO5httz2Dcoa
-Bonnie Raitt,*ANTHEM,False,3cCfCaMqeAnTekr6sf2rX6,https://kworb.net/spotify/track/3cCfCaMqeAnTekr6sf2rX6.html,https://open.spotify.com/track/3cCfCaMqeAnTekr6sf2rX6
-Bonnie Raitt,*I Want You,False,59sRxIltnBLAWzaTeV05xd,https://kworb.net/spotify/track/59sRxIltnBLAWzaTeV05xd.html,https://open.spotify.com/track/59sRxIltnBLAWzaTeV05xd
-Bonnie Raitt,Spaceships,False,4tJqdygmsUz7wi8uhcUfFQ,https://kworb.net/spotify/track/4tJqdygmsUz7wi8uhcUfFQ.html,https://open.spotify.com/track/4tJqdygmsUz7wi8uhcUfFQ
-Bonnie Raitt,*Home (feat. Bonn) - Silque Remix,False,0JQBgYsrpJmmKN40ptiBPS,https://kworb.net/spotify/track/0JQBgYsrpJmmKN40ptiBPS.html,https://open.spotify.com/track/0JQBgYsrpJmmKN40ptiBPS
-Bonnie Raitt,*The Feeling - Doowy Remix,False,2zy0KhlfjiHCUfhJpL7il8,https://kworb.net/spotify/track/2zy0KhlfjiHCUfhJpL7il8.html,https://open.spotify.com/track/2zy0KhlfjiHCUfhJpL7il8
-Bonnie Raitt,*The Feeling - The Avener & Adam Trigger Remix,False,0ezHeSX63vdtvNatsEr47S,https://kworb.net/spotify/track/0ezHeSX63vdtvNatsEr47S.html,https://open.spotify.com/track/0ezHeSX63vdtvNatsEr47S
-Bonnie Raitt,*ANTHEM - Acoustic,False,0iS4eZ5VAPwDKNFbG29lOc,https://kworb.net/spotify/track/0iS4eZ5VAPwDKNFbG29lOc.html,https://open.spotify.com/track/0iS4eZ5VAPwDKNFbG29lOc
-Bonnie Raitt,*ANTHEM - R3HAB Remix,False,7wesgPdsK6VAajPGJFU9TG,https://kworb.net/spotify/track/7wesgPdsK6VAajPGJFU9TG.html,https://open.spotify.com/track/7wesgPdsK6VAajPGJFU9TG
+Artist,Song,ID,ArtistID,ValidLink,KworbLink,Spotify Link
+Bonnie Raitt,*High On Life (feat. Bonn),4ut5G4rgB1ClpMTMfjoIuy,7Io0XduXk7aOHFHA7sLru2,True,https://kworb.net/spotify/track/4ut5G4rgB1ClpMTMfjoIuy.html,https://open.spotify.com/track/4ut5G4rgB1ClpMTMfjoIuy
+Bonnie Raitt,*No Sleep (feat. Bonn),1ahVFh0ViDZr8LvkEVlq3B,7Io0XduXk7aOHFHA7sLru2,True,https://kworb.net/spotify/track/1ahVFh0ViDZr8LvkEVlq3B.html,https://open.spotify.com/track/1ahVFh0ViDZr8LvkEVlq3B
+Bonnie Raitt,*The Feeling,6W9qtw3ddhkYznaOxB50p8,7Io0XduXk7aOHFHA7sLru2,True,https://kworb.net/spotify/track/6W9qtw3ddhkYznaOxB50p8.html,https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8
+Bonnie Raitt,*Home (feat. Bonn),4aTtHoSBB0CuQGA6vXBNyp,7Io0XduXk7aOHFHA7sLru2,True,https://kworb.net/spotify/track/4aTtHoSBB0CuQGA6vXBNyp.html,https://open.spotify.com/track/4aTtHoSBB0CuQGA6vXBNyp
+Bonnie Raitt,*Freak (feat. Bonn),6NVjujGb9fnl25fjzm5dTy,7Io0XduXk7aOHFHA7sLru2,True,https://kworb.net/spotify/track/6NVjujGb9fnl25fjzm5dTy.html,https://open.spotify.com/track/6NVjujGb9fnl25fjzm5dTy
+Bonnie Raitt,*Ain't A Thing (feat. Bonn),3MhNgzZwFtUF6jSr6pRSkW,7Io0XduXk7aOHFHA7sLru2,True,https://kworb.net/spotify/track/3MhNgzZwFtUF6jSr6pRSkW.html,https://open.spotify.com/track/3MhNgzZwFtUF6jSr6pRSkW
+Bonnie Raitt,*No Sleep (feat. Bonn) - DubVision Remix,0mV5JWhyUFANd9qpwLkM8d,7Io0XduXk7aOHFHA7sLru2,True,https://kworb.net/spotify/track/0mV5JWhyUFANd9qpwLkM8d.html,https://open.spotify.com/track/0mV5JWhyUFANd9qpwLkM8d
+Bonnie Raitt,*The Feeling - Lost Frequencies & Andromedik Deluxe Mix,3rFHJDslBgt9rHu8p22aFN,7Io0XduXk7aOHFHA7sLru2,True,https://kworb.net/spotify/track/3rFHJDslBgt9rHu8p22aFN.html,https://open.spotify.com/track/3rFHJDslBgt9rHu8p22aFN
+Bonnie Raitt,*Hurricane,5RfVafaeEEiqC0Z3LsBaZw,7Io0XduXk7aOHFHA7sLru2,True,https://kworb.net/spotify/track/5RfVafaeEEiqC0Z3LsBaZw.html,https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw
+Bonnie Raitt,*Hollow (feat. Bonn),7EdPWyTm6EtO5httz2Dcoa,7Io0XduXk7aOHFHA7sLru2,False,https://kworb.net/spotify/track/7EdPWyTm6EtO5httz2Dcoa.html,https://open.spotify.com/track/7EdPWyTm6EtO5httz2Dcoa
+Bonnie Raitt,*ANTHEM,3cCfCaMqeAnTekr6sf2rX6,7Io0XduXk7aOHFHA7sLru2,False,https://kworb.net/spotify/track/3cCfCaMqeAnTekr6sf2rX6.html,https://open.spotify.com/track/3cCfCaMqeAnTekr6sf2rX6
+Bonnie Raitt,*I Want You,59sRxIltnBLAWzaTeV05xd,7Io0XduXk7aOHFHA7sLru2,False,https://kworb.net/spotify/track/59sRxIltnBLAWzaTeV05xd.html,https://open.spotify.com/track/59sRxIltnBLAWzaTeV05xd
+Bonnie Raitt,Spaceships,4tJqdygmsUz7wi8uhcUfFQ,7Io0XduXk7aOHFHA7sLru2,False,https://kworb.net/spotify/track/4tJqdygmsUz7wi8uhcUfFQ.html,https://open.spotify.com/track/4tJqdygmsUz7wi8uhcUfFQ
+Bonnie Raitt,*Home (feat. Bonn) - Silque Remix,0JQBgYsrpJmmKN40ptiBPS,7Io0XduXk7aOHFHA7sLru2,False,https://kworb.net/spotify/track/0JQBgYsrpJmmKN40ptiBPS.html,https://open.spotify.com/track/0JQBgYsrpJmmKN40ptiBPS
+Bonnie Raitt,*The Feeling - Doowy Remix,2zy0KhlfjiHCUfhJpL7il8,7Io0XduXk7aOHFHA7sLru2,False,https://kworb.net/spotify/track/2zy0KhlfjiHCUfhJpL7il8.html,https://open.spotify.com/track/2zy0KhlfjiHCUfhJpL7il8
+Bonnie Raitt,*The Feeling - The Avener & Adam Trigger Remix,0ezHeSX63vdtvNatsEr47S,7Io0XduXk7aOHFHA7sLru2,False,https://kworb.net/spotify/track/0ezHeSX63vdtvNatsEr47S.html,https://open.spotify.com/track/0ezHeSX63vdtvNatsEr47S
+Bonnie Raitt,*ANTHEM - Acoustic,0iS4eZ5VAPwDKNFbG29lOc,7Io0XduXk7aOHFHA7sLru2,False,https://kworb.net/spotify/track/0iS4eZ5VAPwDKNFbG29lOc.html,https://open.spotify.com/track/0iS4eZ5VAPwDKNFbG29lOc
+Bonnie Raitt,*ANTHEM - R3HAB Remix,7wesgPdsK6VAajPGJFU9TG,7Io0XduXk7aOHFHA7sLru2,False,https://kworb.net/spotify/track/7wesgPdsK6VAajPGJFU9TG.html,https://open.spotify.com/track/7wesgPdsK6VAajPGJFU9TG
