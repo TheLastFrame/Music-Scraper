@@ -8,10 +8,6 @@ from joblib import Parallel, delayed
 from io import StringIO
 
 #read in the breakup and christmas songs
-breakup = pd.read_csv('data/top_breakup_songs.csv')
-christmas = pd.read_csv('data/top_xmas_songs.csv')
-
-#read in the breakup and christmas songs
 breakup = pd.read_csv('data/top_breakup_songs_with_ids.csv')
 christmas = pd.read_csv('data/top_xmas_songs_with_ids.csv')
 
