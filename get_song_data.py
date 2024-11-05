@@ -44,4 +44,4 @@ for i in lists:
         # df.dropna(axis=1, how='all', inplace=True)
 
         os.makedirs('data/song_data', exist_ok=True)
-        df.to_csv(f'data/song_data/{song_id}_spotify_songs_sstats.csv', index=False)
+        df.to_csv(f'data/song_data/{song_id}_spotify_songs_stats.csv', index=False)
