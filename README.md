@@ -12,8 +12,8 @@ ToDos:
 - [x] check if weekly data usw is available for ID
     - check daily?
 - [x] download weather data
-- [ ] clean weekly data -> split into positions and streams
-- [ ] manual adding not matched songs to xmas and breakup list
+- [x] clean weekly data -> split into positions and streams
+- [x] manual adding not matched songs to xmas and breakup list
 - [ ] check other spotify dataset (charts.csv) from kaggle, maybe better?
 
 
