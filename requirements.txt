@@ -7,3 +7,4 @@ tqdm
 joblib
 matplotlib
 pycountry
+meteostat
