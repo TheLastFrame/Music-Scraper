@@ -68,7 +68,7 @@ wie is die verteilung zu den weihnachtsfeiertagen? % of chart streams
 
 1. [x] start of christmas songs in charts worldwide (wenn temp < ?)
     - [ ] all i want for christmas
-    - last christmas
+    - [ ] last christmas
 2. [x] start of christmas songs in charts by country mit weltkarte
     - [x] all i want for christmas
     - [ ] last christmas

@@ -10,7 +10,7 @@ df = pd.read_csv('data/daily_charts.csv')
 df['date'] = pd.to_datetime(df['date'])
 
 # Filter rows where the month is December
-# df = df[(df['date'].dt.month == 12) | (df['date'].dt.month == 11) | (df['date'].dt.month == 1)]
+df = df[(df['date'].dt.month == 12) | (df['date'].dt.month == 11) | (df['date'].dt.month == 1)]
 
 # Display the filtered DataFrame
 # print(december_df.head(5))

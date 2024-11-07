@@ -35,6 +35,11 @@ for i in lists:
             song_data_df = pd.read_csv(file_path)
             combined_df = pd.concat([combined_df, song_data_df], ignore_index=True)
 
+    combined_df['Date'] = combined_df['Date'].str.replace('/', '-')
+
+    # Sort by date
+    combined_df = combined_df.sort_values(by='Date')
+
     # Group by the 'Date' column and sum the values for each column
     grouped_df = combined_df.groupby('Date').sum().reset_index()
 

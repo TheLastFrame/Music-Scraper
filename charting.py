@@ -1,5 +1,6 @@
 #TODO: create a calendar week number per week instead of date, average the calendar week number for all years
 #%%
+import json
 import pandas as pd
 
 import matplotlib.pyplot as plt
@@ -21,11 +22,16 @@ xmas_songs_df['Date'] = xmas_songs_df['Date'].str.replace('/', '-')
 # Remove rows where the value of Date is 'Total' or 'Peak'
 xmas_songs_df = xmas_songs_df[~xmas_songs_df['Date'].isin(['Total', 'Peak'])]
 
+# Replace 0.0 in the 'Global' column with the sum of all other values in that row
+xmas_songs_df['Global'] = xmas_songs_df.apply(
+    lambda row: row.drop(['Date', 'Global']).sum() if row['Global'] == 0.0 else row['Global'], axis=1
+)
+
 # Convert the Date columns to datetime
 xmas_songs_df['Date'] = pd.to_datetime(xmas_songs_df['Date'])
 weather_data_df['time'] = pd.to_datetime(weather_data_df['time'])
 
-weather_data_df = weather_data_df[weather_data_df['Country'] == 'Austria']
+# weather_data_df = weather_data_df[weather_data_df['Country'] == 'Austria']
 
 # Group weather_data_df by time and create the required aggregations
 weather_data_df = weather_data_df.groupby(['time', 'calendar_week']).agg({
@@ -98,6 +104,11 @@ aggregated_df = merged_df.groupby('calendar_week').agg({
 aggergated_df_Q4 = aggregated_df[aggregated_df['calendar_week'] > 39]
 
 aggergated_df_Q4.to_csv(f'data/{PREFIX}aggregated_weekly_data_Q4.csv', index=False)
+data_dict = aggergated_df_Q4.where(pd.notnull(aggergated_df_Q4), None).to_dict('list') #doesn't really work
+
+# Save dictionary to JSON file
+with open(f'data/{PREFIX}aggregated_weekly_data_Q4.json', 'w') as f:
+    json.dump(data_dict, f)
 
 if SHOW_PLOTS:
     # Plot the aggregated data with two y-axes
@@ -119,7 +130,7 @@ if SHOW_PLOTS:
     ax2.tick_params(axis='y', labelcolor='tab:red')
 
     #S Add a vertical marker with a label
-    marker_week = 45  # Example week number for the marker
+    marker_week = 42  # Example week number for the marker
     ax1.axvline(x=marker_week, color='red', linestyle='--')
     ax1.text(marker_week, ax1.get_ylim()[1], 'Start of Christmas Songs', color='gray', ha='center', va='bottom')
 
@@ -141,6 +152,11 @@ aggregated_df['year'] = 'All Time Avg'
 final_df = pd.concat([merged_df, aggregated_df], ignore_index=True)
 
 final_df.to_csv(f'data/{PREFIX}charts_and_weather_weekly.csv', index=False)
+data_dict = final_df.to_dict('list')
+
+# Save dictionary to JSON file
+with open(f'data/{PREFIX}charts_and_weather_weekly.json', 'w') as f:
+    json.dump(data_dict, f)
 
 if SHOW_PLOTS:
     # Plot the data with two y-axes
