@@ -36,6 +36,12 @@ df.rename(columns=alpha2_to_alpha3, inplace=True)
 # Group by calendar week and average all columns
 df_avg = df.groupby('Calendar_Week').mean().round(0) #.astype(int)
 
+# Add rows for calendar week 1 and 53
+df_avg.loc[1] = df_avg.loc[1] + df_avg.loc[53]
+
+# Drop the row for calendar week 53
+df_avg = df_avg.drop(53)
+
 # Save the result to a new CSV file
 data_dict = df_avg.to_dict('list')
 if PREFIX == "":
