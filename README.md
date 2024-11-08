@@ -89,3 +89,7 @@ wie is die verteilung zu den weihnachtsfeiertagen? % of chart streams
 popularity csv - https://www.kaggle.com/datasets/pepepython/spotify-huge-database-daily-charts-over-3-years
 
 daily charts - https://www.kaggle.com/datasets/dhruvildave/spotify-charts
+
+## hosting
+
+https://lazy-nanette-fhstpdj-301b7336.koyeb.app/
